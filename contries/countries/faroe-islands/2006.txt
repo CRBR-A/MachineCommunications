@@ -1,0 +1,15 @@
+| Communications | Faroe Islands |
+| --- | --- |
+| Telephones - main lines in use: | 23,800 (2005) |
+| Telephones - mobile cellular: | 42,500 (2005) |
+| Telephone system: | general assessment: good international communications; good domestic facilities |
+| Telephone system: | domestic: digitalization was completed in 1998; both NMT (analog) and GSM (digital) mobile telephone systems are installed |
+| Telephone system: | international: country code - 298; satellite earth stations - 1 Orion; 1 fiber-optic submarine cable to the Shetland Islands, linking the Faroe Islands with Denmark and Iceland; fiber-optic submarine cable connection to Canada-Europe cable |
+| Radio broadcast stations: | AM 1, FM 13, shortwave 0 (1998) |
+| Radios: | 26,000 (1997) |
+| Television broadcast stations: | 3 (plus 43 low-power repeaters) (September 1995) |
+| Televisions: | 15,000 (1997) |
+| Internet country code: | .fo |
+| Internet hosts: | 6,915 (2006) |
+| Internet Service Providers (ISPs): | 2 (2000) |
+| Internet users: | 33,000 (2005) |

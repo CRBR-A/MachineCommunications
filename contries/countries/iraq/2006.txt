@@ -1,0 +1,15 @@
+| Communications | Iraq |
+| --- | --- |
+| Telephones - main lines in use: | 1,034,200 (2004) |
+| Telephones - mobile cellular: | 574,000 (2004) |
+| Telephone system: | general assessment: the 2003 war severely disrupted telecommunications throughout Iraq including international connections; USAID is overseeing the repair of switching capability and the construction of mobile and satellite communication facilities |
+| Telephone system: | domestic: repairs to switches and lines destroyed during the 2003 war continue, but sabotage remains a problem; additional switching capacity is improving access; cellular service is available and centered on three regional GSM networks, improving country-wide connectivity |
+| Telephone system: | international: country code - 964; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), 1 Intersputnik (Atlantic Ocean region), and 1 Arabsat (inoperative); coaxial cable and microwave radio relay to Jordan, Kuwait, Syria, and Turkey; despite a new satellite gateway, international calls outside of Baghdad remain problematic |
+| Radio broadcast stations: | after 17 months of unregulated media growth, there are approximately 80 radio stations on the air inside Iraq (2004) |
+| Radios: | 4.85 million (1997) |
+| Television broadcast stations: | 21 (2004) |
+| Televisions: | 1.75 million (1997) |
+| Internet country code: | .iq |
+| Internet hosts: | 5 (2006) |
+| Internet Service Providers (ISPs): | 1 (2000) |
+| Internet users: | 36,000 (2005) |

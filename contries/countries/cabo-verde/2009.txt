@@ -1,0 +1,12 @@
+| Communications | Cape Verde |
+| --- | --- |
+| Telephones - main lines in use: | 72,000 (2008) |
+| Telephones - mobile cellular: | 277,700 (2008) |
+| Telephone system: | general assessment: effective system, extensive modernization from 1996-2000 following partial privatization in 1995 |
+| Telephone system: | domestic: major service provider is Cabo Verde Telecom (CVT); fiber-optic ring, completed in 2001, links all islands providing Internet access and ISDN services; cellular service introduced in 1998; broadband services launched in 2004 |
+| Telephone system: | international: country code - 238; landing point for the Atlantis-2 fiber-optic transatlantic telephone cable that provides links to South America, Senegal, and Europe; HF radiotelephone to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2007) |
+| Radio broadcast stations: | AM 0, FM 22 (plus 12 repeaters), shortwave 0 (2001) |
+| Television broadcast stations: | 1 (plus 7 repeaters) (2001) |
+| Internet country code: | .cv |
+| Internet hosts: | 24 (2009) |
+| Internet users: | 102,800 (2008) |

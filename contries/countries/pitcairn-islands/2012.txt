@@ -1,0 +1,7 @@
+| Communications | Pitcairn Islands |
+| --- | --- |
+| Telephone system: | general assessment: satellite phone services |
+| Telephone system: | domestic: domestic communication via radio (CB) |
+| Telephone system: | international: country code - 872; satellite earth station - 1 (Inmarsat) |
+| Internet country code: | .pn |
+| Internet hosts: | 26 (2012) |

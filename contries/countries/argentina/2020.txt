@@ -1,0 +1,16 @@
+| Communications | Argentina |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 7,791,464 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 17.28 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 59,008,618 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 130.87 (2019 est.) |
+| Telecommunication systems: | general assessment: one of the highest broadband penetrations in Latin America, supported by operator investment and govt. programs aimed at expansion; govt. provides 20 million euros for two 5G trials, Chinese company Huawei conducts 5G trials; major networks are entirely digital and the availability of telephone service continues to improve to rural areas; Argentinians' own multiple SIM cards for work and personal use; even with numerous providers there is a lack of competition for broadband and mobile services; still Argentina is the 3rd largest in the region after Brazil and Mexico (2020) |
+| Telecommunication systems: | domestic: 17 per 100 fixed-line, 131 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2019) |
+| Telecommunication systems: | international: country code - 54; landing points for the UNISUR, Bicentenario,Â Atlantis-2, SAm-1, andÂ SAC, Tannat, Malbec and ARBRÂ submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | government owns a TV station and radio network; more than 2 dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage |
+| Internet country code: | .ar |
+| Internet users: | total: 33,203,320 |
+| Internet users: | percent of population: 74.29% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 8,473,655 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 19 (2018 est.) |

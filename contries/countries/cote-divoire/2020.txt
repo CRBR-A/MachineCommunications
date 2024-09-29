@@ -1,0 +1,16 @@
+| Communications | Cote d'Ivoire |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 284,799 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1.06 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 39,049,743 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 145.34 (2019 est.) |
+| Telecommunication systems: | general assessment: strongest sector in the overall market is the mobile sector; fixed internet and broadband sectors have remained underdeveloped;Â country 90% digitalized; CÃ´te d'Ivoire continues to benefit from strong economic growth;Â progress has been made in building out the national backbone network and connecting in 2019Â to the MainOne submarine cable;Â this developmentÂ puts the country in a better position to develop its broadband market andÂ work on itsÂ digital economy; government further tightens SIM card registration rules (2020) |
+| Telecommunication systems: | domestic: less than 1 per 100 fixed-line, with multiple mobile-cellular service providers competing in the market, usage has increased to about 145 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 225; landing point for the SAT-3/WASC, ACE, MainOne, and WACSÂ fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up ofÂ 2 radios stations (Radio Cote d'Ivoire and Frequence2) andÂ 2 television stations (RTI1 and RTI2), with nationwide coverage, broadcasts mainly in French; after 2011 post-electoral crisis, President OUATTARA's administration reopened RTI Bouake', the broadcaster'sÂ office in Cote d'Ivoire's 2nd largest city, where facilities were destroyed during the 2002 rebellion; Cote d'Ivoire is also home to 178 proximity radios stations, 16 religious radios stations, 5 commercial radios stations, and 5 international radios stations, according to the Haute Autorite' de la Communication Audiovisuelle (HACA); govt now runs radio UNOCIFM, a radio station previously owned by the UN Operation in Cote d'Ivoire; in Dec 2016, the govt announced 4 companies had been granted licenses to operate -Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI, out of the 4 companies only one has started operating (2019) |
+| Internet country code: | .ci |
+| Internet users: | total: 12,295,204 |
+| Internet users: | percent of population: 46.82% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 175,918 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2018 est.) |

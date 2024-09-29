@@ -1,0 +1,11 @@
+| Communications | Fiji |
+| --- | --- |
+| Telephones - main lines in use: | 129,800 (2011) |
+| Telephones - mobile cellular: | 727,000 (2011) |
+| Telephone system: | general assessment: modern local, interisland, and international (wire/radio integrated) public and special-purpose telephone, telegraph, and teleprinter facilities; regional radio communications center |
+| Telephone system: | domestic: telephone or radio telephone links to almost all inhabited islands; most towns and large villages have automatic telephone exchanges and direct dialing; combined fixed and mobile-cellular teledensity roughly 100 per 100 persons |
+| Telephone system: | international: country code - 679; access to important cable links between US and Canada as well as between NZ and Australia; satellite earth stations - 2 Inmarsat (Pacific Ocean) |
+| Broadcast media: | Fiji TV, a publicly-traded company, operates a free-to-air channel as well as Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available (2009) |
+| Internet country code: | .fj |
+| Internet hosts: | 21,739 (2012) |
+| Internet users: | 114,200 (2009) |

@@ -1,0 +1,14 @@
+| Communications | Russia |
+| --- | --- |
+| Telephones - main lines in use: | 30 million (1998) |
+| Telephones - mobile cellular: | 19 million (January 2003) |
+| Telephone system: | general assessment: the telephone system has undergone significant changes in the 1990s; there are more than 1,000 companies licensed to offer communication services; access to digital lines has improved, particularly in urban centers; Internet and e-mail services are improving; Russia has made progress toward building the telecommunications infrastructure necessary for a market economy; however, a large demand for main line service remains unsatisfied |
+| Telephone system: | domestic: cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, the telephone services are still outdated, inadequate, and low density |
+| Telephone system: | international: Russia is connected internationally by three undersea fiber-optic cables; digital switches in several cities provide more than 50,000 lines for international calls; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems |
+| Radio broadcast stations: | AM 420, FM 447, shortwave 56 (1998) |
+| Radios: | 61.5 million (1997) |
+| Television broadcast stations: | 7,306 (1998) |
+| Televisions: | 60.5 million (1997) |
+| Internet country code: | .ru; Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union, its legal status and ownership are contested by the Russian Government, ICANN, and several Russian commercial entities |
+| Internet Service Providers (ISPs): | 300 (June 2000) |
+| Internet users: | 18 million (2002) |

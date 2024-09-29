@@ -1,0 +1,17 @@
+| Communications | Spain |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 21,065,700 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 42.4 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 58,750,448 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 118.25 (2019 est.) |
+| Telecommunication systems: | general assessment: well-developed, one of the largest telecom markets inÂ Europe, average mobile penetrationÂ for Europe;Â LTE universal; launch of 5G services; regulator hasÂ championed competition; Chinese company Huawei contributes to the telecom sector; fiber broadband accounts for 62% of all fixed-line broadband connections (2020) |
+| Telecommunication systems: | domestic: fixed-line 42 per 100 and mobile-cellular 118 telephones per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 34; landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FEA, Balalink, ORVAL and PENBAL-5 submarine cables providing connectivity to Europe, theÂ Middle East, Africa,Â South America,Â Asia, Southeast AsiaÂ and theÂ US; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to adjacent countries (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | a mixture of both publicly operated and privately owned TV and radio stations; overall, hundreds of TV channels are available including national, regional, local, public, and international channels; satellite and cable TV systems available; multiple national radio networks, a large number of regional radio networks, and a larger number of local radio stations; overall, hundreds of radio stationsÂ  |
+| Broadcast media: | (2019) |
+| Internet country code: | .es |
+| Internet users: | total: 42,478,990 |
+| Internet users: | percent of population: 86.11% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 15,176,954 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 31 (2018 est.) |

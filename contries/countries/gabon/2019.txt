@@ -1,0 +1,15 @@
+| Communications | Gabon |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 21,235 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 2,663,243 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 150 (2017 est.) |
+| Telephone system: | general assessment: adequate system of cable, microwave radio relay, tropospheric scatter, radiotelephone communication stations, and a domestic satellite system with 12 earth stations; competition among telecoms, independent regulatory authority and reduction in costÂ  connecting makes for strong telecommunications (2018) |
+| Telephone system: | domestic: fiixed-line is 1 per 100 subscriptions; a growing mobile cellular network with multiple providers is making telephone service more widely available with mobile cellular teledensityÂ at 150 per 100 persons (2018) |
+| Telephone system: | international: country code - 241; landing point for the SAT-3/WASC, ACE and Libreville-Port Gentil CableÂ fiber-optic submarine cable that provides connectivity to Europe and West Africa; satellite earth stations - 3 Intelsat (Atlantic Ocean) (2019) |
+| Broadcast media: | state owns and operates 2 TV stations and 2 radio broadcast stations; a few private radio and TV stations; transmissions of at least 2 international broadcasters are accessible; satellite service subscriptions are available |
+| Internet country code: | .ga |
+| Internet users: | total: 835,408 |
+| Internet users: | percent of population: 48.1% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 14,967 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2017 est.) |

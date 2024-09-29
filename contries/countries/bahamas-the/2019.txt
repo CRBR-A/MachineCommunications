@@ -1,0 +1,15 @@
+| Communications | Bahamas, The |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 113,852 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 35 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 353,540 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 107 (2017 est.) |
+| Telephone system: | general assessment: modern facilities; Â the telecom sector provides a relatively high contribution to overall GDP; activation ofÂ Mobile Number Portability (MNP) in April 2017, allowing mobile subscribers to port their numbers betweenÂ competing MNO (mobile network operators) (2018) |
+| Telephone system: | domestic: totally automatic system; highly developed; operators focus investment on mobile networks;Â 30 per 100 fixed-line,Â 93 per 100 mobile-cellular (2018) |
+| Telephone system: | international: country code - 1-242; landing points for the ARCOS-1, BICS, Bahamas 2-US, and BDSN fiber-optic submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2; the Bahamas Domestic Submarine Network links all of the major islands; (2019) |
+| Broadcast media: | The Bahamas has 4 major TV providers that provide service to all major islands in the archipelago; 1 TV station is operated by government-owned, commercially run Broadcasting Corporation of the Bahamas (BCB) and competes freely withÂ 4 privately owned TV stations; multi-channel cable TV subscription service is widely available; there are 32 licensed broadcast (radio) service providers,Â 31 are privately owned FM radio stations operating on New Providence, Grand Bahama Island, Abaco Island, and on smaller islands in the country; the BCB operates a multi-channel radio broadcasting network that has national coverage; the sector is regulated by the Utilities Regulation and Competition Authority (2019) |
+| Internet country code: | .bs |
+| Internet users: | total: 261,853 |
+| Internet users: | percent of population: 80% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 86,868 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 26 (2017 est.) |

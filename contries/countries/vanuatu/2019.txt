@@ -1,0 +1,15 @@
+| Communications | Vanuatu |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 3,499 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 228,016 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 81 (2017 est.) |
+| Telephone system: | general assessment: telecom services have progressed significantly in recent years; mobile phones are now the primary means of communication and more than 92% of the population is covered by a mobile network; 2016 saw the launch of LTE services and the introduction of rural satellite broadband services; mobile phone use in some rural areas is constrained by electricity shortages; investment in fixed broadband saw recent growth with fiber-optic cables; mobile broadband infrastructure also expanded with aÂ reduction in prices; general broadband penetration isÂ at 45% (2018) |
+| Telephone system: | domestic: fixed-line 1 per 100 and mobile-cellular 81 per 100 (2018) |
+| Telephone system: | international: country code - 678; satellite earth station - 1 Intelsat (Pacific Ocean); 1CN1 submarine cable which resulted in reduction of broadband pricing |
+| Broadcast media: | 1 state-owned TV station; multi-channel pay TV is available; state-owned Radio Vanuatu operates 2 radio stations; 2 privately owned radio broadcasters; programming from multiple international broadcasters is available |
+| Internet country code: | .vu |
+| Internet users: | total: 66,613 |
+| Internet users: | percent of population: 24% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 5,841 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 2 (2017 est.) |

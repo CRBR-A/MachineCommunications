@@ -1,0 +1,6 @@
+| Communications | Johnston Atoll |
+| --- | --- |
+| Telephone system: | general assessment: NA |
+| Telephone system: | domestic: 512 KB satellite link to Hawaii teleport; 20 (POTS) voice and data lines |
+| Telephone system: | international: NA (2002) |
+| Internet Service Providers (ISPs): | 1 256 KB circuit to US Department of Defense-run Nonsecure Internet Protocol Router Network (NIPRNET) (2002) |

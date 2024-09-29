@@ -1,0 +1,11 @@
+| Communications | Iran |
+| --- | --- |
+| Telephones - main lines in use: | 26.849 million (2010) |
+| Telephones - mobile cellular: | 67.5 million (2010) |
+| Telephone system: | general assessment: currently being modernized and expanded with the goal of not only improving the efficiency and increasing the volume of the urban service but also bringing telephone service to several thousand villages, not presently connected |
+| Telephone system: | domestic: the addition of new fiber cables and modern switching and exchange systems installed by Iran's state-owned telecom company have improved and expanded the fixed-line network greatly; fixed-line availability has more than doubled to nearly 26 million lines since 2000; additionally, mobile-cellular service has increased dramatically serving more than 50 million subscribers in 2009; combined fixed and mobile-cellular subscribership now exceeds 100 per 100 persons |
+| Telephone system: | international: country code - 98; submarine fiber-optic cable to UAE with access to Fiber-Optic Link Around the Globe (FLAG); Trans-Asia-Europe (TAE) fiber-optic line runs from Azerbaijan through the northern portion of Iran to Turkmenistan with expansion to Georgia and Azerbaijan; HF radio and microwave radio relay to Turkey, Azerbaijan, Pakistan, Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan; satellite earth stations - 13 (9 Intelsat and 4 Inmarsat) (2009) |
+| Broadcast media: | state-run broadcast media with no private, independent broadcasters; Islamic Republic of Iran Broadcasting (IRIB), the state-run TV broadcaster, operates 5 nationwide channels, a news channel, about 30 provincial channels, and several international channels; about 20 foreign Persian-language TV stations broadcasting on satellite TV are capable of being seen in Iran; satellite dishes are illegal and, while their use had been tolerated, authorities began confiscating satellite dishes following the unrest stemming from the 2009 presidential election; IRIB operates 8 nationwide radio networks, a number of provincial stations, and an external service; most major international broadcasters transmit to Iran (2009) |
+| Internet country code: | .ir |
+| Internet hosts: | 119,947 (2010) |
+| Internet users: | 8.214 million (2009) |

@@ -1,0 +1,12 @@
+| Communications |   |
+| --- | --- |
+| Telephones - main lines in use: | 127,000 (1998) |
+| Telephones - mobile cellular: | 30,000 (1999) |
+| Telephone system: | fair system operating below capacity and being modernized for better service; VSAT (very small aperature terminal) system under construction |
+| domestic: | trunk service provided by open wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital |
+| international: | satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) |
+| Radio broadcast stations: | AM 12, FM 11, shortwave 2 (1998) |
+| Radios: | 8.8 million (1997) |
+| Television broadcast stations: | 3 (1999) |
+| Televisions: | 103,000 (1997) |
+| Internet Service Providers (ISPs): | 7 (1999) |

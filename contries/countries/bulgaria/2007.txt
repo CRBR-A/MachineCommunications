@@ -1,0 +1,15 @@
+| Communications | Bulgaria |
+| --- | --- |
+| Telephones - main lines in use: | 2.399 million (2006) |
+| Telephones - mobile cellular: | 8.253 million (2006) |
+| Telephone system: | general assessment: an extensive but antiquated telecommunications network inherited from the Soviet era; quality has improved; the Bulgaria Telecommunications Company's fixed-line monopoly terminated in 2005 when alternative fixed-line operators were given access to its network; a drop in fixed-line connections in recent years has been offset by a sharp increase in mobile-cellular telephone use fostered by multiple service providers |
+| Telephone system: | domestic: a fairly modern digital cable trunk line now connects switching centers in most of the regions; the others are connected by digital microwave radio relay |
+| Telephone system: | international: country code - 359; submarine cable provides connectivity to Ukraine and Russia; a combination submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia; satellite earth stations - 1 Intersputnik (Atlantic Ocean region); 2 Intelsat (Atlantic and Indian Ocean regions) (2007) |
+| Radio broadcast stations: | AM 31, FM 63, shortwave 2 (2001) |
+| Radios: | 4.51 million (1997) |
+| Television broadcast stations: | 39 (plus 1,242 repeaters) (2001) |
+| Televisions: | 3.31 million (1997) |
+| Internet country code: | .bg |
+| Internet hosts: | 298,781 (2007) |
+| Internet Service Providers (ISPs): | 200 (2001) |
+| Internet users: | 1.87 million (2006) |

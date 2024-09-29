@@ -1,0 +1,17 @@
+| Communications | Guinea |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 0 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |
+| Telephones - mobile cellular: | total subscriptions: 12,283,911 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 100.8 (2019 est.) |
+| Telecommunication systems: | general assessment: huge improvement over the last ten years; in May 2019, 4G Wi-Fi was launched in the capital; the regional administrative centers all have 3G access; the 2018 set up of an IXP (Internet Exchange Point)Â reduced the cost of Internet bandwidth and improved infrastructure; a National Backbone Network is nearing completion to connect administrative centers (2020) |
+| Telecommunication systems: | domestic: there is national coverage and Conakry is reasonably well-served; coverage elsewhere remains inadequate but is improving; fixed-line teledensity isÂ less than 1 per 100 persons; mobile-cellular subscribership is expanding rapidly and nowÂ 101 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 224; ACE submarine cable connecting Guinea with 20 landing points in Western and South Africa and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | government maintains marginal control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a dozen private television stations; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription servicesÂ  |
+| Broadcast media: | (2019) |
+| Internet country code: | .gn |
+| Internet users: | total: 2,133,974 |
+| Internet users: | percent of population: 18% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 1,213 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

@@ -1,0 +1,11 @@
+| Communications | South Africa |
+| --- | --- |
+| Telephones - main lines in use: | 4.225 million (2010) |
+| Telephones - mobile cellular: | 50.372 million (2010) |
+| Telephone system: | general assessment: the system is the best developed and most modern in Africa |
+| Telephone system: | domestic: combined fixed-line and mobile-cellular teledensity roughly 105 telephones per 100 persons; consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria |
+| Telephone system: | international: country code - 27; the SAT-3/WASC and SAFE fiber optic cable systems connect South Africa to Europe and Asia; satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) |
+| Broadcast media: | the South African Broadcasting Corporation (SABC) operates 4 TV stations, 3 are free-to-air and 1 is pay TV; e.tv, a private station, is accessible to more than half the population; multiple subscription TV services provide a mix of local and international channels; well developed mix of public and private radio stations at the national, regional, and local levels; the SABC radio network, state-owned and controlled but nominally independent, operates 18 stations, one for each of the 11 official languages, 4 community stations, and 3 commercial stations; more than 100 community-based stations extend coverage to rural areas (2007) |
+| Internet country code: | .za |
+| Internet hosts: | 3.751 million (2010) |
+| Internet users: | 4.42 million (2009) |

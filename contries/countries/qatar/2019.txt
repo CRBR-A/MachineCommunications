@@ -1,0 +1,15 @@
+| Communications | Qatar |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 440,909 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 19 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 3,913,809 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 169 (2017 est.) |
+| Telephone system: | general assessment: modern system centered in Doha; notable efforts to deploy 5G wireless technology; steady LTE networks; one of the most connected markets in the Middle East with broadband penetration; ADSL, Fibre-to-the-Home (FttP), wireless and mobile services (2018) |
+| Telephone system: | domestic: fixed-line 19 per 100 Â and mobile-cellular telephone subscribershipÂ 169 telephones per 100 persons (2018) |
+| Telephone system: | international: country code - 974; landing points for theÂ Qatar-UAE SubmarineÂ CableÂ System, AAE-1, FOG, GBICS/East North Africa MENA and the FALCON submarine cable network that provides links to Asia, Africa, the Middle East, Europe and Southeast Asia; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and the UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat; retains full ownership of two commercial satellites, Es'hailSat 1 and 2 (2019) |
+| Broadcast media: | TV and radio broadcast licensing and access to local media markets are state controlled; home of the satellite TV channel Al-Jazeera, which was originally owned and financed by the Qatari government but has evolved to independent corporate status; Al-Jazeera claims editorial independence in broadcasting; local radio transmissions include state, private, and international broadcasters on FM frequencies in Doha; in August 2013, Qatar's satellite company Es'hailSat launched its first communications satellite Es'hail 1 (manufactured in the US), which entered commercial service in December 2013 to provide improved television broadcasting capability and expand availability of voice and Internet; Es'hailSat launched its second commercial satellite in 2018 with aid of SpaceX (2019) |
+| Internet country code: | .qa |
+| Internet users: | total: 2,129,360 |
+| Internet users: | percent of population: 94.3% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 256,094 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 11 (2017 est.) |

@@ -1,0 +1,15 @@
+| Communications | Iran |
+| --- | --- |
+| Telephones - main lines in use: | 14,571,100 (2003) |
+| Telephones - mobile cellular: | 3,376,500 (2003) |
+| Telephone system: | general assessment: inadequate but currently being modernized and expanded with the goal of not only improving the efficiency and increasing the volume of the urban service but also bringing telephone service to several thousand villages, not presently connected |
+| Telephone system: | domestic: as a result of heavy investing in the telephone system since 1994, the number of long-distance channels in the microwave radio relay trunk has grown substantially; many villages have been brought into the net; the number of main lines in the urban systems has approximately doubled; and thousands of mobile cellular subscribers are being served; moreover, the technical level of the system has been raised by the installation of thousands of digital switches |
+| Telephone system: | international: country code - 98; HF radio and microwave radio relay to Turkey, Azerbaijan, Pakistan, Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan; submarine fiber-optic cable to UAE with access to Fiber-Optic Link Around the Globe (FLAG); Trans-Asia-Europe (TAE) fiber-optic line runs from Azerbaijan through the northern portion of Iran to Turkmenistan with expansion to Georgia and Azerbaijan; satellite earth stations - 9 Intelsat and 4 Inmarsat |
+| Radio broadcast stations: | AM 72, FM 5, shortwave 5 (1998) |
+| Radios: | 17 million (1997) |
+| Television broadcast stations: | 28 (plus 450 low-power repeaters) (1997) |
+| Televisions: | 4.61 million (1997) |
+| Internet country code: | .ir |
+| Internet hosts: | 5,269 (2004) |
+| Internet Service Providers (ISPs): | 100 (2002) |
+| Internet users: | 4.3 million (2003) |

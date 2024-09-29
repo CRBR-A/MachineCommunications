@@ -1,0 +1,15 @@
+| Communications | Vietnam |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 4,526,077 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 5 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 120,016,181 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 125 (2017 est.) |
+| Telephone system: | general assessment: Vietnam is putting considerable effort into modernization and expansion of its telecommunication system; competition is thriving in the market place; mobile dominates over fixed-line; FttH market growing, as is e-commerce; govt driving force for growth; data sovereignty is a key driver for localÂ centers; 4G licenses awarded to 5 major operators; Ho Chi Minh City to become the first smart city in Vietnam with cloud computing infrastructure, big data, data centers and security-monitoring centers (2018) |
+| Telephone system: | domestic: all provincial exchanges are digitalized and connected to Hanoi, Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave radio relay networks; main lines have been increased, and the use of mobile telephones is growing rapidly; fixed-line 5 per 100 and mobile-cellular 125 per 100 (2018) |
+| Telephone system: | international: country code - 84; a landing point for the SEA-ME-WE-3, the C2C, and Thailand-Vietnam-Hong Kong submarine cable systems; the Asia-America Gateway submarine cable system, completed in 2009, provided new access links to Asia and the US; satellite earth stations - 2 Intersputnik (Indian Ocean region); VNPT cable landing station for the Southeast Asia-Japan Cable 2 (SJC2) in Quy Nhon, cable system connects to 11 landing sites: Singapore, Thailand, Cambodia, Vietnam, Hong Kong, Taiwan, mainland China, Korea and Japan |
+| Broadcast media: | government controls all broadcast media exercising oversight through the Ministry of Information and Communication (MIC); government-controlled national TV provider, Vietnam Television (VTV), operates a network of several channels with regional broadcasting centers; programming is relayed nationwide via a network of provincial and municipal TV stations; law limits access to satellite TV but many households are able to access foreign programming via home satellite equipment; government-controlled Voice of Vietnam, the national radio broadcaster, broadcasts on several channels and is repeated on AM, FM, and shortwave stations throughout Vietnam (2018) |
+| Internet country code: | .vn |
+| Internet users: | total: 49.741 million |
+| Internet users: | percent of population: 52.7% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 11,269,936 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 12 (2017 est.) |

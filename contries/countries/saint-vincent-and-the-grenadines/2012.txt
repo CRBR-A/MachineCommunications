@@ -1,0 +1,11 @@
+| Communications | Saint Vincent and the Grenadines |
+| --- | --- |
+| Telephones - main lines in use: | 22,700 (2011) |
+| Telephones - mobile cellular: | 131,800 (2011) |
+| Telephone system: | general assessment: adequate islandwide, fully automatic telephone system |
+| Telephone system: | domestic: fixed-line teledensity exceeds 20 per 100 persons and mobile-cellular teledensity exceeds 125 per 100 persons |
+| Telephone system: | international: country code - 1-784; the East Caribbean Fiber Optic System (ECFS) and Southern Caribbean fiber optic system (SCF) submarine cables carry international calls; connectivity also provided by VHF/UHF radiotelephone from Saint Vincent to Barbados; SHF radiotelephone to Grenada and Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia |
+| Broadcast media: | St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station and 5 repeater stations that provide near total coverage to the multi-island state; multi-channel cable TV service available; a partially government-funded national radio service broadcasts on 1 station and has 2 repeater stations; about a dozen privately-owned radio stations and repeater stations (2007) |
+| Internet country code: | .vc |
+| Internet hosts: | 305 (2012) |
+| Internet users: | 76,000 (2009) |

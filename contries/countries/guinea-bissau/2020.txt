@@ -1,0 +1,16 @@
+| Communications | Guinea-Bissau |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 0 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,555,961 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 82.79 (2019 est.) |
+| Telecommunication systems: | general assessment: small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications;Â 2 mobile network operators; one of the poorest countries in the world and this is reflected in the countries telecommunications development; radio is the most important source of information for the public (2020) |
+| Telecommunication systems: | domestic: fixed-line teledensity less than 1 per 100 persons; mobile cellular teledensity is roughly 83 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 245; ACE submarine cable connecting Guinea-Bissau with 20 landing points in Western and South Africa and Europe (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 1 state-owned TV station, Televisao da Guine-Bissau (TGB) and a second station, Radio e Televisao de Portugal (RTP) Africa, is operated by Portuguese public broadcaster (RTP); 1 state-owned radio station, several private radio stations, and some community radio stations; multiple international broadcasters are available (2019) |
+| Internet country code: | .gw |
+| Internet users: | total: 72,047 |
+| Internet users: | percent of population: 3.93% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 1,204 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

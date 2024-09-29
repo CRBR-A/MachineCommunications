@@ -1,0 +1,16 @@
+| Communications | Sri Lanka |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 2,641,982 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 11.62 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 26,160,623 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 115.06 (2019 est.) |
+| Telecommunication systems: | general assessment: telephone services have improved significantly; strong growthÂ anticipated as Sri Lanka isÂ lagging behindÂ otherÂ Asian telecoms; increase in mobile broadband penetration; govt. funds telecom sector to expand fiber and LTE networks and growing investment in 5G services (2020) |
+| Telecommunication systems: | domestic: fixed-line 12 per 100 and mobile-cellular 115 per 100; national trunk network consists of digital microwave radio relay and fiber-optic links; fixed wireless local loops have been installed; competition is strong in mobile cellular systems and mobile cellular subscribership is increasing (2019) |
+| Telecommunication systems: | international: country code - 94; landing points for the SeaMeWe -3,-5,Â Â Dhiraagu-SLT Submarine Cable Network, WARF SubmarineÂ Cable, Bharat Lanka Cable SystemÂ and the Bay of Bengal Gateway submarine cables providing connectivity to Asia, Africa, Southeast Asia, Australia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | government operates 5 TV channels and 19 radio channels; multi-channel satellite and cable TV subscription services available; 25 private TV stations and about 43 radio stations; 6 non-profit TV stations and 4 radio stations |
+| Internet country code: | .lk |
+| Internet users: | total: 7,700,876 |
+| Internet users: | percent of population: 34.11% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 1,544,313 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 7 (2018 est.) |

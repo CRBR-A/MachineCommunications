@@ -1,0 +1,13 @@
+| Communications | UGANDA |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 368,243 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (July 2016 est.) |
+| Telephones - mobile cellular: | total: 22,838,486 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 60 (July 2016 est.) |
+| Telephone system: | general assessment: mobile cellular service is increasing rapidly, but the number of main lines is still deficient; work underway on a national backbone information and communications technology infrastructure; international phone networks and Internet connectivity provided through satellite and fiber-optic cables through Kenya and the Indian Ocean |
+| Telephone system: | domestic: intercity traffic by wire, microwave radio relay, and radiotelephone communication stations, fixed-line and mobile-cellular systems for short-range traffic; mobile-cellular teledensity about 60 per 100 persons |
+| Telephone system: | international: country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog and digital links to Kenya and Tanzania (2016) |
+| Broadcast media: | public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV networks; Uganda first began licensing privately owned stations in the 1990s; by 2007, there were nearly 150 radio and 35 TV stations, mostly based in and around Kampala; transmissions of multiple international broadcasters are available in Kampala (2007) |
+| Internet country code: | .ug |
+| Internet users: | total: 8,382,782 |
+| Internet users: | percent of population: 21.9% (July 2016 est.) |

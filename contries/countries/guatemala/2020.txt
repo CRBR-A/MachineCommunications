@@ -1,0 +1,16 @@
+| Communications | Guatemala |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 1,894,179 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 11.23 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 20,026,347 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 118.73 (2019 est.) |
+| Telecommunication systems: | general assessment: network centered in the city of Guatemala; one of the lowest teledensities in the region especially in the country, rural areas have no fixed-line access so mobile services adopted as necessary; state-owned telecommunications company privatized in the late 1990s opened the way for competition; steady improvement of fixed-line which has also spurred growth in mobile-cellular and broadband; open regulatory framework coupled withÂ competition and greater disposable household revenue spurs growth (2020) |
+| Telecommunication systems: | domestic: fixed-line teledensity roughly 11 per 100 persons; fixed-line investments are concentrating on improving rural connectivity; mobile-cellular teledensity about 119 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 502; landing points forÂ the ARCOS, AMX-1, American Movil-TexiusÂ West Coast Cable and the SAm-1 fiber-optic submarine cable system that, together, provide connectivity to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 4 privately owned national terrestrial TV channels dominate TV broadcasting; multi-channel satellite and cable services are available; 1 government-owned radio station and hundreds of privately owned radio stations (2019) |
+| Internet country code: | .gt |
+| Internet users: | total: 10,777,827 |
+| Internet users: | percent of population: 65% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 506,000 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 3 (2017 est.) |

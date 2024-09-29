@@ -1,0 +1,16 @@
+| Communications | World |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 984,289,950 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 7,806,142,681 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 105 (2017 est.) |
+| Internet users: | total: 3,174,000,000 (2018 est.) |
+| Internet users: | percent of population: 43% |
+| Internet users: | top ten countries by Internet usage (in millions): 730.7 China; 374.3 India; 246.8 United States; 122.8 Brazil; 116.6 Japan; 108.8 Russia; 73.3 Mexico; 72.3 Germany; 65.5 Indonesia; 61 United Kingdom |
+| Broadband - fixed subscriptions: | total: 1,002,793,951 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 14 (2017) |
+| Communications - note: | three major data centers - which provide colocation, telecommunications, cloud services, and content ecosystems - compete to be called the world's biggest in terms of physical space occupied: |
+| Communications - note: | no. 1.Â - aÂ data farm in Langfang, Hebei Province, China, identified as the Range International Information Group, claims to be the largest with 585,000 sq m (6.3 million sq ft), |
+| Communications - note: | no. 2. - a data farm in Las Vegas, Nevada, USA, known as the Switch SuperNAP data center, comes in second with over 325,000 sq m (3.5 million sq ft); it intends to expand to over 1.615 million sq m (17.4 million sq ft) by 2020, |
+| Communications - note: | no. 3. - a data farm in Ashburn, Virginia, USA, referred to as the DFT Data Center, is a transit point for 70% of the world's Internet traffic; it includes 150,000 sq m (1.6 million sq ft) spread out over six separate buildings |
+| Communications - note: | Â  |

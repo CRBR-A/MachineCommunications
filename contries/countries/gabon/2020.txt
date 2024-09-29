@@ -1,0 +1,16 @@
+| Communications | Gabon |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 22,412 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1.03 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 3,008,814 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 138.28 (2019 est.) |
+| Telecommunication systems: | general assessment: fixed-line and Internet sectors have remained underdeveloped due to the lack of competition and high prices; sufficient international bandwidth due to submarine cable systems, but monopolized by Gabon Telecom; 3G and mobile LTE services andÂ mobile broadband available; govt. commits to XAF 150 billion in backbone infrastructure work through 2020; efforts towards new legal and regulatory improvements (2020) |
+| Telecommunication systems: | domestic: fixed-line is 1 per 100 subscriptions; a growing mobile cellular network with multiple providers is making telephone service more widely available with mobile cellular teledensityÂ at 138 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 241; landing points for the SAT-3/WASC, ACE and Libreville-Port Gentil CableÂ fiber-optic submarine cable that provides connectivity to Europe and West Africa; satellite earth stations - 3 Intelsat (Atlantic Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state owns and operates 2 TV stations and 2 radio broadcast stations; a few private radio and TV stations; transmissions of at least 2 international broadcasters are accessible; satellite service subscriptions are available |
+| Internet country code: | .ga |
+| Internet users: | total: 1,313,802 |
+| Internet users: | percent of population: 62% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 29,099 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2018 est.) |

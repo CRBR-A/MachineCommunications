@@ -1,0 +1,16 @@
+| Communications | Estonia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 302,606 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 24.47 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,820,088 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 147.18 (2019 est.) |
+| Telecommunication systems: | general assessment: a range of regulatory measures, competitionÂ and foreign investment in the form of joint business ventures has greatly improved telephone service with a wide range of high-quality voice, data, and Internet services; one of the most advanced mobile markets in Europe; one of theÂ highest broadband penetration in Europe; govt. commits 20 million euro to rural broadband program; regulator auctions spectrum in the 2.6GHz band for LTE and 5G services (2020) |
+| Telecommunication systems: | domestic: 25 per 100 for fixed-line and 147 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first being introduced in 2005; a large percent of Estonian households have broadband access (2019) |
+| Telecommunication systems: | international: country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service; a range of channels are aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services |
+| Internet country code: | .ee |
+| Internet users: | total: 1,111,896 |
+| Internet users: | percent of population: 89.36% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 441,167 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 35 (2018 est.) |

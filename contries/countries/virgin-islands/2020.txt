@@ -1,0 +1,12 @@
+| Communications | Virgin Islands |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 77,212 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 72.41 (2019 est.) |
+| Telecommunication systems: | general assessment: modern system with total digital switching, uses fiber-optic cable and microwave radio relay; good interisland and international connections; broadband access; expansion ofÂ FttP (Fiber to the Home) markets; LTE launches; regulatory development and expansion in several markets point to investment and focus on data (2020) |
+| Telecommunication systems: | domestic: full range of services available; fixed-line 72 per 100 persons and mobile-cellular 75 per 100 (2019) |
+| Telecommunication systems: | international: country code - 1-340; landing points for the BSCS, St Thomas-ST Croix System, Southern Caribbean Fiber, Americas II, GCN, MAC, PAN-AM and SAC submarine cable connections to US, the Caribbean, Central and South America; satellite earth stations - NA (2020) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | about a dozen TV broadcast stations including 1 public TV station; multi-channel cable and satellite TV services are available; 24 radio stations |
+| Internet country code: | .vi |
+| Internet users: | total: 68,872 |
+| Internet users: | percent of population: 64.38% (July 2018 est.) |

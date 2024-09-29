@@ -1,0 +1,15 @@
+| Communications | Luxembourg |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 275,300 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 46 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 794,000 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 134 (2017 est.) |
+| Telephone system: | general assessment: highly developed, completely automated and efficient system; by 2020 the governmentâ€™s program is to provide a 1Gb/s service to all citizens, and to make Luxembourg the first fully fibred country in Europe; new law requiringÂ  SIM cards be registered has slowed down growth for mobile subscribers; 5G launch by 2020 (2018) |
+| Telephone system: | domestic: fixed-line teledensity aboutÂ 46 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated with 134 per 100 mobile-cellular (2018) |
+| Telephone system: | international: country code - 352 |
+| Broadcast media: | Luxembourg has a long tradition of operating radio and TV services for pan-European audiences and is home to Europe's largest privately owned broadcast media group, the RTL Group, which operates 46 TV stations and 29 radio stations in Europe; also home to Europe's largest satellite operator, Societe Europeenne des Satellites (SES); domestically, the RTL Group operates TV and radio networks; other domestic private radio and TV operators and French and German stations available; satellite and cable TV services available |
+| Internet country code: | .lu |
+| Internet users: | total: 567,698 |
+| Internet users: | percent of population: 97.5% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 212,900 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 36 (2017 est.) |

@@ -1,0 +1,12 @@
+| Communications |   |
+| --- | --- |
+| Telephones - main lines in use: | 5.431 million (1997) |
+| Telephones - mobile cellular: | 328,500 (1997) |
+| Telephone system: | adequate, modern networks reach all areas; microwave radio relay carries most traffic; extensive open-wire network; submarine cables to off-shore islands |
+| domestic: | microwave radio relay, open wire, and submarine cable |
+| international: | tropospheric scatter; 8 submarine cables; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), 1 Eutelsat, and 1 Inmarsat (Indian Ocean region) |
+| Radio broadcast stations: | AM 26, FM 88, shortwave 4 (1998) |
+| Radios: | 5.02 million (1997) |
+| Television broadcast stations: | 64 (plus about 1,000 low-power repeaters); also two stations in the US Armed Forces Network (1999) |
+| Televisions: | 2.54 million (1997) |
+| Internet Service Providers (ISPs): | 23 (1999) |

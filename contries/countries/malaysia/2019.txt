@@ -1,0 +1,15 @@
+| Communications | Malaysia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 6,578,200 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 21 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 42,338,500 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 135 (2017 est.) |
+| Telephone system: | general assessment: modern system featuring good intercity servicesÂ mainly by microwave radio relay and an adequate intercity microwave radio relay network between Sabah and Sarawak via Brunei; international service excellent; one of the most advanced telecom networks; roll-out of a national broadband network (2018) |
+| Telephone system: | domestic: fixed-line 21 per 100 and mobile-cellular teledensity exceeds 135 per 100 persons; domestic satellite system with 2 earth stations (2018) |
+| Telephone system: | international: country code - 60; landing points forÂ BBG, FEA, SAFE, SeaMeWe-3 & 4 & 5, AAE-1, JASUKA, BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine Cable System, SEAX-1, SKR1M, APCN-2, APG, BtoBe, MCT, BaSICS, and Labuan-Brunei Submarine cable providing connectivity via international submarine cable networksÂ to Asia, the Middle East, Southeast Asia, AustraliaÂ and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2019) |
+| Broadcast media: | state-owned TV broadcaster operates 2 TV networks with relays throughout the country, and the leading private commercial media group operates 4 TV stations with numerous relays throughout the country; satellite TV subscription service is available; state-owned radio broadcaster operates multiple national networks, as well as regional and local stations; many private commercial radio broadcasters and some subscription satellite radio services are available; about 55 radio stations overall (2019) |
+| Internet country code: | .my |
+| Internet users: | total: 24,384,952 |
+| Internet users: | percent of population: 78.8% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 2,687,800 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 9 (2017 est.) |

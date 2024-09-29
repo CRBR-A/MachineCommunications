@@ -1,0 +1,13 @@
+| Communications | RUSSIA |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 36,524,978 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 26 (July 2015 est.) |
+| Telephones - mobile cellular: | total: 227.288 million |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 160 (July 2015 est.) |
+| Telephone system: | general assessment: the telephone system is experiencing significant changes; more than 1,000 companies licensed to offer communication services; access to digital lines has improved, particularly in urban centers; progress made toward building the telecommunications infrastructure necessary for a market economy; the estimated number of mobile subscribers jumped from fewer than 1 million in 1998 to more than 235 million in 2011; fixed-line service has improved but a large demand remains |
+| Telephone system: | domestic: cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, telephone services are still outdated, inadequate, and low-density |
+| Telephone system: | international: country code - 7; connected internationally by undersea fiber -optic cables; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2011) |
+| Broadcast media: | 13 national TV stations with the federal government owning 1 and holding a controlling interest in a second; state-owned Gazprom maintains a controlling interest in 2 of the national channels; government-affiliated Bank Rossiya owns controlling interest in a fourth and fifth, while a sixth national channel is owned by the Moscow city administration; the Russian Orthodox Church and the Russian military, respectively, own 2 additional national channels; roughly 3,300 national, regional, and local TV stations with over two-thirds completely or partially controlled by the federal or local governments; satellite TV services are available; 2 state-run national radio networks with a third majority-owned by Gazprom; roughly 2,400 public and commercial radio stations (2016) |
+| Internet country code: | .ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out |
+| Internet users: | total: 104.553 million |
+| Internet users: | percent of population: 73.4% (July 2015 est.) |

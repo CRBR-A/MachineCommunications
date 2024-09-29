@@ -1,0 +1,15 @@
+| Communications | Nigeria |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 139,344 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 144,920,170 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 76 (2017 est.) |
+| Telephone system: | general assessment: one of the larger telecom markets in Africa; foreign investment; market competition; LTE technologies available but GSM technology dominate; unified licensing regime; government committed toÂ expanding broadband penetration; in Q1 2018, the Nigerian Communications Commission approved seven licenses to telecom companies to deploy fiber optic cable in the six geopolitical zones and Lagos (2018) |
+| Telephone system: | domestic: fixed-line subscribership remains less than 1 per 100 persons; mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network; multiple cellular providers operate nationally with subscribership base overÂ 76 per 100 persons (2018) |
+| Telephone system: | international: country code - 234; landing point for the SAT-3/WASC, NCSCS,Â  MainOne, Glo-1 & 2, ACE, and EquianoÂ fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019) |
+| Broadcast media: | nearly 70 federal government-controlled national and regional TV stations; all 36 states operate TV stations; several private TV stations operational; cable and satellite TV subscription services are available; network of federal government-controlled national, regional, and state radio stations; roughly 40 state government-owned radio stations typically carry their own programs except for news broadcasts; about 20 private radio stations; transmissions of international broadcasters are available; digital broadcasting migration process completed in three states in 2018 (2019) |
+| Internet country code: | .ng |
+| Internet users: | total: 47,759,904 |
+| Internet users: | percent of population: 25.7% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 74,004 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

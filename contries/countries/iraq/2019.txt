@@ -1,0 +1,13 @@
+| Communications | Iraq |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 2,918,396 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 7 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 33,335,316 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 85 (2017 est.) |
+| Telephone system: | general assessment: the 2003 liberation of Iraq severely disrupted telecommunications throughout Iraq; widespread government efforts to rebuild domestic and international communications have slowed due to political unrest; 2018 showed signs of stability and installations of new fibre-optic cables and growth in mobile broadband subscribers; the most popular plans are pre-paid (2018) |
+| Telephone system: | domestic: the mobile cellular market continues to expand; 3G services offered by three major mobile operators; 4G offered by one operator in Iraqi Kurdistan Region; conflict has destroyed infrastructure in areas; 7 per 100 for fixed-line and 85 per 100 for mobile-cellular subscriptions (2018) |
+| Telephone system: | international: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019) |
+| Broadcast media: | the number of private radio and TV stations has increased rapidly since 2003; government-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to an estimated 70% of viewers and many of the broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019) |
+| Internet country code: | .iq |
+| Internet users: | total: 8,098,401 |
+| Internet users: | percent of population: 21.2% (July 2016 est.) |

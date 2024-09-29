@@ -1,0 +1,16 @@
+| Communications | Libya |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 1,618,511 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 23.95 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 6,182,105 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 91.48 (2019 est.) |
+| Telecommunication systems: | general assessment: political and security instability in Libya has disrupted its telecommunications sector, but much of its infrastructure remains superior to that in most other African countries; registering a SIM card now requires proof of ID; govt. established new independent regulatory authority; LTE-based fixed broadband network launched; highest market penetration rates in Africa; growth opportunity in broadband sector (2020) |
+| Telecommunication systems: | domestic: 24 per 100 fixed-line and 91 per 100 mobile-cellular subscriptions; service generally adequate (2019) |
+| Telecommunication systems: | international: country code - 218; landing points for LFON, EIG, Italy-Libya, Silphium and Tobrok-EmasaedÂ submarine cable system connecting Europe, Africa, the Middle East and Asia; satellite earth stations - 4 Intelsat, Arabsat, and Intersputnik;Â  microwave radio relay to Tunisia and Egypt; tropospheric scatter to Greece; participant in Medarabtel (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state-funded and private TV stations; some provinces operate local TV stations; pan-Arab satellite TV stations are available; state-funded radio (2019) |
+| Internet country code: | .ly |
+| Internet users: | total: 1,440,859 |
+| Internet users: | percent of population: 21.76% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 168,920 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 3 (2017 est.) |

@@ -1,0 +1,16 @@
+| Communications | Latvia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 227,149 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 11.94 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 2,067,174 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 108.66 (2019 est.) |
+| Telecommunication systems: | general assessment: recent efforts focused on bringing competition to the telecommunications sector; the number of fixed-line is decreasing as mobile-cellular telephone service expands; EU regulatory policies, and framework provide guidelines for growth; govt.Â adopted measures to build a national fiber broadband network, part-funded by European Commission; new competition in mobile marketsÂ with extensive LTE-A technologies and 5G service growth (2020) |
+| Telecommunication systems: | domestic: fixed-line 12 per 100 and mobile-cellular 109 per 100 subscriptions (2019) |
+| Telecommunication systems: | international: country code - 371; the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | several national and regional commercial TV stations are foreign-owned, 2 national TV stations are publicly owned; system supplemented by privately owned regional and local TV stations; cable and satellite multi-channel TV services with domestic and foreign broadcasts available; publicly owned broadcaster operates 4 radio networks with dozens of stations throughout the country; dozens of private broadcasters also operate radio stations |
+| Internet country code: | .lv |
+| Internet users: | total: 1,607,711 |
+| Internet users: | percent of population: 83.58% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 525,995 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 27 (2018 est.) |

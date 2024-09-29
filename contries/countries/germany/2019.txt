@@ -1,0 +1,15 @@
+| Communications | Germany |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 44.4 million |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 55 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 106 million |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 132 (2017 est.) |
+| Telephone system: | general assessment: one of the world's most technologically advanced telecommunications systems; as a result of intensive capital expenditures since reunification, the formerly backward system of the eastern part of the country, dating back to World War II, has been modernized and integrated with that of the western part; universal 3G available infrastructure and LTE networks; penetration in broadband and mobile sectors average for region (2018) |
+| Telephone system: | domestic: extensive system of automatic telephone exchanges connected by modern networks of fiber-optic cable, coaxial cable, microwave radio relay, and a domestic satellite system; cellular telephone service is widely available, expanding rapidly, and includes roaming service to many foreign countries; 55 per 100 for fixed-line and 132 per 100 for mobile-cellular (2018) |
+| Telephone system: | international: country code - 49;Â landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, C-Lion1,Â GC1, GlobalConnect-KPN, and Germany-Denmark 2 & 3Â -Â submarineÂ cables to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2019) |
+| Broadcast media: | a mixture of publicly operated and privately owned TV and radio stations; 70 national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations including multiple national radio networks, regional radio networks, and a large number of local radio stations |
+| Internet country code: | .de |
+| Internet users: | total: 72,365,643 |
+| Internet users: | percent of population: 89.6% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 33.217 million |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 41 (2017 est.) |

@@ -1,0 +1,11 @@
+| Communications | Pakistan |
+| --- | --- |
+| Telephones - main lines in use: | 5.803 million (2012) |
+| Telephones - mobile cellular: | 125 million (2013) |
+| Telephone system: | general assessment: the telecommunications infrastructure is improving dramatically with foreign and domestic investments in fixed-line and mobile-cellular networks; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; |
+| Telephone system: | domestic: mobile-cellular subscribership has skyrocketed, exceeding 110 million by the end of 2011, up from only about 300,000 in 2000; more than 90 percent of Pakistanis live within areas that have cell phone coverage and more than half of all Pakistanis have access to a cell phone; fiber systems are being constructed throughout the country to aid in network growth; fixed line availability has risen only marginally over the same period and there are still difficulties getting fixed-line service to rural areas |
+| Telephone system: | international: country code - 92; landing point for the SEA-ME-WE-3 and SEA-ME-WE-4 submarine cable systems that provide links to Asia, the Middle East, and Europe; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2011) |
+| Broadcast media: | media is government regulated; 1 dominant state-owned TV broadcaster, Pakistan Television Corporation (PTV), operates a network consisting of 5 channels; private TV broadcasters are permitted; to date 69 foreign satellite channels are operational; the state-owned radio network operates more than 40 stations; nearly 100 commercially licensed privately owned radio stations provide programming mostly limited to music and talk shows (2007) |
+| Internet country code: | .pk |
+| Internet hosts: | 365,813 (2012) |
+| Internet users: | 20.431 million (2009) |

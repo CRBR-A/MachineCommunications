@@ -1,0 +1,15 @@
+| Communications | Japan |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 63,941,094 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 51 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 170,128,499 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 135 (2017 est.) |
+| Telephone system: | general assessment: excellent domestic and international service;Â Japan has exceedingly high mobile, mobile broadband and fixed broadband penetration; one of Japan's largest e-commerce companies planning to build its own nationwide stand-alone 5G mobile network; in 2019, Japan govt released spectrum for 5G services to be commercially available in 2020 (2018) |
+| Telephone system: | domestic: high level of modern technology and excellent service of every kind; 51 per 100 for fixed-line and 135 per 100 for mobile-cellular subscriptions (2018) |
+| Telephone system: | international: country code - 81; numerous submarine cables with landing points for HSCS, JIH, RJCN, APCN-2, JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia Loop/REACH North Asia Loop, APCN-2, FASTER, SJC, SJC2, Unity/EAC-Pacific, JGA-N, APG, ASE, AJC, JUPITER, MOC, Okinawa Cellular Cable, KJCN, GOKI, KJCN, and SeaMeWE-3, submarine cables provide links throughout Asia, Australia, the Middle East, Europe, Southeast Asia, AfricaÂ and US; satellite earth stations - 7 Intelsat (Pacific and Indian Oceans), 1 Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean regions), and 8 SkyPerfect JSAT (2019) |
+| Broadcast media: | a mixture of public and commercial broadcast TV and radio stations; 6 national terrestrial TV networks including 1 public broadcaster; the large number of radio and TV stations available provide a wide range of choices; satellite and cable services provide access to international channels (2019) |
+| Internet country code: | .jp |
+| Internet users: | total: 116,565,962 |
+| Internet users: | percent of population: 92% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 40,390,640 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 32 (2017 est.) |

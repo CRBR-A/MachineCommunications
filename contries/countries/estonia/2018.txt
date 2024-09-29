@@ -1,0 +1,15 @@
+| Communications | Estonia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 362,117 (2017 est.) |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 29 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,904,425 (2017 est.) |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 152 (2017 est.) |
+| Telephone system: | general assessment: range of regulatory measures comptitionÂ and foreign investment in the form of joint business ventures greatly improved telephone service with a wide range of high-quality voice, data, and Internet services available; one of the most advanced mobile markets in Europe; 5G trials for further growth commercially available by 2020; highest broadband penetration in Europe (2017) |
+| Telephone system: | domestic: 29 per 100 for fixed-line and 152 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first introduced in 2005; 85% of Estonian households have broadband access (2017) |
+| Telephone system: | international: country code - 372; fiber-optic cables to Finland, Sweden, Latvia, and Russia provide worldwide packet-switched service; 2 international switches are located in Tallinn (2016) |
+| Broadcast media: | the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service; a range of channels are aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services (2016) |
+| Internet country code: | .ee |
+| Internet users: | total: 1,097,921 (July 2016 est.) |
+| Internet users: | percent of population: 87.2% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 404,682 (2017 est.) |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 32 (2017 est.) |

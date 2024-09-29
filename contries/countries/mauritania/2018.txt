@@ -1,0 +1,15 @@
+| Communications | Mauritania |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 57,057 (2017 est.) |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 2 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 4,074,157 (2017 est.) |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 108 (2017 est.) |
+| Telephone system: | general assessment: limited system of cable and open-wire lines, minor microwave radio relay links, and radiotelephone communications stations; mobile-cellular services expanding rapidly; 3 mobile network operators: Mattel, Mauritel, and Chinguitel (2018) |
+| Telephone system: | domestic: fixed-line teledensity 1 per 100 persons; mobile-cellular network coverage extends mainly to urban areas with a teledensity of roughly 100 per 100 persons; mostly cable and open-wire lines; a domestic satellite telecommunications system links Nouakchott with regional capitals (2018) |
+| Telephone system: | international: country code - 222; satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat); fiber-optic and asymmetric digital subscriber line cables for Internet access (2018) |
+| Broadcast media: | 10 TV stations: 5 government-owned and 5 private; in October 2017, the government suspended all private TV stations due to non-payment of broadcasting fees; as of April 2018, only one private TV station was broadcasting, Al Mourabitoune, the official TV of the Mauritanian Islamist party, Tewassoul; the other stations are negotiating payment options with the government and hope to be back on the air soon; 18 radio broadcasters: 15 government-owned, 3 (Radio Nouakchott Libre, Radio Tenwir, Radio Kobeni) private; all 3 private radio stations broadcast from Nouakchott; of the 15 government stations, 3 broadcast from Nouakchott (Radio Mauritanie, Radio Jeunesse, Radio Koran) and the other 12 broadcast from each of the 12 regions outside Nouakchott; Radio Jeunesse and Radio Koran are now also being re-broadcast in the regions (2018) |
+| Internet country code: | .mr |
+| Internet users: | total: 661,913 (July 2016 est.) |
+| Internet users: | percent of population: 18% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 12,637 (2017 est.) |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

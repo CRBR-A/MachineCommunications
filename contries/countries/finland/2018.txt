@@ -1,0 +1,15 @@
+| Communications | Finland |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 378,200 (2017 est.) |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 7 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 7,307,800 (2017 est.) |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 132 (2017 est.) |
+| Telephone system: | general assessment: modern system with excellent service; one of the most progressive in Europe; one of the highest broadband and mobile penetrations rates in the region; forefront in testing 5G networks; for 2025 and 2030 FttP (fiber to the home) and DOCSIS3.1Â (new generation of cable services for high speed connections)Â technologies (2017) |
+| Telephone system: | domestic: digital fiber-optic, fixed-line 7 per 100 subscription; 132 per 100 mobile-cellular; network and an extensive mobile-cellular network provide domestic needs (2017) |
+| Telephone system: | international: country code - 358; submarine cables provide links to Estonia and Sweden; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) (2015) |
+| Broadcast media: | a mix of 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are broadcast digitally; Internet television, such as Netflix and others, is available; public broadcasting maintains a network of 13 national and 25 regional radio stations; a large number of private radio broadcasters and access to Internet radio (2017) |
+| Internet country code: | .finote - Aland Islands assigned .ax |
+| Internet users: | total: 4,822,132 (July 2016 est.) |
+| Internet users: | percent of population: 87.7% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 1,709,400 (2017 est.) |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 31 (2017 est.) |

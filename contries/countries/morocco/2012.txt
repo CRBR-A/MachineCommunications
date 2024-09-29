@@ -1,0 +1,11 @@
+| Communications | Morocco |
+| --- | --- |
+| Telephones - main lines in use: | 3.566 million (2011) |
+| Telephones - mobile cellular: | 36.554 million (2011) |
+| Telephone system: | general assessment: good system composed of open-wire lines, cables, and microwave radio relay links; principal switching centers are Casablanca and Rabat; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay; Internet available but expensive |
+| Telephone system: | domestic: fixed-line teledensity is roughly 10 per 100 persons; mobile-cellular subscribership exceeds 100 per 100 persons |
+| Telephone system: | international: country code - 212; landing point for the Atlas Offshore, Estepona-Tetouan, Euroafrica, Spain-Morocco, and SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide connectivity to Asia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara; coaxial cable and microwave radio relay to Algeria; participant in Medarabtel; fiber-optic cable link from Agadir to Algeria and Tunisia |
+| Broadcast media: | 2 TV broadcast networks with state-run Radio-Television Marocaine (RTM) operating one network and the state partially owning the other; foreign TV broadcasts are available via satellite dish; 3 radio broadcast networks with RTM operating one; the government-owned network includes 10 regional radio channels in addition to its national service (2007) |
+| Internet country code: | .ma |
+| Internet hosts: | 277,338 (2012) |
+| Internet users: | 13.213 million (2009) |

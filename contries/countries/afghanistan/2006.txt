@@ -1,0 +1,16 @@
+| Communications | Afghanistan |
+| --- | --- |
+| Telephones - main lines in use: | 100,000 (2005) |
+| Telephones - mobile cellular: | 1.2 million (2005) |
+| Telephone system: | general assessment: very limited telephone and telegraph service |
+| Telephone system: | domestic: telephone service is improving with the licensing of four wireless telephone service providers by 2005; approximately 4 in 100 Afghans own a wireless telephone; telephone main lines remain limited. |
+| Telephone system: | international: country code - 93; five VSAT's installed in Kabul, Herat, Mazar-e-Sharif, Kandahar, and Jalalabad provide international and domestic voice and data connectivity |
+| Radio broadcast stations: | AM 21, FM 23, shortwave 1 (broadcasts in Pashtu, Afghan Persian (Dari), Urdu, and English) (2003) |
+| Radios: | 167,000 (1999) |
+| Television broadcast stations: | at least 10 (one government-run central television station in Kabul and regional stations in nine of the 34 provinces; the regional stations operate on a reduced schedule; also, in 1997, there was a station in Mazar-e-Sharif reaching four northern Afghanistan provinces) (1998) |
+| Televisions: | 100,000 (1999) |
+| Internet country code: | .af |
+| Internet hosts: | 22 (2006) |
+| Internet Service Providers (ISPs): | 1 (2000) |
+| Internet users: | 30,000 (2005) |
+| Communications - note: | in March 2003, 'af' was established as Afghanistan's domain name; Internet access is growing through Internet cafes as well as public "telekiosks" in Kabul (2002) |

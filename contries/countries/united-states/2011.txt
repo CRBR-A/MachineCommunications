@@ -1,0 +1,11 @@
+| Communications | United States |
+| --- | --- |
+| Telephones - main lines in use: | 151 million (2010) |
+| Telephones - mobile cellular: | 279 million (2010) |
+| Telephone system: | general assessment: a large, technologically advanced, multipurpose communications system |
+| Telephone system: | domestic: a large system of fiber-optic cable, microwave radio relay, coaxial cable, and domestic satellites carries every form of telephone traffic; a rapidly growing cellular system carries mobile telephone traffic throughout the country |
+| Telephone system: | international: country code - 1; multiple ocean cable systems provide international connectivity; satellite earth stations - 61 Intelsat (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean regions) (2000) |
+| Broadcast media: | 4 major terrestrial television networks with affiliate stations throughout the country, plus cable and satellite networks, independent stations, and a limited public broadcasting sector that is largely supported by private grants; overall, thousands of TV stations broadcasting; multiple national radio networks with large numbers of affiliate stations; while most stations are commercial, National Public Radio (NPR) has a network of some 600 member stations; satellite radio available; overall, nearly 15,000 radio stations operating (2008) |
+| Internet country code: | .us |
+| Internet hosts: | 439 million (2010); note - the US Internet total host count includes the following top level domain host addresses: .us, .com, .edu, .gov, .mil, .net, and .org |
+| Internet users: | 245 million (2009) |

@@ -1,0 +1,11 @@
+| Communications | Iceland |
+| --- | --- |
+| Telephones - main lines in use: | 204,000 (2010) |
+| Telephones - mobile cellular: | 348,100 (2010) |
+| Telephone system: | general assessment: telecommunications infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network |
+| Telephone system: | domestic: liberalization of the telecommunications sector beginning in the late 1990s has led to increased competition especially in the mobile services segment of the market |
+| Telephone system: | international: country code - 354; the CANTAT-3 and FARICE-1 submarine cable systems provide connectivity to Canada, the Faroe Islands, UK, Denmark, and Germany; a planned new section of the Hibernia-Atlantic submarine cable will provide additional connectivity to Canada, US, and Ireland; satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) |
+| Broadcast media: | state-owned public television broadcaster operates 1 TV channel nationally; several privately-owned TV stations broadcast nationally and roughly another half-dozen operate locally; about half the households utilize multi-channel cable or satellite TV services; state-owned public radio broadcaster operates 2 national networks and 4 regional stations; 2 privately-owned radio stations operate nationally and another 15 provide more limited coverage (2007) |
+| Internet country code: | .is |
+| Internet hosts: | 344,748 (2010) |
+| Internet users: | 301,600 (2009) |

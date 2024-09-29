@@ -1,0 +1,16 @@
+| Communications | Lebanon |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 752,547 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 12.87 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 3,614,797 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 61.82 (2019 est.) |
+| Telecommunication systems: | general assessment: two mobile-cellular networks provide good service, with 4G LTE services;Â future improvements to fiber-optic infrastructure for total nation coverageÂ proposed byÂ 2020; in 2018 first successful 5G trial conducted and in 2019 first live mobile 5G site launched,Â unfortunately, the COVID-19 pandemic has impacted telecoms industry and pricing has been raised (2020) |
+| Telecommunication systems: | domestic: fixed-line 13 per 100 and 62 per 100 for mobile-cellular subscriptions (2019) |
+| Telecommunication systems: | international: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 7 TV stations, 1 of which is state owned; more than 30 radio stations, 1 of which is state owned; satellite and cable TV services available; transmissions of at least 2 international broadcasters are accessible through partner stations (2019) |
+| Internet country code: | .lb |
+| Internet users: | total: 4,769,039 |
+| Internet users: | percent of population: 78.18% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 9,395 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

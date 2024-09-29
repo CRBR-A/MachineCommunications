@@ -1,0 +1,16 @@
+| Communications | Jamaica |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 379,420 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 13.5 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 2,882,469 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 102.56 (2019 est.) |
+| Telecommunication systems: | general assessment: good domestic and international service; mobile sector dominates, accounting for 82% of the Internet connections; extensive LTE networks providing coverage to 90% of the island population (2020) |
+| Telecommunication systems: | domestic: while the number of fixed-lines, 14 per 100, subscriptions has declined, cellular-mobile has grown 103 per 100 subscriptions (2019) |
+| Telecommunication systems: | international: country code - 1-876 and 1-658; landing points for the ALBA-1, CFX-1, Fibralink, East-West, and Cayman-Jamaican Fiber System submarine cables providing connections to South America, parts of the Caribbean, Central America and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 3 free-to-air TV stations, subscription cable services, and roughly 30 radio stations (2019) |
+| Internet country code: | .jm |
+| Internet users: | total: 1,548,618 |
+| Internet users: | percent of population: 55.07% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 284,756 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 10 (2018 est.) |

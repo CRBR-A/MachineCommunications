@@ -1,0 +1,16 @@
+| Communications | Cyprus |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 469,305 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 37.48 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,801,213 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 143.85 (2019 est.) |
+| Telecommunication systems: | general assessment: broadband market steadily developing with one of the highest penetrations rates in theÂ region;Â despite theÂ growth of Cyprus's telecom sector, the market overall continues to be dominated by the incumbent, Cyprus Telecommunications Authority (CyTA), which is still fully-owned by the state, but it is losing ground to its competition annually; improved regulatory circumstances,Â especially in relation to network interconnection and access, has given competing operators theÂ certainty to invest in network infrastructure, andÂ to launch competing services; fiber infrastructure in the early days and DSL remains the dominate access platform (2020) |
+| Telecommunication systems: | domestic: fixed-line is 37 per 100, andÂ Â 144 per 100 for mobile-cellular; open-wire, fiber-optic cable, and microwave radio relay (2019) |
+| Telecommunication systems: | international: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity toÂ Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | mixture of state and privately run TV and radio services; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services including telecasts from Greece and Turkey, and a number of private radio stations are available; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, and 7 privately owned TV and 21 radio broadcast stations plus 6 radio and 4 TV channels of local universities, plus 1 radio station of military, security forces and 1 radio station of civil defense cooperation, as well as relay stations from Turkey (2019) |
+| Internet country code: | .cy |
+| Internet users: | total: 1,044,473 |
+| Internet users: | percent of population: 84.43% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 313,462 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 25 (2018 est.) |

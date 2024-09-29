@@ -1,0 +1,15 @@
+| Communications | Gambia, The |
+| --- | --- |
+| Telephones - main lines in use: | 38,400 (2002) |
+| Telephones - mobile cellular: | 100,000 (2002) |
+| Telephone system: | general assessment: adequate; a packet switched data network is available |
+| Telephone system: | domestic: adequate network of microwave radio relay and open-wire |
+| Telephone system: | international: country code - 220; microwave radio relay links to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| Radio broadcast stations: | AM 3, FM 2, shortwave 0 (2001) |
+| Radios: | 196,000 (1997) |
+| Television broadcast stations: | 1 (government-owned) (1997) |
+| Televisions: | 5,000 (2000) |
+| Internet country code: | .gm |
+| Internet hosts: | 568 (2004) |
+| Internet Service Providers (ISPs): | 2 (2001) |
+| Internet users: | 25,000 (2002) |

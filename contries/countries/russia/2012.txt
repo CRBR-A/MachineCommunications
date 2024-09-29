@@ -1,0 +1,11 @@
+| Communications | Russia |
+| --- | --- |
+| Telephones - main lines in use: | 44.152 million (2011) |
+| Telephones - mobile cellular: | 236.7 million (2011) |
+| Telephone system: | general assessment: the telephone system is experiencing significant changes; there are more than 1,000 companies licensed to offer communication services; access to digital lines has improved, particularly in urban centers; Internet and e-mail services are improving; Russia has made progress toward building the telecommunications infrastructure necessary for a market economy; the estimated number of mobile subscribers jumped from fewer than 1 million in 1998 to more than 235 million in 2011; fixed line service has improved but a large demand remains |
+| Telephone system: | domestic: cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, the telephone services are still outdated, inadequate, and low density |
+| Telephone system: | international: country code - 7; Russia is connected internationally by undersea fiber optic cables; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems |
+| Broadcast media: | 6 national TV stations with the federal government owning 1 and holding a controlling interest in a second; state-owned Gazprom maintains a controlling interest in a third national channel; government-affiliated Bank Rossiya owns controlling interest in a fourth and fifth, while the sixth national channel is owned by the Moscow city administration; roughly 3,300 national, regional, and local TV stations with over two-thirds completely or partially controlled by the federal or local governments; satellite TV services are available; 2 state-run national radio networks with a third majority-owned by Gazprom; roughly 2,400 public and commercial radio stations (2007) |
+| Internet country code: | .ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out |
+| Internet hosts: | 14.865 million (2012) |
+| Internet users: | 40.853 million (2009) |

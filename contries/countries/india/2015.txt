@@ -1,0 +1,15 @@
+| Communications | INDIA |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 27 million |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 2 (2014 est.) |
+| Telephones - mobile cellular: | total: 944 million |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 76 (2014 est.) |
+| Telephone system: | general assessment: supported by recent deregulation and liberalization of telecommunications laws and policies, India has emerged as one of the fastest-growing telecom markets in the world; total telephone subscribership base exceeded 900 million in 2011, an overall teledensity of roughly 75%, and subscribership is currently growing more than 20 million per month; urban teledensity now exceeds 100%, and rural teledensity is steadily growing |
+| Telephone system: | domestic: mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles, each with multiple private service providers and one or more state-owned service providers; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 very small aperture terminals (VSAT) |
+| Telephone system: | international: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 with landing sites at Cochin and Mumbai (Bombay), SEA-ME-WE-4 with a landing site at Chennai, Fiber-Optic Link Around the Globe (FLAG) with a landing site at Mumbai (Bombay), South Africa - Far East (SAFE) with a landing site at Cochin, the i2i cable network linking to Singapore with landing sites at Mumbai (Bombay) and Chennai (Madras), and Tata Indicom linking Singapore and Chennai (Madras), provide a significant increase in the bandwidth available for both voice and data traffic; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region); 9 gateway exchanges operating from Mumbai (Bombay), New Delhi, Kolkata (Calcutta), Chennai (Madras), Jalandhar, Kanpur, Gandhinagar, Hyderabad, and Ernakulam (2011) |
+| Broadcast media: | Doordarshan, India's public TV network, operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; by 2011, more than 100 million homes had access to cable and satellite TV offering more than 700 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly (2007) |
+| Radio broadcast stations: | AM 149, FM 171, shortwave 54 (2009) |
+| Television broadcast stations: | 1,400 (2009) |
+| Internet country code: | .in |
+| Internet users: | total: 237.3 million |
+| Internet users: | percent of population: 19.2% (2014 est.) |

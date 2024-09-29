@@ -1,0 +1,16 @@
+| Communications | Kazakhstan |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 3,275,584 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 17.31 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 26,223,595 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 138.58 (2019 est.) |
+| Telecommunication systems: | general assessment: one of the most progressive telecoms sectors in Central Asia; vast 4G network; low fixed-line andÂ fixed-broadband penetration, moderate mobile broadband penetration and high mobile penetration; mobile market highly competitive and slow growth due to saturation (2020) |
+| Telecommunication systems: | domestic: intercity by landline and microwave radio relay; number of fixed-line connections is 17 per 100 persons; mobile-cellular usage increased rapidly and the subscriber base approaches 139 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | the state owns nearly all radio and TV transmission facilities and operates national TV and radio networks; there are 96 TV channels, many of which are owned by the government, and 4 state-run radio stations; some former state-owned media outlets have been privatized; households with satellite dishes have access to foreign media; a small number of commercial radio stations operate along with state-run radio stations; recent legislation requires all media outlets to register with the government and all TV providers to broadcast in digital format by 2018; broadcasts reach some 99% of the population as well as neighboring countries |
+| Internet country code: | .kz |
+| Internet users: | total: 14,789,448 |
+| Internet users: | percent of population: 78.9% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 2,462,900 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 13 (2018 est.) |

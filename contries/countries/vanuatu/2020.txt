@@ -1,0 +1,16 @@
+| Communications | Vanuatu |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 3,724 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1.27 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 259,317 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 88.44 (2019 est.) |
+| Telecommunication systems: | general assessment: telecom services have progressed significantly in recent years; mobile phones are now the primary means of communication and more than 92% of the population is covered by a mobile network; 2016 saw the launch of LTE services and the introduction of rural satellite broadband services; mobile phone use in some rural areas is constrained by electricity shortages; investment in fixed broadband saw recent growth with fiber-optic cables; mobile broadband infrastructure also expanded with aÂ reduction in prices; general broadband penetration isÂ at 45%; Kacific-1 broadband satellite launch in 2019 will change telecommunications for the region (2020) |
+| Telecommunication systems: | domestic: fixed-line 1 per 100 and mobile-cellular 88 per 100 (2019) |
+| Telecommunication systems: | international: country code - 678; landing points for the ICN1 & ICN2 submarine cables providing connectivity to the Solomon Islands and Fiji; cables helped end-users with Internet bandwidth; satellite earth station - 1 Intelsat (Pacific Ocean) (2020) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 1 state-owned TV station; multi-channel pay TV is available; state-owned Radio Vanuatu operates 2 radio stations; 2 privately owned radio broadcasters; programming from multiple international broadcasters is available |
+| Internet country code: | .vu |
+| Internet users: | total: 74,083 |
+| Internet users: | percent of population: 25.72% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 4,718 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 2 (2018 est.) |

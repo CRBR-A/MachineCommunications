@@ -1,0 +1,11 @@
+| Communications | Comoros |
+| --- | --- |
+| Telephones - main lines in use: | 24,000 (2012) |
+| Telephones - mobile cellular: | 250,000 (2012) |
+| Telephone system: | general assessment: sparse system of microwave radio relay and HF radiotelephone communication stations |
+| Telephone system: | domestic: fixed-line connections only about 3 per 100 persons; mobile cellular usage about 30 per 100 persons |
+| Telephone system: | international: country code - 269; landing point for the EASSy fiber-optic submarine cable system connecting East Africa with Europe and North America; HF radiotelephone communications to Madagascar and Reunion (2010) |
+| Broadcast media: | national state-owned TV station and a TV station run by Anjouan regional government; national state-owned radio; regional governments on the islands of Grande Comore and Anjouan each operate a radio station; a few independent and small community radio stations operate on the islands of Grande Comore and Moheli, and these two islands have access to Mayotte Radio and French TV (2007) |
+| Internet country code: | .km |
+| Internet hosts: | 14 (2012) |
+| Internet users: | 24,300 (2009) |

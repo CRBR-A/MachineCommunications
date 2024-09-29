@@ -1,0 +1,11 @@
+| Communications | Tajikistan |
+| --- | --- |
+| Telephones - main lines in use: | 393,000 (2012) |
+| Telephones - mobile cellular: | 6.528 million (2012) |
+| Telephone system: | general assessment: foreign investment in the telephone system has resulted in major improvements; conversion of the existing fixed network from analogue to digital was completed in 2012 |
+| Telephone system: | domestic: fixed line availability has not changed significantly since 1998 while mobile cellular subscribership, aided by competition among multiple operators, has expanded rapidly; coverage now extends to all major cities and towns |
+| Telephone system: | international: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); satellite earth stations - 3 (2 Intelsat and 1 Orbita) (2011) |
+| Broadcast media: | state-run TV broadcaster transmits nationally on 4 stations and regionally on 4 stations; 11 independent TV stations broadcast locally and regionally; some households are able to receive Russian and other foreign stations via cable and satellite; state-run radio broadcaster operates Radio Tajikistan, Voice of Dushanbe, and several regional stations; a small number of independent radio stations (2010) |
+| Internet country code: | .tj |
+| Internet hosts: | 6,258 (2012) |
+| Internet users: | 700,000 (2009) |

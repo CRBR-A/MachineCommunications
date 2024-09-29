@@ -1,0 +1,15 @@
+| Communications | South Africa |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 3,629,141 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 7 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 91,878,275 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 168 (2017 est.) |
+| Telephone system: | general assessment: the system is the best-developed and most modern in Africa;Â mobile Internet accounts for aboutÂ 95% ofÂ Internet connections; 94% with access to WiMAX/LTE services; 5G trials; LTE-A services launched for commercial use (2018) |
+| Telephone system: | domestic: fixed-line 7 per 100 personsÂ and mobile-cellularÂ 168 telephones per 100 persons; consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria (2018) |
+| Telephone system: | international: country code - 27; landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata TGN-EurasiaÂ fiber-optic submarine cable systems connecting South Africa, East Africa, West Africa, Europe,Â Southeast Asia, Asia, South America, Indian Ocean Islands,Â and theÂ US;Â satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) (2019) |
+| Broadcast media: | the South African Broadcasting Corporation (SABC) operates 4 TV stations, 3 are free-to-air and 1 is pay TV; e.tv, a private station, is accessible to more than half the population; multiple subscription TV services provide a mix of local and international channels; well-developed mix of public and private radio stations at the national, regional, and local levels; the SABC radio network, state-owned and controlled but nominally independent, operates 18 stations, one for each of the 11 official languages, 4 community stations, and 3 commercial stations; more than 100 community-based stations extend coverage to rural areas |
+| Internet country code: | .za |
+| Internet users: | total: 29,322,380 |
+| Internet users: | percent of population: 54% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 1,698,360 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 3 (2017 est.) |

@@ -1,0 +1,15 @@
+| Communications | KENYA |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 180,000 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2014 est.) |
+| Telephones - mobile cellular: | total: 33.6 million |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 75 (2014 est.) |
+| Telephone system: | general assessment: inadequate; fixed-line telephone system is small and inefficient; trunks are primarily microwave radio relay; business data commonly transferred by a very small aperture terminal (VSAT) system |
+| Telephone system: | domestic: sole fixed-line provider, Telkom Kenya, privatized and as of 2013 is 70% owned by France Telecom; multiple providers in the mobile-cellular segment of the market fostering a boom in mobile-cellular telephone usage with teledensity reaching 65 per 100 persons in 2011 |
+| Telephone system: | international: country code - 254; landing point for the EASSy, TEAMS and SEACOM fiber-optic submarine cable systems; satellite earth stations - 4 Intelsat (2011) |
+| Broadcast media: | about a half-dozen large-scale privately owned media companies with TV and radio stations, as well as a state-owned TV broadcaster, provide service nationwide; satellite and cable TV subscription services available; state-owned radio broadcaster operates 2 national radio channels and provides regional and local radio services in multiple languages; many private radio stations broadcast on a national level along with over 100 private and non-profit provincial stations broadcasting in local languages; transmissions of several international broadcasters available (2014) |
+| Radio broadcast stations: | AM 24, FM 82, shortwave 6 (2008) |
+| Television broadcast stations: | 8 (2008) |
+| Internet country code: | .ke |
+| Internet users: | total: 16.5 million |
+| Internet users: | percent of population: 36.7% (2014 est.) |

@@ -1,0 +1,17 @@
+| Communications | Switzerland |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 3,012,224 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 36.08 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 10,618,759 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 127.19 (2019 est.) |
+| Telecommunication systems: | general assessment: highly developed telecommunications infrastructure with extensive domestic and international services; one of the highest broadband penetration rates inÂ Europe; although not a member of the EU, Switzerland follows the EU's telecom framework, and regulations;Â expansive cable broadband network with effective cross-platform competition; despite the countries expansion of 5G services, and switching off 2G infrastructure, the Environmental Agency has raised concernÂ regarding the 2,000 5G mobile antennas and asked the govt. to halt 5G transmissions, the developers of the 5G infrastructure are allowed to continue with future checks to be studied ofÂ the health implications of the radio frequency radiation; regulator auction of 5G spectrum (2020) |
+| Telecommunication systems: | domestic: ranked among leading countries for fixed-line teledensity and infrastructure; fixed-line 36 per 100 and mobile-cellular subscribership 127 per 100 persons; extensive cable and microwave radio relay networks (2019) |
+| Telecommunication systems: | international: country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | the publicly owned radio and TV broadcaster, Swiss Broadcasting Corporation (SRG/SSR), operates 8 national TV networks, 3 broadcasting in German, 3 in French, and 2 in Italian; private commercial TV stations broadcast regionally and locally; TV broadcasts from stations in Germany, Italy, and France are widely available via multi-channel cable and satellite TV services; SRG/SSR operates 17 radio stations that, along with private broadcasters, provide national to local coverage ) |
+| Broadcast media: | (2019) |
+| Internet country code: | .ch |
+| Internet users: | total: 7,437,820 |
+| Internet users: | percent of population: 89.69% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 3,957,669 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 48 (2018 est.) |

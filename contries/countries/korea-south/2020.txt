@@ -1,0 +1,16 @@
+| Communications | Korea, South |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 24,924,607 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 48.27 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 69,445,005 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 134.49 (2019 est.) |
+| Telecommunication systems: | general assessment: excellent domestic and international services featuring rapid incorporation of new technologies; rankedÂ 2nd out of 34 Asian telecom companies; exceedingly high mobile and mobile broadband penetration and very high fixed broadband penetration; highest number of broadband per capita; strong support from govt., savvy population has catapulted the nation into one of the world's most active telecommunication markets; 5G services live for enterprise customers in 2019, all 3 mobile operators offer 5G networks; slower growth predicted over the next five years to 2023 due to saturation and maturity of market; Chinese telecommunications company Huawei has partnered with other MNOs in South Korea (2020) |
+| Telecommunication systems: | domestic: fixed-line 48 per 100 and mobile-cellular services 135 per 100 persons; rapid assimilation of a full range of telecommunications technologies leading to a boom in e-commerce (2019) |
+| Telecommunication systems: | international: country code - 82;Â landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG North Asia Loop/REACH North Asia Loop, KJCN, NCP, andÂ SJC2 submarine cables providing links throughout Asia, Australia, the Middle East, Africa, Europe, Southeast Asia and US; satellite earth stations - 66 (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | multiple national TV networks with 2 of the 3 largest networks publicly operated; the largest privately owned network, Seoul Broadcasting Service (SBS), has ties with other commercial TV networks; cable and satellite TV subscription services available; publicly operated radio broadcast networks and many privately owned radio broadcasting networks, each with multiple affiliates, and independent local stations |
+| Internet country code: | .kr |
+| Internet users: | total: 49,309,955 |
+| Internet users: | percent of population: 95.9% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 21,285,858 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 41 (2018 est.) |

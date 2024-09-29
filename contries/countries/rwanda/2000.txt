@@ -1,0 +1,12 @@
+| Communications |   |
+| --- | --- |
+| Telephones - main lines in use: | 15,000 (1995) |
+| Telephones - mobile cellular: | NA |
+| Telephone system: | telephone system primarily serves business and government |
+| domestic: | the capital, Kigali, is connected to the centers of the prefectures by microwave radio relay; the remainder of the network depends on wire and HF radiotelephone |
+| international: | international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service) |
+| Radio broadcast stations: | AM 0, FM 3, shortwave 1 (1998) |
+| Radios: | 601,000 (1997) |
+| Television broadcast stations: | 2 (1997) |
+| Televisions: | NA; probably less than 1,000 (1997) |
+| Internet Service Providers (ISPs): | 1 (1999) |

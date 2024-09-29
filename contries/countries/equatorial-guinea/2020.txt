@@ -1,0 +1,16 @@
+| Communications | Equatorial Guinea |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 6,779 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 368,920 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 45.17 (2019 est.) |
+| Telecommunication systems: | general assessment: digital fixed-line network in most major urban areas and decent mobile cellular coverage; 3G technology has allowed for estimated 9.5% of growth during 2016 -2021; mobile data will be the fastest-growing segment 2016-2021 (2018) |
+| Telecommunication systems: | domestic: fixed-line density is about 1 per 100 persons and mobile-cellular subscribership is 45 per 100 (2019) |
+| Telecommunication systems: | international: country code - 240;Â landing points for the ACE, Ceiba-1, and Ceiba-2 submarineÂ cables providing communication from BataÂ and Malabo, Equatorial GuineaÂ to numerous Western African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | the state maintains control of broadcast media with domestic broadcast media limited to 1 state-owned TV station, 1 private TV station owned by the president's eldest son (who is the Vice President), 1 state-owned radio station, and 1 private radio station owned by the president's eldest son; satellite TV service is available; transmissions of multiple international broadcasters are generally accessible (2019) |
+| Internet country code: | .gq |
+| Internet users: | total: 209,253 |
+| Internet users: | percent of population: 26.24% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 1,620 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

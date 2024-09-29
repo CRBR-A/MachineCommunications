@@ -1,0 +1,17 @@
+| Communications | Morocco |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 1,982,934 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 5.63 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 45,065,083 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 127.95 (2019 est.) |
+| Telecommunication systems: | general assessment: national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay;Â one of the most state-of-the-art markets in Africa; high mobile penetration rates in the region with low cost for broadband Internet access; improvement inÂ LTE and VoD (Video on Demand) reach and capabilities; some market limitations with lack of competition; mobile internet accounts for 93.2% of all Internet connections (2020) |
+| Telecommunication systems: | domestic: fixed-line teledensity isÂ 6 per 100 persons andÂ mobile-cellular subscribership exceeds 128 per 100 persons; good system composed of open-wire lines, cables, and microwave radio relay links; principal switching centers are Casablanca and Rabat (2019) |
+| Telecommunication systems: | international: country code - 212; landing point for the Atlas Offshore, Estepona-Tetouan, CanalinkÂ and SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide connectivity to Asia,Â Africa,Â the Middle East, Europe and Australia; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 2 TV broadcast networks with state-run Radio-Television Marocaine (RTM) operating one network and the state partially owning the other; foreign TV broadcasts are available via satellite dish; 3 radio broadcast networks with RTM operating one; the government-owned network includes 10 regional radio channels in addition to its national service (2019) |
+| Internet country code: | .ma |
+| Internet users: | total: 22,596,729 |
+| Internet users: | percent of population: 64.8% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 1,552,599 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 4 (2018 est.) |
+| Communications - note: | the University of al-Quarawiyyin Library in Fez is recognized as the oldest existing, continually operating library in the world, dating back to A.D. 859; among its holdings are approximately 4,000 ancient Islamic manuscripts (2018) |

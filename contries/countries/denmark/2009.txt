@@ -1,0 +1,12 @@
+| Communications | Denmark |
+| --- | --- |
+| Telephones - main lines in use: | 2.487 million (2008) |
+| Telephones - mobile cellular: | 6.551 million (2008) |
+| Telephone system: | general assessment: excellent telephone and telegraph services |
+| Telephone system: | domestic: buried and submarine cables and microwave radio relay form trunk network, multiple cellular mobile communications systems |
+| Telephone system: | international: country code - 45; a series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2008) |
+| Radio broadcast stations: | AM 1, FM 355, shortwave 0 (1998) |
+| Television broadcast stations: | 172 (2008) |
+| Internet country code: | .dk |
+| Internet hosts: | 3.991 million (2009) |
+| Internet users: | 4.579 million (2008) |

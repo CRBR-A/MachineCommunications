@@ -1,0 +1,11 @@
+| Communications | Nicaragua |
+| --- | --- |
+| Telephones - main lines in use: | 287,600 (2011) |
+| Telephones - mobile cellular: | 4.822 million (2011) |
+| Telephone system: | general assessment: system being upgraded by foreign investment; nearly all installed telecommunications capacity now uses digital technology, owing to investments since privatization of the formerly state-owned telecommunications company |
+| Telephone system: | domestic: since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 5 per 100 persons; mobile-cellular telephone subscribership has increased to roughly 85 per 100 persons |
+| Telephone system: | international: country code - 505; the Americas Region Caribbean Ring System (ARCOS-1) fiber optic submarine cable provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) |
+| Broadcast media: | multiple privately-owned terrestrial TV networks, supplemented by cable TV in most urban areas; of more than 100 radio stations, nearly all are privately owned; Radio Nicaragua is government-owned and Radio Sandino is controlled by the Sandinista National Liberation Front (FSLN) (2007) |
+| Internet country code: | .ni |
+| Internet hosts: | 296,068 (2012) |
+| Internet users: | 199,800 (2009) |

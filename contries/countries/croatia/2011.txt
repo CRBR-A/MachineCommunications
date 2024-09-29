@@ -1,0 +1,11 @@
+| Communications | Croatia |
+| --- | --- |
+| Telephones - main lines in use: | 1.866 million (2010) |
+| Telephones - mobile cellular: | 6.362 million (2010) |
+| Telephone system: | general assessment: the telecommunications network has improved steadily since the mid-1990s; local lines are digital |
+| Telephone system: | domestic: fixed-line teledensity holding steady at about 40 per 100 persons; mobile-cellular telephone subscriptions exceed the population |
+| Telephone system: | international: country code - 385; digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe (TEL) fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik; the ADRIA-1 submarine cable provides connectivity to Albania and Greece (2009) |
+| Broadcast media: | the national state-owned public broadcaster, Croatian Radiotelevision (HRT), operates 2 terrestrial TV networks, a satellite channel that rebroadcasts programs for Croatians living abroad, and 6 regional TV centers; 2 private broadcasters operate national terrestrial networks; about 15 privately-owned regional TV stations; multi-channel cable and satellite TV subscription services are available; state-owned public broadcaster operates 3 national radio networks and a number of regional radio stations; 2 privately-owned national radio networks and a large number of regional, county, city, and community radio stations (2007) |
+| Internet country code: | .hr |
+| Internet hosts: | 1.287 million (2010) |
+| Internet users: | 2.234 million (2009) |

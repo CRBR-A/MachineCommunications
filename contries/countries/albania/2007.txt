@@ -1,0 +1,15 @@
+| Communications | Albania |
+| --- | --- |
+| Telephones - main lines in use: | 353,600 (2005) |
+| Telephones - mobile cellular: | 1.53 million (2005) |
+| Telephone system: | general assessment: despite new investment in fixed lines, the density of main lines remains low with roughly 10 lines per 100 people; however, cellular telephone use is widespread and generally effective; combined fixed line and mobile telephone density is approximately 60 telephones per 100 persons |
+| Telephone system: | domestic: offsetting the shortage of fixed line capacity, mobile phone service has been available since 1996; by 2003 two companies were providing mobile services at a greater density than some of Albania's Balkan neighbors; Internet broadband services initiated in 2005; internet cafes are popular in Tirana and have started to spread outside the capital |
+| Telephone system: | international: country code - 355; submarine cable provides connectivity to Italy, Croatia, and Greece; the Trans-Balkan Line, a combination submarine cable and land fiber optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2007) |
+| Radio broadcast stations: | AM 13, FM 46, shortwave 1 (2005) |
+| Radios: | 1 million (2001) |
+| Television broadcast stations: | 65 (3 national, 62 local); 2 cable networks (2005) |
+| Televisions: | 700,000 (2001) |
+| Internet country code: | .al |
+| Internet hosts: | 852 (2007) |
+| Internet Service Providers (ISPs): | 10 (2001) |
+| Internet users: | 471,200 (2006) |

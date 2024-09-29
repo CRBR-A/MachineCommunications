@@ -1,0 +1,16 @@
+| Communications | Grenada |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 33,011 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 29.3 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 115,008 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 102.08 (2019 est.) |
+| Telecommunication systems: | general assessment: adequate, island-wide telephone system; lack of local competition, but telecoms are a high contributors to overall GDP; growth sectors include the mobile telephony and data segments (2020) |
+| Telecommunication systems: | domestic: interisland VHF and UHF radiotelephone links; 29 per 100 for fixed-line and 102 per 100 for mobile-cellular (2019) |
+| Telecommunication systems: | international: country code - 1-473; landing points for theÂ ECFS, Southern Caribbean Fiber and CARCIPÂ submarine cables with links toÂ 13 Caribbean islands extending from the British Virgin Islands to Trinidad & Tobago including Puerto Rico and Barbados; SHF radiotelephone links to Trinidad and Tobago and Saint Vincent; VHF and UHF radio links to Trinidad (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | multiple publicly and privately owned television and radio stations; Grenada Information Service (GIS) is government-owned and provides television and radio services; the Grenada Broadcasting Network, jointly owned by the government and the Caribbean Communications Network of Trinidad and Tobago, operates a TV station and 2 radio stations; Meaningful Television (MTV) broadcasts island-wide and is part of a locally-owned media house, Moving Target Company, that also includes an FM radio station and a weekly newspaper; multi-channel cable TV subscription service is provided by Columbus Communications Grenada (FLOW GRENADA) and is available island wide; approximately 25 private radio stations also broadcast throughout the country (2019) |
+| Internet country code: | .gd |
+| Internet users: | total: 66,281 |
+| Internet users: | percent of population: 59.07% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 22,235 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 20 (2017 est.) |

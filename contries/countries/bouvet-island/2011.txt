@@ -1,0 +1,5 @@
+| Communications | Bouvet Island |
+| --- | --- |
+| Internet country code: | .bv |
+| Internet hosts: | 6 (2010) |
+| Communications - note: | automatic meteorological station |

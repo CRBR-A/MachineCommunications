@@ -1,0 +1,16 @@
+| Communications | Peru |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 3,099,172 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 9.8 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 39,138,119 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 123.76 (2019 est.) |
+| Telecommunication systems: | general assessment: good mobile operator competition with LTE services; broadband subscriber penetration low compared to other Latin AmericanÂ countries;Â 3G network and new LTE services expanded providing mobile broadband to rural communities, regulator auctions of 700 MHz spectrum for LTE services; Peru is seen as a potential market for growth in broadband, withÂ government work to installÂ fiber-optic backbone to remote areas (2020) |
+| Telecommunication systems: | domestic: fixed-line teledensity is only about 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now 124 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2019) |
+| Telecommunication systems: | international: country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SACÂ and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 2,000 radio stations including a substantial number of indigenous language stations (2019) |
+| Internet country code: | .pe |
+| Internet users: | total: 16,461,427 |
+| Internet users: | percent of population: 52.54% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 2,310,217 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 7 (2017 est.) |

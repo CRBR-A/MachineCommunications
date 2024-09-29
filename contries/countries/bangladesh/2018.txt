@@ -1,0 +1,15 @@
+| Communications | Bangladesh |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 710,189 (2017 est.) |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 145,113,669 (2017 est.) |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 92 (2017 est.) |
+| Telephone system: | general assessment: inadequate for a modern country; introducing digital systems; trunk systems include VHF and UHF microwave radio relay links, and some fiber-optic cable in cities; fixed broadband penetration in Bangladesh remains very low mainly due to the dominance of the mobile platform; in July 2018Â  first test run of 5G technology in Bangladesh took place in Dhaka (2017) |
+| Telephone system: | domestic: fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceedsÂ 92 telephones per 100 persons; slow to moderate mobile subscriber growth isÂ anticipated over the next five years to 2023; strong local competition (2017) |
+| Telephone system: | international: country code - 880; landing point for the SEA-ME-WE-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2016) |
+| Broadcast media: | state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some channels, such as BTV World, operate via satellite. The government also owns a medium wave radio channel and some private FM radio broadcast news channels. Of the 41 Bangladesh approved TV stations, 26 are currently being used to broadcast. Of those, 23 operate under private management via cable distribution. Collectively, TV channels can reach more than 50 million people across the country. (2018) |
+| Internet country code: | .bd |
+| Internet users: | total: 28,499,324 (July 2016 est.) |
+| Internet users: | percent of population: 18.2% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 7.296 million (2017 est.) |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 5 (2017 est.) |

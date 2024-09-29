@@ -1,0 +1,16 @@
+| Communications | Brazil |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 33,585,164 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 15.97 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 207,862,093 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 98.84 (2019 est.) |
+| Telecommunication systems: | general assessment: Brazil is one of the largest mobile and broadband markets in Latin America; 5G auction delayed due to interference issues; four major (mobile network operators) MNOs offering a range of voice and data services; broadband penetration only behind Chile, Argentina, and Uruguay; country is a pioneer in the region for M-commerce (electronic commerce conducted on mobile phones) (2020) |
+| Telecommunication systems: | domestic: fixed-line connections have remained relatively stable in recent years and stand at about 16 per 100 persons; less-expensive mobile-cellular technology has been a major impetus broadening telephone service to the lower-income segments of the population with mobile-cellular teledensity roughly 99 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 55; landing points for a number of submarine cables, including Malbec, ARBR, Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, GlobeNet, AMX-1, Brazilian Festoon, Bicentenario, Unisur, Junior, Americas -II,Â SAE x1, SAIL, SACSÂ andÂ SABR that provide direct connectivity to South and Central America, the Caribbean, the US, Africa, and Europe;Â satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station; satellitesÂ is aÂ major communication platform, as it is almost impossible to lay fiber optic cable in the thick vegetation (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state-run Radiobras operates a radio and a TV network; more than 1,000 radio stations and more than 100 TV channels operating - mostly privately owned; private media ownership highly concentrated |
+| Internet country code: | .br |
+| Internet users: | total: 140,908,998 |
+| Internet users: | percent of population: 67.47% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 31,233,004 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 15 (2018 est.) |

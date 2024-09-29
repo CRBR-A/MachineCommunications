@@ -1,0 +1,11 @@
+| Communications | Yemen |
+| --- | --- |
+| Telephones - main lines in use: | 1.1 million (2012) |
+| Telephones - mobile cellular: | 13.9 million (2012) |
+| Telephone system: | general assessment: since unification in 1990, efforts have been made to create a national telecommunications network |
+| Telephone system: | domestic: the national network consists of microwave radio relay, cable, tropospheric scatter, GSM and CDMA mobile-cellular telephone systems; fixed-line and mobile-cellular teledensity remains low by regional standards |
+| Telephone system: | international: country code - 967; landing point for the international submarine cable Fiber-Optic Link Around the Globe (FLAG); satellite earth stations - 3 Intelsat (2 Indian Ocean and 1 Atlantic Ocean), 1 Intersputnik (Atlantic Ocean region), and 2 Arabsat; microwave radio relay to Saudi Arabia and Djibouti (2006) |
+| Broadcast media: | state-run TV with 2 stations; state-run radio with 2 national radio stations and 5 local stations; stations from Oman and Saudi Arabia can be accessed (2007) |
+| Internet country code: | .ye |
+| Internet hosts: | 33,206 (2012) |
+| Internet users: | 2.349 million (2009) |

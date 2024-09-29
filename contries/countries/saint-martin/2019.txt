@@ -1,0 +1,9 @@
+| Communications | Saint Martin |
+| --- | --- |
+| Telephone system: | general assessment: fully integrated access; Â good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development (2018) |
+| Telephone system: | domestic: direct dial capability with both fixed and wireless systems (2018) |
+| Telephone system: | international: country code - 590;Â landing points for the SMPR-1, Southern Caribbean Fiber and the SSCS submarineÂ cables providing connectivity to numerous Caribbean islandsÂ Â  (2019) |
+| Broadcast media: | 1 local TV station; access to about 20 radio stations, including RFO Guadeloupe radio broadcasts via repeater |
+| Internet country code: | .mf; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered |
+| Internet users: | total: 1,100 |
+| Internet users: | percent of population: 3.5% (July 2016 est.) |

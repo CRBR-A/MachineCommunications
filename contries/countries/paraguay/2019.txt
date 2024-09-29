@@ -1,0 +1,15 @@
+| Communications | Paraguay |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 290,109 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 4 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 7,468,275 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 108 (2017 est.) |
+| Telephone system: | general assessment: the fixed-line market is a state monopoly and fixed-line telephone service is meager; principal switching center is in Asuncion; DSL, cable modem, FttP (fiber toÂ the home)Â and WiMAX technologies available; competition in mobile market among 4 operators; 18 mobile phones for every fixed-line service phone (2018) |
+| Telephone system: | domestic: deficiencies in provision of fixed-line service have resulted in a rapid expansion of mobile-cellular services fostered by competition among multiple providers; Internet market also open to competition; fixed-line 4 per 100 and mobile-cellular 108 per 100 (2018) |
+| Telephone system: | international: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019) |
+| Broadcast media: | 6 privately owned TV stations; about 75 commercial and community radio stations; 1 state-owned radio network (2019) |
+| Internet country code: | .py |
+| Internet users: | total: 3,524,045 |
+| Internet users: | percent of population: 51.3% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 278,169 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 4 (2017 est.) |

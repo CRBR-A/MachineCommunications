@@ -1,0 +1,6 @@
+| Communications | Saint Barthelemy |
+| --- | --- |
+| Telephone system: | general assessment: fully integrated access |
+| Telephone system: | domestic: direct dial capability with both fixed and wireless systems |
+| Telephone system: | international: country code - 590; undersea fiber-optic cable provides voice and data connectivity to Puerto Rico and Guadeloupe |
+| Internet country code: | .bl; note - .gp, the ccTLD for Guadeloupe, and .fr, the ccTLD for France, might also be encountered |

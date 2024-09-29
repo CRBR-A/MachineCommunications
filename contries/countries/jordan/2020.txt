@@ -1,0 +1,16 @@
+| Communications | Jordan |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 375,576 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 3.52 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 8,215,735 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 77 (2019 est.) |
+| Telecommunication systems: | general assessment: microwave radio relay transmission and coaxial and fiber-optic cable are employed on trunk lines; growing mobile-cellular usage in both urban and rural areas is reducing use of fixed-line services; recent influx of refugees putting burden on country's economy, infrastructure and society; mobile broadbandÂ is area ofÂ growth with 4G services; govt. recently launched Ministry of Digital Economy & Entrepreneurship; preparing for next wave of developmentÂ with 5G and IoT/MsM services (2020) |
+| Telecommunication systems: | domestic: 1995 a telecommunications law opened all non-fixed-line services to private competition; in 2005, the monopoly over fixed-line services terminated and the entire telecommunications sector was opened to competition; currently fixed-line 4 per 100 persons and multiple mobile-cellular providers with subscribership up to 77 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 962; landing point for theÂ FEA andÂ Taba-Aqaba submarine cable networks providing connectivity to Europe, the Middle East, Southeast Asia and Asia; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | radio and TV dominated by the government-owned Jordan Radio and Television Corporation (JRTV) that operates a main network, a sports network, a film network, and a satellite channel; first independent TV broadcaster aired in 2007; international satellite TV and Israeli and Syrian TV broadcasts are available; roughly 30 radio stations with JRTV operating the main government-owned station; transmissions of multiple international radio broadcasters are available |
+| Internet country code: | .jo |
+| Internet users: | total: 6,985,174 |
+| Internet users: | percent of population: 66.79% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 399,596 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 4 (2018 est.) |

@@ -1,0 +1,11 @@
+| Communications | Central African Republic |
+| --- | --- |
+| Telephones - main lines in use: | 5,600 (2012) |
+| Telephones - mobile cellular: | 1.07 million (2012) |
+| Telephone system: | general assessment: network consists principally of microwave radio relay and low-capacity, low-powered radiotelephone communication |
+| Telephone system: | domestic: limited telephone service with less than 1 fixed-line connection per 100 persons; spurred by the presence of multiple mobile-cellular service providers, cellular usage is increasing from a low base; most fixed-line and mobile-cellular telephone services are concentrated in Bangui |
+| Telephone system: | international: country code - 236; satellite earth station - 1 Intelsat (Atlantic Ocean) (2011) |
+| Broadcast media: | government-owned network, Radiodiffusion Television Centrafricaine, provides domestic TV broadcasting; licenses for 2 private TV stations are pending; state-owned radio network is supplemented by a small number of privately owned broadcast stations as well as a few community radio stations; transmissions of at least 2 international broadcasters are available (2007) |
+| Internet country code: | .cf |
+| Internet hosts: | 20 (2012) |
+| Internet users: | 22,600 (2009) |

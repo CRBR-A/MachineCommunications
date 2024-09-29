@@ -1,0 +1,15 @@
+| Communications | Nepal |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 861,299 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 3 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 32,120,305 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 109 (July 2016 est.) |
+| Telephone system: | general assessment: mountainous topography hinders development of telecom infrastructure; fair radiotelephone communication service; 20% of the market share is fixed (wired) broadband, 2% is fixed (wireless) broadband, and 78% is mobile broadband (2019); fixed broadband is low due to limited number of fixed lines and preeminence of the mobile platform; accelerated mobile broadband penetration the last five years; 90% of the population will have access to broadband by 2020 (2018) |
+| Telephone system: | domestic: mobile service has been extended to all 75 districts covering 90% of Nepalâ€™s land area; 3G coverage is available in 20 major cities (2019); disparity between high coverage in cities and coverage available in underdeveloped rural regions; fixed-line 3 per 100 persons and mobile-cellular 109 per 100 persons (2018) |
+| Telephone system: | international: country code - 977; Nepal, China and Tibet connected across borders with underground and all-dielectric self-supporting (ADSS) fiber-optic cables; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2019) |
+| Broadcast media: | state operates 3 TV stations, as well as national and regional radio stations; 117 television channels are licensed, among those 71 are cable television channels,Â three are distributed throughÂ Direct-To-Home (DTH) system, and four are digital terrestrial;Â 736 FM radio stations are licensed and at least 314 of those radio stations are community radio stations (2019) |
+| Internet country code: | .np |
+| Internet users: | total: 5,716,419 |
+| Internet users: | percent of population: 19.7% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 224,184 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2017 est.) |

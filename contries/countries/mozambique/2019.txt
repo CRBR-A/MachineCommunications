@@ -1,0 +1,15 @@
+| Communications | Mozambique |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 80,545 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 11,875,506 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 45 (2017 est.) |
+| Telephone system: | general assessment: the mobile segment has shown strong growth given competition; poor fixed-line infrastructure means most Internet access is through mobile accounts;Â DSL, cable broadband, WiMAX (broadband over long distances), 3G and some fibre broadband available; LTE services launched (2018) |
+| Telephone system: | domestic: extremely low fixed-line teledensity contrasts with rapid growth in the mobile-cellular network; operators provide coverage that includes all the main cities and key roads; fixed-line less than 1 per 100 and 45 per 100Â mobile-cellular teledensity (2018) |
+| Telephone system: | international: country code - 258; landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic submarine cable systems linking numerousÂ east AfricanÂ countries, the Middle East and AsiaÂ ; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean) (2019) |
+| Broadcast media: | 1 state-run TV station supplemented by private TV station; Portuguese state TV's African service, RTP Africa, and Brazilian-owned TV Miramar are available; state-run radio provides nearly 100% territorial coverage and broadcasts in multiple languages; a number of privately owned and community-operated stations; transmissions of multiple international broadcasters are available (2019) |
+| Internet country code: | .mz |
+| Internet users: | total: 4,543,284 |
+| Internet users: | percent of population: 17.5% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 41,653 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

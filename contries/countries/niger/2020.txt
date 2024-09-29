@@ -1,0 +1,16 @@
+| Communications | Niger |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 116,352 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 8,921,769 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 40.64 (2019 est.) |
+| Telecommunication systems: | general assessment: mobile services stronger than fixed telecoms; broadband penetrationÂ inconsequential; adopts free mobile roaming with other G5 Sahel countries; govt. contributes to Trans-Sahara Backbone network;Â LTE license awarded; govt. tax of telecom sector (2020) |
+| Telecommunication systems: | domestic: fixed-line 1 per 100 persons and mobile-cellular teledensity remains 41 per 100 persons despite a rapidly increasing cellular subscribership base; small system of wire, radio telephone communications, and microwave radio relay links concentrated in southwestern Niger; domestic satellite system with 3 earth stations and 1 planned (2019) |
+| Telecommunication systems: | international: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state-run TV station; 3 private TV stations provide a mix of local and foreign programming; state-run radio has only radio station with national coverage; about 30 private radio stations operate locally; as many as 100 community radio stations broadcast; transmissions of multiple international broadcasters are available |
+| Internet country code: | .ne |
+| Internet users: | total: 1,110,778 |
+| Internet users: | percent of population: 5.25% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 8,650 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

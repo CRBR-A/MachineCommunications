@@ -1,0 +1,16 @@
+| Communications | Botswana |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 141,207 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 6 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 3,240,589 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 146 (2017 est.) |
+| Telephone system: | general assessment: effective regulatory reform has turned the Botswana's telecom market into one of the most liberalized in the region; Botswana has one of the highest mobile penetration rates in Africa; 3 MNOsÂ have entered the underdeveloped broadband sectorÂ with the adoption of 3G, LTE and WiMAX technologies;Â mobile Internet remains the preferred choice (2018) |
+| Telephone system: | domestic: fixed-line teledensity has declined in recent years and now stands at roughly 6 telephones per 100 persons; mobile-cellular teledensityÂ has advanced toÂ 150 telephones per 100 persons (2018) |
+| Telephone system: | international: country code - 267; international calls are made via satellite, using international direct dialing; 2 international exchanges; digital microwave radio relay links to Namibia, Zambia, Zimbabwe, and South Africa; satellite earth station - 1 Intelsat (Indian Ocean) |
+| Telephone system: | Botswana is participating in regional development efforts; expanding fully digital system with fiber-optic cables linking the major population centers in the east as well as a system of open-wire lines, microwave radio relays links, and radiotelephone communication stations; the Botswana Telecommunications Corporation is rolling out 4G service to over 95 sites in the country that will improve network connectivity |
+| Broadcast media: | 2 TV stations - 1 state-owned and 1 privately owned; privately owned satellite TV subscription service is available; 2 state-owned national radio stations; 3 privately owned radio stations broadcast locally (2019) |
+| Internet country code: | .bw |
+| Internet users: | total: 869,610 |
+| Internet users: | percent of population: 39.4% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 48,901 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 2 (2017 est.) |

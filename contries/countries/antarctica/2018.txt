@@ -1,0 +1,8 @@
+| Communications | Antarctica |
+| --- | --- |
+| Telephone system: | general assessment: local systems at some research stations (2015) |
+| Telephone system: | domestic: commercial cellular networks operating in a small number of locations (2015) |
+| Telephone system: | international: country code - none allocated; via satellite (including mobile Inmarsat and Iridium systems) to and from all research stations, ships, aircraft, and most field parties (2015) |
+| Internet country code: | .aq |
+| Internet users: | total: 4,400 (July 2016 est.) |
+| Internet users: | percent of population: 100% (July 2016 est.) |

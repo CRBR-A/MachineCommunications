@@ -1,0 +1,15 @@
+| Communications | Turkmenistan |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 5.315 million |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 132 (January 2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 8.575 million |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 160 (July 2016 est.) |
+| Telephone system: | general assessment: telecommunications network is gradually improvingÂ for the former Soviet republic; state control over most economic activities has not helped growth; mobile market will see slow growth; some rural areasÂ are still without telephones; mobile broadband is in the early stages of development (2018) |
+| Telephone system: | domestic: Turkmentelekom, in cooperation with foreign partners, has installed high-speed fiber-optic lines and has upgraded most of the country's telephone exchanges and switching centers with new digital technology; fixed-lineÂ 13 per 100 and mobile-cellular teledensity is about 160 per 100 persons; Russia's Mobile TeleSystems (MTS), the only foreign mobile-cellular service provider in Turkmenistan, suspended operations in September 2017 due to the state-owned telecom company cutting MTS' access to international and long-distance communication services and Internet; Turkmenistan's first telecommunication satellite was launched in 2015 and is expected to greatly improve connectivity in the country (2018) |
+| Telephone system: | international: country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2018) |
+| Broadcast media: | broadcast media is government controlled and censored; 7 state-owned TV and 4 state-owned radio networks; satellite dishes and programming provide an alternative to the state-run media; officials sometimes limit access to satellite TV by removing satellite dishes |
+| Internet country code: | .tm |
+| Internet users: | total: 951,925 (2019 est.) |
+| Internet users: | percent of population: 24% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 4,000 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

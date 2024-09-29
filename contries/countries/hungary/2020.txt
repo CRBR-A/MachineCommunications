@@ -1,0 +1,16 @@
+| Communications | Hungary |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 3,084,836 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 31.48 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 10,394,172 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 106.07 (2019 est.) |
+| Telecommunication systems: | general assessment: telephone system is digital and highly automated; broadband penetration is the highest in Eastern Europe; replacement of all copper infrastructure with fiber nationally; govt. expands e-payment systems; regulator makes preparations for 5G service (2020) |
+| Telecommunication systems: | domestic: competition among mobile-cellular service providers has led to a sharp increase in the use of mobile-cellular phones, and a decrease in the number of fixed-line connections, 31 per 100 persons, while mobile-cellular is 106 per 100 (2019) |
+| Telecommunication systems: | international: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | mixed system of state-supported public service broadcast media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; a large number of special interest channels; highly developed market for satellite and cable TV services with about two-thirds of viewers utilizing their services; 4 state-supported public-service radio networks; a large number of local stations including commercial, public service, nonprofit, and community radio stations; digital transition completed at the end of 2013; government-linked businesses have greatly consolidated ownership in broadcast and print media |
+| Internet country code: | .hu |
+| Internet users: | total: 7,474,413 |
+| Internet users: | percent of population: 76.07% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 3,079,549 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 31 (2018 est.) |

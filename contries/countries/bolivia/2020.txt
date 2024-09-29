@@ -1,0 +1,16 @@
+| Communications | Bolivia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 719,399 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 6.27 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 11,567,760 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 100.82 (2019 est.) |
+| Telecommunication systems: | general assessment: lowest GDP in the area; much of the population live in remote valleys and telecommunicationsÂ is poor; consumers pick from multiple long-distance carriers for each call;Â reliability, and coverage have steadily improved, but some remote areas are still underserved;Â operatorsÂ plan to extend fiber to all 339 municipal capital cities by 2022; move from 3G to LTE available by all 3 mobile companies; 92% of all InternetÂ is through smartphone; broadband services remain expensiveÂ by the lack of competition and that fact that Bolivia is landlocked andÂ does not have access throughÂ submarine cables;Â MNP (mobile number portability) launched in October 2018; Bolivian Space Agency planning to launch a second telecom satellite after 2020 (2020) |
+| Telecommunication systems: | domestic: 6 per 100 fixed-line, mobile-cellular telephone use expanding rapidly and teledensity stands atÂ 101 per 100 persons; most telephones are concentrated in La Paz, Santa Cruz, and other capital cities (2019) |
+| Telecommunication systems: | international: country code - 591; Bolivia has no direct access to submarine cable networks and must therefore connect to the rest of the world either via satellite or through terrestrial links across neighboring countries; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | large number of radio and TV stations broadcasting with private media outlets dominating; state-owned and private radio and TV stations generally operating freely, although both pro-government and anti-government groups have attacked media outlets in response to their reporting |
+| Internet country code: | .bo |
+| Internet users: | total: 4,955,569 |
+| Internet users: | percent of population: 43.83% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 504,097 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 4 (2018 est.) |

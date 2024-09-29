@@ -1,0 +1,16 @@
+| Communications | Croatia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 1,371,999 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 32.29 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 4,531,122 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 106.64 (2019 est.) |
+| Telecommunication systems: | general assessment: the mobile marketÂ has one of the highest penetration rates in the Balkans region; covering much of what were once inaccessible areas; local lines are digital; telecom market in Croatia has been shaped by Croatia becoming part of the European Union in 2013, a process whichÂ opened up the marketÂ and the creation of a regulatory environmentÂ leading to competition in mobile and broadband;Â investment among operators has led to a relatively high broadband penetration in the region; trials for 5G technologies underway (2020) |
+| Telecommunication systems: | domestic: fixed-line teledensity has dropped somewhat to about 32 per 100 persons; mobile-cellular telephone subscriptions 107 per 100 (2019) |
+| Telecommunication systems: | international: country code - 385; Â the ADRIA-1 submarine cable provides connectivity to Albania and Greece;Â digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | the national state-owned public broadcaster, Croatian Radiotelevision, operates 4 terrestrial TV networks, a satellite channel that rebroadcasts programs for Croatians living abroad, and 6 regional TV centers; 2 private broadcasters operate national terrestrial networks;Â 29 privately owned regional TV stations; multi-channel cable and satellite TV subscription services are available; state-owned public broadcaster operatesÂ 4 national radio networks andÂ 23 regional radio stations; 2 privately owned national radio networks and 117 localÂ radio stations (2019) |
+| Internet country code: | .hr |
+| Internet users: | total: 3,104,212 |
+| Internet users: | percent of population: 72.69% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 1,127,591 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 26 (2018 est.) |

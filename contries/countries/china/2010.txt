@@ -1,0 +1,11 @@
+| Communications | China |
+| --- | --- |
+| Telephones - main lines in use: | 313.68 million (2009) |
+| Telephones - mobile cellular: | 747 million (2009) |
+| Telephone system: | general assessment: domestic and international services are increasingly available for private use; unevenly distributed domestic system serves principal cities, industrial centers, and many towns; China continues to develop its telecommunications infrastructure, and is partnering with foreign providers to expand its global reach; China in the summer of 2008 began a major restructuring of its telecommunications industry, resulting in the consolidation of its six telecom service operators to three, China Telecom, China Mobile and China Unicom, each providing both fixed-line and mobile services |
+| Telephone system: | domestic: interprovincial fiber-optic trunk lines and cellular telephone systems have been installed; mobile-cellular subscribership is increasing rapidly; the number of Internet users exceeded 250 million by summer 2008; a domestic satellite system with 55 earth stations is in place |
+| Telephone system: | international: country code - 86; a number of submarine cables provide connectivity to Asia, the Middle East, Europe, and the US; satellite earth stations - 7 (5 Intelsat - 4 Pacific Ocean and 1 Indian Ocean; 1 Intersputnik - Indian Ocean region; and 1 Inmarsat - Pacific and Indian Ocean regions) (2008) |
+| Broadcast media: | all broadcast media are owned by, or affiliated with, the Communist Party of China or a government agency; no privately-owned television or radio stations with state-run Chinese Central TV, provincial, and municipal stations offering more than 2,000 channels; the Central Propaganda Department lists subjects that are off limits to domestic broadcast media with the government maintaining authority to approve all programming; foreign-made TV programs must be approved prior to broadcast (2008) |
+| Internet country code: | .cn |
+| Internet hosts: | 15.251 million (2010) |
+| Internet users: | 389 million (2009) |

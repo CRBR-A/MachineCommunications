@@ -1,0 +1,15 @@
+| Communications | Mali |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 200,812 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (July 2016 est.) |
+| Telephones - mobile cellular: | total subscriptions: 20,217,697 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 113 (July 2016 est.) |
+| Telephone system: | general assessment: domestic system improving; increasing use of local radio loops to extend network coverage to remote areas; geography a challenge for telecommunications; poverty, security, high illiteracy and low PC use has taken its toll;Â Â 4 mobile operators in market; potential for mobile broadband services; local plans for Internet Exchange Point (2018) |
+| Telephone system: | domestic: fixed-line subscribership remains less than 1 per 100 persons; mobile-cellular subscribership has increased sharply to over 113 per 100 persons (2018) |
+| Telephone system: | international: country code - 223; satellite communications center and fiber-optic links to neighboring countries; satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean); new competition with submarine fiber optic cables in the region |
+| Broadcast media: | national public TV broadcaster; 2 privately owned companies provide subscription services to foreign multi-channel TV packages; national public radio broadcaster supplemented by a large number of privately owned and community broadcast stations; transmissions of multiple international broadcasters are available (2019) |
+| Internet country code: | .ml |
+| Internet users: | total: 1,940,978 |
+| Internet users: | percent of population: 11.1% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 21,444 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

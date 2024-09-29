@@ -1,0 +1,12 @@
+| Communications | Ghana |
+| --- | --- |
+| Telephones - main lines in use: | 143,900 (2008) |
+| Telephones - mobile cellular: | 11.57 million (2008) |
+| Telephone system: | general assessment: outdated and unreliable fixed-line infrastructure heavily concentrated in Accra; competition among multiple mobile-cellular providers has spurred growth with a subscribership of 50 per 100 persons and rising |
+| Telephone system: | domestic: primarily microwave radio relay; wireless local loop has been installed |
+| Telephone system: | international: country code - 233; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors (2008) |
+| Radio broadcast stations: | AM 0, FM 86, shortwave 3 (2007) |
+| Television broadcast stations: | 7 (2007) |
+| Internet country code: | .gh |
+| Internet hosts: | 23,850 (2009) |
+| Internet users: | 997,000 (2008) |

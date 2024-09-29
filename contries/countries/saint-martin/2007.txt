@@ -1,0 +1,7 @@
+| Communications | Saint Martin |
+| --- | --- |
+| Telephone system: | general assessment: fully integrated access |
+| Telephone system: | domestic: direct dial capability with both fixed and wireless systems |
+| Telephone system: | international: country code - 590; undersea fiber-optic cable provides voice and data connectivity to Puerto Rico and Gudaloupe |
+| Radio broadcast stations: | FM 3 (2007) |
+| Internet country code: | .mf; note - .gp, the ccTLD for Guadeloupe, and .fr, the ccTLD for France, might also be encountered |

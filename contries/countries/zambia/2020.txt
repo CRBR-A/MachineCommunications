@@ -1,0 +1,17 @@
+| Communications | Zambia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 91,422 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 16,322,168 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 96.41 (2019 est.) |
+| Telecommunication systems: | general assessment: service is among the best in Sub-Saharan Africa; regulatory promotes competition and is a partner to private sector service providers, offering mobile voice and Internet at some of the lowest prices in the region; investment made in data centers, education centers and computer assembly training plants; operators invest in 3G and LTE-based services; Chinese company Huawei is helping to upgrade state-owned mobile infrastructure for 5G services; 3 cellular telephone providers currently in operation, plus several data only ISPs; 1,010 towers project to soon be completed (2020) |
+| Telecommunication systems: | domestic: fiber optic connections are available between most larger towns and cities with microwave radio relays serving more rural areas; 3G and LTE with FttX in limited urban areas and private Ku or Ka band VSAT terminals in remote locations; fixed-line 1 per 100 and mobile-cellular 96 per 100 (2019) |
+| Telecommunication systems: | international: country code - 260; multiple providers operate overland fiber optic routes via Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access to the major undersea cables |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | according to the Independent Broadcast Authority, there are 137 radio stations and 47 television stations in Zambia; out of the 137 radio stations, 133 are private (categorized as either commercial or community radio stations), while 4 are public-owned; state-owned Zambia National Broadcasting Corporation (ZNBC) operates 2 television channels and 3 radio stations; ZNBC owns 75% shares in GoTV, 40% in MultiChoice, and 40% in TopStar Communications Company, all of which operate in-country |
+| Broadcast media: | (2019) |
+| Internet country code: | .zm |
+| Internet users: | total: 2,351,646 |
+| Internet users: | percent of population: 14.3% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 43,365 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

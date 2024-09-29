@@ -1,0 +1,15 @@
+| Communications | Solomon Islands |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 7,405 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 465,331 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 72 (2017 est.) |
+| Telephone system: | general assessment: Internet penetration has reached 20%; 3G mobile networks expanding and even 4G LTE services launched in the capital; otherwise 2G and satellite services for communication and Internet access; increase in broadband subscriptions (2018) |
+| Telephone system: | domestic: fixed-line is 1 per 100 persons and mobile-cellular telephone density is aboutÂ 72 per 100 persons; domestic cable system to extend to key major islands (2018) |
+| Telephone system: | international: country code - 677; landing points for the CSCS and ICNS2 submarine cables providing connectivity from Solomon Islands, to PNG, Vanuatu and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019) |
+| Broadcast media: | Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; multi-channel pay-TV is available; SIBC operates 2 national radio stations and 2 provincial stations; there are 2 local commercial radio stations; Radio Australia is available via satellite feed (since 2009) (2019) |
+| Internet country code: | .sb |
+| Internet users: | total: 69,859 |
+| Internet users: | percent of population: 11% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 1,166 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

@@ -1,0 +1,16 @@
+| Communications | France |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 38.687 million |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 58 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 69.017 million |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 103 (2017 est.) |
+| Telephone system: | general assessment: extensive cable and microwave radio relay; extensive use of fiber-optic cable; domestic satellite system; highly developed; 3rd largest in Europe; broadband subscriber rate remains strong at 4% (2018) |
+| Telephone system: | domestic: 58 per 100 persons for fixed-line and 103 per 100 for mobile-cellular subscriptions (2018) |
+| Telephone system: | international: country code - 33;Â landing points for Circe South, TAT-14, INGRID, FLAG Atlantic-1, Apollo, HUGO, IFC-1, ACE, SeaMeWe-3 & 4, Dunant, Africa-1, AAE-1, Atlas Offshore, Hawk, IMEWE, Med Cable, PEACE Cable, and TEÂ North/TGN-Eurasia/SEACOM/Alexandros/MedexÂ submarine cables providing links throughout Europe, Asia, Australia, the Middle East,Â Southeast Asia, AfricaÂ and US; satellite earth stations - more than 3 (2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat - Atlantic Ocean region); HF radiotelephone communications with more than 20 countries (2019) |
+| Telephone system: | overseas departments: country codes: French Guiana - 594; landing points for Ella Link, Kanawa, Americas II to South America, Europe, Caribbean and US; Guadeloupe - 590; landing points for GCN, Southern Caribbean Fiber, andÂ ECFSÂ around the Caribbean andÂ US;Â Martinique - 596; landing points for Ameicas II, ECFS, and Southern Caribbean Fiber to South America, US and around the Caribbean; Â Mayotte - 262; landing points for FLY-LION3 and LION2 toÂ East Africa and East African Islands in Indian Ocean;Â Reunion - 262; landing points for SAFE, METISS, and LION submarine cables to Asia, South and East Africa, Southeast Asia and nearby Indian Ocean Island countries of Mauritius, and MadagascarÂ  (2019) |
+| Broadcast media: | a mix of both publicly operated and privately owned TV stations; state-owned France television stations operate 4 networks, one of which is a network of regional stations, and has part-interest in several thematic cable/satellite channels and international channels; a large number of privately owned regional and local TV stations; multi-channel satellite and cable services provide a large number of channels; public broadcaster Radio France operates 7 national networks, a series of regional networks, and operates services for overseas territories and foreign audiences; Radio France Internationale, under the Ministry of Foreign Affairs, is a leading international broadcaster; a large number of commercial FM stations, with many of them consolidating into commercial networks |
+| Internet country code: | metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re |
+| Internet users: | total: 57,226,585 |
+| Internet users: | percent of population: 85.6% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 28.429 million |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 42 (2017 est.) |

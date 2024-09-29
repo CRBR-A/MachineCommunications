@@ -1,0 +1,16 @@
+| Communications | Belgium |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 3,967,054 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 34.06 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 11,616,970 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 99.74 (2019 est.) |
+| Telecommunication systems: | general assessment: highly developed, technologically advanced, and completely automated domestic and international telephone and telegraph facilities; LTE availability is nearly universal in mobile sector; ongoing investments in developing applications and services for migration to 5G, operators are looking into repurposing 3G infrastructure and spectrum as they gear up for 5G; Europe-wide approach to simultaneous movement to 5GÂ on going; 5G will be main motivationÂ for growth and revenue in years to come;Â consumer are interested in quad-play/bundled services (broadband +television +telephone +wireless services)Â which will mean MNOs (mobile network operators)Â areÂ enhancing their fixed-line offerings (2020) |
+| Telecommunication systems: | domestic: 34 per 100 fixed-line, 100 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2019) |
+| Telecommunication systems: | international: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia and Asia; satellite earth stations - 7 (Intelsat - 3) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | a segmented market with the three major communities (Flemish, French, and German-speaking) each having responsibility for their own broadcast media; multiple TV channels exist for each community; additionally, in excess of 90% of households are connected to cable and can access broadcasts of TV stations from neighboring countries; each community has a public radio network coexisting with private broadcasters |
+| Internet country code: | .be |
+| Internet users: | total: 10,258,638 |
+| Internet users: | percent of population: 88.66% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 4,502,950 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 39 (2018 est.) |

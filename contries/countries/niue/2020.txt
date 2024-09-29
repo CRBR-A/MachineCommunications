@@ -1,0 +1,10 @@
+| Communications | Niue |
+| --- | --- |
+| Telecommunication systems: | general assessment: sole provider service for over 1000 landlines and fixed wireless lines; cellular telephone service operates on AMPS and GSM platforms; difficult geography presents challenges for rural areas; mobile is primary source of Internet access; mobile broadband demand is growingÂ due to mobile services (2020) |
+| Telecommunication systems: | domestic: single-line (fixed line) telephone system connects all villages (and virtually all households) on island (2018) |
+| Telecommunication systems: | international: country code - 683; landing point for the Manatua submarine cable linking Niue to several South Pacific Ocean Islands; expansion of satellite services (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 1 government-owned TV station with many of the programs supplied by Television New Zealand; 1 government-owned radio station broadcasting in AM and FM (2019) |
+| Internet country code: | .nu |
+| Internet users: | total: 1,090 |
+| Internet users: | percent of population: 91.6% (July 2016 est.) |

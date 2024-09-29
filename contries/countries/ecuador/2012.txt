@@ -1,0 +1,11 @@
+| Communications | Ecuador |
+| --- | --- |
+| Telephones - main lines in use: | 2.211 million (2011) |
+| Telephones - mobile cellular: | 15.333 million (2011) |
+| Telephone system: | general assessment: elementary fixed-line service, but increasingly sophisticated mobile-cellular network |
+| Telephone system: | domestic: fixed-line services provided by multiple telecommunications operators; fixed-line teledensity stands at about 15 per 100 persons; mobile-cellular use has surged and subscribership has reached 100 per 100 persons |
+| Telephone system: | international: country code - 593; landing points for the PAN-AM and South America-1 submarine cables that provide links to the west coast of South America, Panama, Colombia, Venezuela, and extending onward to Aruba and the US Virgin Islands in the Caribbean; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| Broadcast media: | Ecuador has multiple TV networks and many local channels, as well as more than 300 radio stations; many TV and radio stations are privately-owned; the government owns or controls 5 national TV stations and multiple radio stations; broadcast media required by law to give the government free air time to broadcast programs produced by the state (2007) |
+| Internet country code: | .ec |
+| Internet hosts: | 170,538 (2012) |
+| Internet users: | 3.352 million (2009) |

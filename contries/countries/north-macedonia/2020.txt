@@ -1,0 +1,16 @@
+| Communications | North Macedonia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 402,250 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 18.95 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 2,094,037 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 98.65 (2019 est.) |
+| Telecommunication systems: | general assessment: being part of the EU pre-accession process has led to stronger teledensity with a closer regulatory framework and independent regulators; administrative ties with the European Union have led to progress; broadband services are widely available; more customers moving to fiber networks; 2 mobile network operators; end of roaming tariffs (2020) |
+| Telecommunication systems: | domestic: fixed-line 19 per 100 and mobile-cellular 99 per 100 subscriptions (2019) |
+| Telecommunication systems: | international: country code - 389 |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | public service TV broadcaster Macedonian Radio and Television operates 3 national terrestrial TV channels and 2 satellite TV channels; additionally, there are 10 regional TV stations that broadcast nationally using terrestrial transmitters, 54 TV channels with concession for cable TV, 9 regional TV stations with concessions for cable TV; 4 satellite TV channels broadcasting on a national level, 21 local commercial TV channels, and a large number of cable operators that offer domestic and international programming; the public radio broadcaster operates over 3 stations; there are 4 privately owned radio stations that broadcast nationally; 17 regional radio stations, and 49 local commercial radio stations (2019) |
+| Internet country code: | .mk |
+| Internet users: | total: 1,677,569 |
+| Internet users: | percent of population: 79.17% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 427,964 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 20 (2018 est.) |

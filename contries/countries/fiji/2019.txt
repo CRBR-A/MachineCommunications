@@ -1,0 +1,15 @@
+| Communications | Fiji |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 75,952 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 8 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,033,915 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 112 (2017 est.) |
+| Telephone system: | general assessment: modern local, interisland, and international (wire/radio integrated) public and special-purpose telephone, telegraph, and teleprinter facilities; regional radio communications center; subject to occasional devastating cyclones; Fiji is a leader in the Pacific region in terms of development of its ICT (Information & Communications Technology) sector and investment in telecoms infrastructure; initial progress towards 5G readiness (2018) |
+| Telephone system: | domestic: telephone or radio telephone links to almost all inhabited islands; most towns and large villages have automatic telephone exchanges and direct dialing; fixed-line 8 per 100 personsÂ and mobile-cellular teledensity roughly 112 per 100 persons (2018) |
+| Telephone system: | international: country code - 679; landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and Tui-SamoaÂ submarine cable linksÂ to US,Â NZ, Australia and Pacific islands of Fiji, Vanuatu, Kiribati, Samoa, Tokelau, Tonga, Fallis & Futuna, and American Samoa; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2019) |
+| Broadcast media: | Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji operates the Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available |
+| Internet country code: | .fj |
+| Internet users: | total: 425,680 |
+| Internet users: | percent of population: 46.5% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 12,135 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2017 est.) |

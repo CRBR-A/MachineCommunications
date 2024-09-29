@@ -1,0 +1,16 @@
+| Communications | Luxembourg |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 268,043 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 43.43 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 837,890 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 135.76 (2019 est.) |
+| Telecommunication systems: | general assessment: highly developed; by 2020 the government is to provide a 1Gb/s service to all citizens, and to make Luxembourg the first fully fibered country in Europe; new law requiringÂ SIM cards be registered has slowed down growth for mobile subscribers; regulator planning aÂ multi-spectrum auction for 5G use by mid-2020 (2020) |
+| Telecommunication systems: | domestic: fixed-line teledensity about 43 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated with 136 per 100 mobile-cellular (2019) |
+| Telecommunication systems: | international: country code - 352 |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | Luxembourg has a long tradition of operating radio and TV services for pan-European audiences and is home to Europe's largest privately owned broadcast media group, the RTL Group, which operates 46 TV stations and 29 radio stations in Europe; also home to Europe's largest satellite operator, Societe Europeenne des Satellites (SES); domestically, the RTL Group operates TV and radio networks; other domestic private radio and TV operators and French and German stations available; satellite and cable TV services available |
+| Internet country code: | .lu |
+| Internet users: | total: 587,955 |
+| Internet users: | percent of population: 97.06% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 224,300 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 37 (2018 est.) |

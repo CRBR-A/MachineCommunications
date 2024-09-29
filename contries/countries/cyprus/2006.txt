@@ -1,0 +1,17 @@
+| Communications | Cyprus |
+| --- | --- |
+| Telephones - main lines in use: | Republic of Cyprus: 420,000 (2005); north Cyprus: 86,228 (2002) |
+| Telephones - mobile cellular: | Republic of Cyprus: 718,800 (2005); north Cyprus: 143,178 (2002) |
+| Telephone system: | general assessment: excellent in both Republic of Cyprus and north Cyprus areas |
+| Telephone system: | domestic: open-wire, fiber-optic cable, and microwave radio relay |
+| Telephone system: | international: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); tropospheric scatter; 3 coaxial and 5 fiber-optic submarine cables; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean), 2 Eutelsat, 2 Intersputnik, and 1 Arabsat |
+| Radio broadcast stations: | Republic of Cyprus: AM 5, FM 76, shortwave 0 |
+| Radio broadcast stations: | north Cyprus: AM 1, FM 20, shortwave 1 (2004) |
+| Radios: | Greek Cypriot area: 310,000 (1997); Turkish Cypriot area: 56,450 (1994) |
+| Television broadcast stations: | Republic of Cyprus: 8 |
+| Television broadcast stations: | north Cyprus: 2 (plus 4 relay) (2004) |
+| Televisions: | Greek Cypriot area: 248,000 (1997); Turkish Cypriot area: 52,300 (1994) |
+| Internet country code: | .cy |
+| Internet hosts: | 67,589 (2006) |
+| Internet Service Providers (ISPs): | 6 (2000) |
+| Internet users: | 298,000 (2005) |

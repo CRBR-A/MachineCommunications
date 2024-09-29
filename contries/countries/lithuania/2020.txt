@@ -1,0 +1,16 @@
+| Communications | Lithuania |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 368,515 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 13.34 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 4,663,627 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 168.82 (2019 est.) |
+| Telecommunication systems: | general assessment: adequate; improved international capability and better residential access; SIM card penetration is high for the region; prepaid sector accounts for most subscribers; postpaid subscribers is increasing; LTEÂ networksÂ available to more than 99% of the population; Lithuanian FttP (fiber to the home cable connections for Internet) penetration ranked third highest in Europe; govt. and telecoms invest in fiber, fiber accounts for most new broadband connections; effective competition with 3 network operators in mobile sector and all investing in LTE and mobile data services (2020) |
+| Telecommunication systems: | domestic: 13 per 100 for fixed-line subscriptions; rapid expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 169 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and LatviaÂ ; further transmission by satellite; landline connections to Latvia and Poland (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | public broadcaster operates 3 channels with the third channel - a satellite channel - introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions throughout the country |
+| Internet country code: | .lt |
+| Internet users: | total: 2,226,806 |
+| Internet users: | percent of population: 79.72% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 788,743 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 28 (2018 est.) |

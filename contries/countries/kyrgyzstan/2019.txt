@@ -1,0 +1,15 @@
+| Communications | Kyrgyzstan |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 362,288 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 6 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 7,369,927 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 127 (2017 est.) |
+| Telephone system: | general assessment: digital radio-relay stations, and fiber-optic links; low fixed-line and fixed-broadband penetration and low to moderate mobile broadband penetration; international connectivity continues to grow; 4 mobile networks in operation; 4G networks cover over 50% of the nation, eventually 5G networks will be available (2018) |
+| Telephone system: | domestic: fixed-line penetration 6 per 100 persons remains low and concentrated in urban areas; mobile-cellular subscribership up to over 127 per 100 persons (2018) |
+| Telephone system: | international: country code - 996; connections with other CIS countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019) |
+| Broadcast media: | state-funded public TV broadcaster KTRK has nationwide coverage; also operates Ala-Too 24 news channel which broadcasts 24/7 andÂ 4 other educational, cultural, and sports channels; ELTR and Channel 5 areÂ state-owned stations with national reach; the switchover to digital TV in 2017 resulted in private TV station growth; approximately 20 stations are struggling to increase their own content up to 50% of airtime, as required by law, instead of rebroadcasting primarilyÂ programs from Russian channelsÂ or airing unlicensed movies and music; 3 Russian TV stations also broadcast; state-funded radio stations and about 10 significant private radio stations also exist (2019) |
+| Internet country code: | .kg |
+| Internet users: | total: 1,976,006 |
+| Internet users: | percent of population: 34.5% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 258,013 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 4 (2017 est.) |

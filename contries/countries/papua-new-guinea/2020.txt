@@ -1,0 +1,16 @@
+| Communications | Papua New Guinea |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 133,593 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1.87 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 3,401,971 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 47.62 (2019 est.) |
+| Telecommunication systems: | general assessment: services are minimal; Internet slow and expensive; facilities provide radiotelephone and telegraph, coastal radio, aeronautical radio, and international radio communication services; a great deal of the population is under served in telecommunications; terrain, living conditions and economic stability is not high;Â 2G still exists in rural areas, 3G and 4G LTE in urban areas; the launch of the Kacific-1 satellite in 2019, will improve most services in the region (2020) |
+| Telecommunication systems: | domestic: access to telephone services is not widely available; fixed-line 2 per 100 and mobile-cellular 48 per 100 person, teledensity has increased (2019) |
+| Telecommunication systems: | international: country code - 675; landing points for the Kumul Domestic Submarine Cable System, PNG-LNG, APNG-2, CSCS and the PPC-1Â submarine cables to Australia, Guam, PNG and Solomon Islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 4 TV stations: 1 commercial station operating since 1987, 1 state-run station launched in 2008, 1 digital free-to-view network launched in 2014, and 1 satellite network Click TV (PNGTV) launched in 2015; the state-run National Broadcasting Corporation operates 3 radio networks with multiple repeaters and about 20 provincial stations; several commercial radio stations with multiple transmission points as well as several community stations; transmissions of several international broadcasters are accessible (2018) |
+| Internet country code: | .pg |
+| Internet users: | total: 787,764 |
+| Internet users: | percent of population: 11.21% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 17,000 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

@@ -1,0 +1,11 @@
+| Communications | Benin |
+| --- | --- |
+| Telephones - main lines in use: | 152,700 (2011) |
+| Telephones - mobile cellular: | 7.765 million (2011) |
+| Telephone system: | general assessment: inadequate system of open-wire, microwave radio relay, and cellular connections; fixed-line network characterized by aging, deteriorating equipment |
+| Telephone system: | domestic: fixed-line teledensity only about 2 per 100 persons; spurred by the presence of multiple mobile-cellular providers, cellular telephone subscribership has been increasing rapidly |
+| Telephone system: | international: country code - 229; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; long distance fiber-optic links with Togo, Burkina Faso, Niger, and Nigeria; satellite earth stations - 7 (Intelsat-Atlantic Ocean) (2008) |
+| Broadcast media: | state-run Office de Radiodiffusion et de Television du Benin (ORTB) operates a TV station with multiple channels giving it a wide broadcast reach; several privately-owned TV stations broadcast from Cotonou; satellite TV subscription service is available; state-owned radio, under ORTB control, includes a national station supplemented by a number of regional stations; substantial number of privately-owned radio broadcast stations; transmissions of a few international broadcasters are available on FM in Cotonou (2007) |
+| Internet country code: | .bj |
+| Internet hosts: | 491 (2012) |
+| Internet users: | 200,100 (2009) |

@@ -1,0 +1,11 @@
+| Communications | Brazil |
+| --- | --- |
+| Telephones - main lines in use: | 41.497 million (2009) |
+| Telephones - mobile cellular: | 173.959 million (2009) |
+| Telephone system: | general assessment: good working system including an extensive microwave radio relay system and a domestic satellite system with 64 earth stations; mobile-cellular usage has more than tripled in the past 5 years |
+| Telephone system: | domestic: fixed-line connections have remained relatively stable in recent years and stand at about 20 per 100 persons; less expensive mobile-cellular technology has been a major driver in expanding telephone service to the lower-income segments of the population with mobile-cellular teledensity approaching 90 per 100 persons in 2009 |
+| Telephone system: | international: country code - 55; landing point for a number of submarine cables, including Americas-1, Americas-2, Atlantis-2, GlobeNet, South Amrica-1, South American Crossing/Latin American Nautilius, and UNISUR that provide direct connectivity to South and Central America, the Caribbean, the US, Africa, and Europe; satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station (2009) |
+| Broadcast media: | state-run Radiobras operates a radio and a television network; more than 1,000 radio stations and more than 100 TV channels operating - mostly privately owned; private media ownership highly concentrated (2007) |
+| Internet country code: | .br |
+| Internet hosts: | 19.316 million (2010) |
+| Internet users: | 75.982 million (2009) |

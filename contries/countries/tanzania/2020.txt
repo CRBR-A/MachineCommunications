@@ -1,0 +1,16 @@
+| Communications | Tanzania |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 74,081 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 46,847,405 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 82.21 (2019 est.) |
+| Telecommunication systems: | general assessment: telecommunications services are marginal andÂ operating below capacity;Â 1 fixed-line operator and 8 operational mobile networks; unfortunate high tariffs on telecoms; mobileÂ use is growing at 85% penetration; 3G/LTE services; govt. allocates TZ $17.5 billion to improve rural telecom infrastructure and work on national fiber backbone network connecting population around country (2020) |
+| Telecommunication systems: | domestic: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 82 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2019) |
+| Telecommunication systems: | international: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEASÂ fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | a state-owned TV station and multiple privately owned TV stations; state-owned national radio station supplemented by more than 40 privately owned radio stations; transmissions of several international broadcasters are available (2019) |
+| Internet country code: | .tz |
+| Internet users: | total: 13,862,836 |
+| Internet users: | percent of population: 25% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 861,234 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 2 (2018 est.) |

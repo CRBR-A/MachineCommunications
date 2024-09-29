@@ -1,0 +1,15 @@
+| Communications | Kenya |
+| --- | --- |
+| Telephones - main lines in use: | 264,800 (2007) |
+| Telephones - mobile cellular: | 11.44 million (2007) |
+| Telephone system: | general assessment: inadequate; fixed-line telephone system is small and inefficient; trunks are primarily microwave radio relay; business data commonly transferred by a very small aperture terminal (VSAT) system |
+| Telephone system: | domestic: no recent growth in fixed-line infrastructure and the sole provider, Telkom Kenya, is slated for privatization; multiple providers in the mobile-cellular segment of the market fostering a boom in mobile-cellular telephone usage |
+| Telephone system: | international: country code - 254; satellite earth stations - 4 Intelsat |
+| Radio broadcast stations: | AM 24, FM 18, shortwave 6 (2001) |
+| Radios: | 3.07 million (1997) |
+| Television broadcast stations: | 8 (2001) |
+| Televisions: | 730,000 (1997) |
+| Internet country code: | .ke |
+| Internet hosts: | 27,376 (2008) |
+| Internet Service Providers (ISPs): | 65 (2001) |
+| Internet users: | 3 million (2007) |

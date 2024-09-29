@@ -1,0 +1,11 @@
+| Communications | Philippines |
+| --- | --- |
+| Telephones - main lines in use: | 3.939 million (2012) |
+| Telephones - mobile cellular: | 103 million (2012) |
+| Telephone system: | general assessment: good international radiotelephone and submarine cable services; domestic and interisland service adequate |
+| Telephone system: | domestic: telecommunications infrastructure includes the following platforms: fixed-line, mobile cellular, cable TV, over-the-air TV, radio and Very Small Aperture Terminal (VSAT), fiber-optic cable, and satellite; mobile-cellular communications now dominate the industry |
+| Telephone system: | international: country code - 63; a series of submarine cables together provide connectivity to Asia, US, the Middle East, and Europe; multiple international gateways (2011) |
+| Broadcast media: | multiple national private TV and radio networks; multi-channel satellite and cable TV systems available; more than 350 TV stations - 4 major TV networks operating nationwide with 1 being government-owned; some 1100 cable TV providers and some 1,200 radio stations broadcasting; the Philippines is scheduled to complete the switch from analog to digital broadcasting by the end of 2015 (2012) |
+| Internet country code: | .ph |
+| Internet hosts: | 425,812 (2012) |
+| Internet users: | 8.278 million (2009) |

@@ -1,0 +1,13 @@
+| Communications | MALI |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 169,006 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (July 2015 est.) |
+| Telephones - mobile cellular: | total: 22.699 million |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 134 (July 2015 est.) |
+| Telephone system: | general assessment: domestic system improving; increasing use of local radio loops to extend network coverage to remote areas |
+| Telephone system: | domestic: fixed-line subscribership remains less than 1 per 100 persons; mobile-cellular subscribership has increased sharply to over 130 per 100 persons |
+| Telephone system: | international: country code - 223; satellite communications center and fiber-optic links to neighboring countries; satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean) (2015) |
+| Broadcast media: | national public TV broadcaster; 2 privately owned companies provide subscription services to foreign multi-channel TV packages; national public radio broadcaster supplemented by a large number of privately owned and community broadcast stations; transmissions of multiple international broadcasters are available (2007) |
+| Internet country code: | .ml |
+| Internet users: | total: 1.753 million |
+| Internet users: | percent of population: 10.3% (July 2015 est.) |

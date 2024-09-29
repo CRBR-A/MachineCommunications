@@ -1,0 +1,11 @@
+| Communications | Iraq |
+| --- | --- |
+| Telephones - main lines in use: | 1.87 million (2012) |
+| Telephones - mobile cellular: | 26.76 million (2012) |
+| Telephone system: | general assessment: the 2003 liberation of Iraq severely disrupted telecommunications throughout Iraq including international connections; widespread government efforts to rebuild domestic and international communications through fiber optic links are in progress; the mobile cellular market has expanded rapidly to some 27 million subscribers by the end of 2012 |
+| Telephone system: | domestic: repairs to switches and lines destroyed during 2003 continue; additional switching capacity is improving access; 3 GSM operators since 2007 have expanded beyond their regional roots and offer near country-wide access to second-generation services; third-generation mobile services are not available nationwide; wireless local loop is available in some metropolitan areas and additional licenses have been issued with the hope of overcoming the lack of fixed-line infrastructure |
+| Telephone system: | international: country code - 964; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey; international terrestrial fiber-optic connections have been established with Saudi Arabia, Turkey, Kuwait, Jordan, and Iran; links to the Fiber-Optic Link Around the Globe (FLAG) and the Gulf Bridge International (GBI) submarine fiber-optic cables have been established (2011) |
+| Broadcast media: | the number of private radio and TV stations has increased rapidly since 2003; government-owned TV and radio stations are operated by the publicly funded Iraqi Public Broadcasting Service; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to an estimated 70% of viewers and many of the broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2007) |
+| Internet country code: | .iq |
+| Internet hosts: | 26 (2012) |
+| Internet users: | 325,900 (2009) |

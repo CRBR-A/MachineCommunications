@@ -1,0 +1,12 @@
+| Communications | France |
+| --- | --- |
+| Telephones - main lines in use: | 39.883 million (2011) |
+| Telephones - mobile cellular: | 59.84 million (2011) |
+| Telephone system: | general assessment: highly developed |
+| Telephone system: | domestic: extensive cable and microwave radio relay; extensive use of fiber-optic cable; domestic satellite system |
+| Telephone system: | international: country code - 33; numerous submarine cables provide links throughout Europe, Asia, Australia, the Middle East, and US; satellite earth stations - more than 3 (2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat - Atlantic Ocean region); HF radiotelephone communications with more than 20 countries |
+| Telephone system: | overseas departments: country codes: French Guiana - 594; Guadeloupe - 590; Martinique - 596; Mayotte - 262; Reunion - 262 |
+| Broadcast media: | a mix of both publicly-operated and privately-owned TV stations; state-owned France Televisions operates 4 networks, one of which is a network of regional stations, and has part-interest in several thematic cable/satellite channels and international channels; a large number of privately-owned regional and local TV stations; multi-channel satellite and cable services provide a large number of channels; public broadcaster Radio France operates 7 national networks, a series of regional networks, and operates services for overseas territories and foreign audiences; Radio France Internationale (RFI), under the Ministry of Foreign Affairs, is a leading international broadcaster; a large number of commercial FM stations, with many of them consolidating into commercial networks (2008) |
+| Internet country code: | metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re |
+| Internet hosts: | 17.266 million (2012) |
+| Internet users: | 45.262 million; 44.625 million (metropolitan France) (2009) |

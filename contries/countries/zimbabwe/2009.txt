@@ -1,0 +1,12 @@
+| Communications | Zimbabwe |
+| --- | --- |
+| Telephones - main lines in use: | 354,000 (2008) |
+| Telephones - mobile cellular: | 1.655 million (2008) |
+| Telephone system: | general assessment: system was once one of the best in Africa, but now suffers from poor maintenance; more than 100,000 outstanding requests for connection despite an equally large number of installed but unused main lines |
+| Telephone system: | domestic: consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, and a substantial mobile-cellular network; Internet connection is available in Harare and planned for all major towns and for some of the smaller ones |
+| Telephone system: | international: country code - 263; satellite earth stations - 2 Intelsat; 2 international digital gateway exchanges (in Harare and Gweru) |
+| Radio broadcast stations: | AM 7, FM 20 (plus 17 repeater stations), shortwave 1 (1998) |
+| Television broadcast stations: | 16 (1997) |
+| Internet country code: | .zw |
+| Internet hosts: | 29,094 (2009) |
+| Internet users: | 1.421 million (2008) |

@@ -1,0 +1,8 @@
+| Communications |   |
+| --- | --- |
+| Telephone system: | 13 outgoing and 10 incoming commercial lines; adequate telecommunications |
+| domestic: | 60-channel submarine cable, 22 DSN circuits by satellite, Autodin with standard remote terminal, digital telephone switch, Military Affiliated Radio System (MARS station), UHF/VHF air-ground radio, a link to the Pacific Consolidated Telecommunications Network (PCTN) satellite |
+| international: | NA |
+| Radio broadcast stations: | AM NA, FM NA, shortwave NA |
+| Television broadcast stations: | commercial satellite television system, with 16 channels (1997) |
+| Internet Service Providers (ISPs): | NA |

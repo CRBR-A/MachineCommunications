@@ -1,0 +1,15 @@
+| Communications | Benin |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 56,787 (2017 est.) |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 8,773,044 (2017 est.) |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 79 (2017 est.) |
+| Telephone system: | general assessment: fixed-line network characterized by aging, deteriorating equipment; mobile networks account for almost all internet connections; govt. aims to provide telecoms services to 80% of the country, mostly via mobile infrastructure; govt. restructures state-owned telcos; Mobile Number Portability (MNP) becomes available; Benin joins free roaming scheme (2017) |
+| Telephone system: | domestic: fixed-line teledensity only about 1 per 100 persons; spurred by the presence of multiple mobile-cellular providers, cellular telephone subscribership has increased rapidly, exceedingÂ 79 per 100 persons in 2017 (2017) |
+| Telephone system: | international: country code - 229; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; long distance fiber-optic links with Togo, Burkina Faso, Niger, and Nigeria; satellite earth stations - 7 (Intelsat-Atlantic Ocean);Orange commissions new connection from the ACE submarine cable, connecting Benin with Tenerife (2017) |
+| Broadcast media: | state-run Office de Radiodiffusion et de Television du Benin (ORTB) operates a TV station providing a wide broadcast reach; several privately owned TV stations broadcast from Cotonou; satellite TV subscription service is available; state-owned radio, under ORTB control, includes a national station supplemented by a number of regional stations; substantial number of privately owned radio broadcast stations; transmissions of a few international broadcasters are available on FM in Cotonou (2016) |
+| Internet country code: | .bj |
+| Internet users: | total: 1,288,336 (July 2016 est.) |
+| Internet users: | percent of population: 12% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 28,833 (2017 est.) |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

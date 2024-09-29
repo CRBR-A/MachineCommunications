@@ -1,0 +1,16 @@
+| Communications | Angola |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 122,566 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 14,645,106 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 46.6 (2019 est.) |
+| Telecommunication systems: | general assessment: progress in opening up the telecom sector to new competitors, while still retaining a 45% govt. portion of the share; slow progress in LTE network development, with only about 12% of the country covered by network infrastructure; regulator offers 4th service license to be issued for competition, cracks down on informal SIM card sales, and auctions 800MHz spectrum; M-commerce services launch pending (2020) |
+| Telecommunication systems: | domestic: only about one fixed-line per 100 persons; mobile-cellular teledensity about 47 telephones per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACSÂ fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state controls all broadcast media with nationwide reach; state-owned Televisao Popular de Angola (TPA) provides terrestrial TV service on 2 channels; a third TPA channel is available via cable and satellite; TV subscription services are available; state-owned Radio Nacional de Angola (RNA) broadcasts on 5 stations; about a half-dozen private radio stations broadcast locally |
+| Internet country code: | .ao |
+| Internet users: | total: 4,353,033 |
+| Internet users: | percent of population: 14.34% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 109,561 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

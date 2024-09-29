@@ -1,0 +1,16 @@
+| Communications | Iraq |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 2,678,046 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 7.04 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 36,092,758 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 94.88 (2019 est.) |
+| Telecommunication systems: | general assessment: the 2003 liberation of Iraq severely disrupted telecommunications throughout Iraq; widespread government efforts to rebuild domestic and international communications have slowed due to political unrest; 2018 showed signs of stability and installations of new fiber-optic cables and growth in mobile broadband subscribers; the most popular plans are pre-paid; 3 major operators in mobile sector preparing 4G and even 5G technologies; operators focused on fixing and replacing networks damaged during civil war (2020) |
+| Telecommunication systems: | domestic: the mobile cellular market continues to expand; 3G services offered by three major mobile operators; 4G offered by one operator in Iraqi; conflict has destroyed infrastructure in areas; 7 per 100 for fixed-line and 95 per 100 for mobile-cellular subscriptions (2019) |
+| Telecommunication systems: | international: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | the number of private radio and TV stations has increased rapidly since 2003; government-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to an estimated 70% of viewers and many of the broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019) |
+| Internet country code: | .iq |
+| Internet users: | total: 18,364,390 |
+| Internet users: | percent of population: 49.36% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 4,492,328 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 12 (2018 est.) |

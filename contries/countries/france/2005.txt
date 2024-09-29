@@ -1,0 +1,15 @@
+| Communications | France |
+| --- | --- |
+| Telephones - main lines in use: | 33,905,400 (2003) |
+| Telephones - mobile cellular: | 41,683,100 (2003) |
+| Telephone system: | general assessment: highly developed |
+| Telephone system: | domestic: extensive cable and microwave radio relay; extensive introduction of fiber-optic cable; domestic satellite system |
+| Telephone system: | international: country code - 33; satellite earth stations - 2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat (Atlantic Ocean region); HF radiotelephone communications with more than 20 countries |
+| Radio broadcast stations: | AM 41, FM about 3,500 (this figure is an approximation and includes many repeaters), shortwave 2 (1998) |
+| Radios: | 55.3 million (1997) |
+| Television broadcast stations: | 584 (plus 9,676 repeaters) (1995) |
+| Televisions: | 34.8 million (1997) |
+| Internet country code: | .fr |
+| Internet hosts: | 2,396,761 (2004) |
+| Internet Service Providers (ISPs): | 62 (2000) |
+| Internet users: | 21.9 million (2003) |

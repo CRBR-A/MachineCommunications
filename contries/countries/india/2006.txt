@@ -1,0 +1,15 @@
+| Communications | India |
+| --- | --- |
+| Telephones - main lines in use: | 49.75 million (2005) |
+| Telephones - mobile cellular: | 69,193,321 (2006) |
+| Telephone system: | general assessment: recent deregulation and liberalization of telecommunications laws and policies have prompted rapid change; local and long distance service provided throughout all regions of the country, with services primarily concentrated in the urban areas; steady improvement is taking place with the recent admission of private and private-public investors, but telephone density remains low at about seven for each 100 persons nationwide but only one per 100 persons in rural areas and a national waiting list of over 1.7 million; fastest growth is in cellular service with modest growth in fixed lines |
+| Telephone system: | domestic: expansion of domestic service, although still weak in rural areas, resulted from increased competition and dramatic reductions in price led in large part by wireless service; mobile cellular service (both CDMA and GSM) introduced in 1994 and organized nationwide into four metropolitan cities and 19 telecom circles each with about three private service providers and one state-owned service provider; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with five satellites supporting 33,000 very small aperture terminals (VSAT) |
+| Telephone system: | international: country code - 91; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region); nine gateway exchanges operating from Mumbai (Bombay), New Delhi, Kolkata (Calcutta), Chennai (Madras), Jalandhar, Kanpur, Gandhinagar, Hyderabad, and Ernakulam; 5 submarine cables, including Sea-Me-We-3 with landing sites at Cochin and Mumbai (Bombay), Fiber-Optic Link Around the Globe (FLAG) with landing site at Mumbai (Bombay), South Africa - Far East (SAFE) with landing site at Cochin, i2icn linking to Singapore with landing sites at Mumbai (Bombay) and Chennai (Madras), and Tata Indicom linking Singapore and Chennai (Madras), provide a significant increase in the bandwidth available for both voice and data traffic (2004) |
+| Radio broadcast stations: | AM 153, FM 91, shortwave 68 (1998) |
+| Radios: | 116 million (1997) |
+| Television broadcast stations: | 562 (of which 82 stations have 1 kW or greater power and 480 stations have less than 1 kW of power) (1997) |
+| Televisions: | 63 million (1997) |
+| Internet country code: | .in |
+| Internet hosts: | 1,543,289 (2006) |
+| Internet Service Providers (ISPs): | 43 (2000) |
+| Internet users: | 60 million (2005) |

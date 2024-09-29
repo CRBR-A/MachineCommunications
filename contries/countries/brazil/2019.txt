@@ -1,0 +1,15 @@
+| Communications | Brazil |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 40,878,018 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 20 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 236,488,548 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 114 (2017 est.) |
+| Telephone system: | general assessment: good working system including an extensive microwave radio relay system and a domestic satellite system with 64 earth stations; four major mobile operators offering a range of voice and data services; one of the largest broadband markets in Latin America, broadband penetrationÂ only behind Chile, Argentina, and Uruguay; country is a pioneer in the region for m-commerce (electronic commerce conducted on mobile phones) (2018) |
+| Telephone system: | domestic: fixed-line connections have remained relatively stable in recent years and stand at about 20 per 100 persons; less-expensive mobile-cellular technology has been a major impetus broadening telephone service to the lower-income segments of the population with mobile-cellular teledensity roughly 114 per 100 persons (2018) |
+| Telephone system: | international: country code - 55; landing points for a number of submarine cables, including Malbec, ARBR, Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, GlobeNet, AMX-1, Brazilian Festoon, Bicentenario, Unisur, Junior, Americas -II,Â SAE x1, SAIL, SACSÂ andÂ SABR that provide direct connectivity to South and Central America, the Caribbean, the US, Africa, and Europe; satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station; satellitesÂ is aÂ major communication platform, as it is almost impossible to lay fibre optic cable in the thick vegetation (2019) |
+| Broadcast media: | state-run Radiobras operates a radio and a TV network; more than 1,000 radio stations and more than 100 TV channels operating - mostly privately owned; private media ownership highly concentrated |
+| Internet country code: | .br |
+| Internet users: | total: 122,841,218 |
+| Internet users: | percent of population: 59.7% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 28,670,016 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 14 (2017 est.) |

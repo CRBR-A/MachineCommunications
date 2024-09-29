@@ -1,0 +1,16 @@
+| Communications | Faroe Islands |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 19,137 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 37.29 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 59,771 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 116.47 (2019 est.) |
+| Telecommunication systems: | general assessment: good international and domestic communications; telecommunications network of high standards with excellent coverage throughout most parts of the country and at competitive prices (2020) |
+| Telecommunication systems: | domestic: 37 per 100 for fixed-line and 116 per 100 for mobile-cellular; both NMT (analog) and GSM (digital) mobile telephone systems are installed (2019) |
+| Telecommunication systems: | international: country code - 298;Â landing points for the SHEFA-2, FARICE-1, and CANTAT-3Â fiber-optic submarine cablesÂ from theÂ Faeroe Islands, toÂ Denmark, Germany, UKÂ and Iceland; satellite earth stations - 1 Orion; (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 1 publicly owned TV station; the Faroese telecommunications company distributes local and international channels through its digital terrestrial network; publicly owned radio station supplemented by 3 privately owned stations broadcasting over multiple frequencies |
+| Internet country code: | .fo |
+| Internet users: | total: 49,783 |
+| Internet users: | percent of population: 97.58% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 18,181 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 36 (2018 est.) |

@@ -1,0 +1,8 @@
+| Communications | Holy See (Vatican City) |
+| --- | --- |
+| Telephone system: | general assessment: automatic digital exchange |
+| Telephone system: | domestic: connected via fiber optic cable to Telecom Italia network |
+| Telephone system: | international: country code - 39; uses Italian system (2012) |
+| Broadcast media: | the Vatican Television Center (CTV) transmits live broadcasts of the Pope's Sunday and Wednesday audiences, as well as the Pope's public celebrations; CTV also produces documentaries; Vatican Radio is the Holy See's official broadcasting service broadcasting via shortwave, AM and FM frequencies, and via satellite and Internet connections (2008) |
+| Internet country code: | .va |
+| Internet hosts: | 107 (2012) |

@@ -1,0 +1,14 @@
+| Communications | Bermuda |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 24,808 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 34.71 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 73,680 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 103.09 (2019 est.) |
+| Telecommunication systems: | general assessment: a good, fully automatic digital telephone system with fiber-optic trunk lines; telecom sector provides a relatively high contribution to overall GDP; numerous competitors licensed, but small and localized; telecom sector a growth area across the Caribbean (2020) |
+| Telecommunication systems: | domestic: the system has a high fixed-line teledensity 35 per 100, coupled with a mobile-cellular teledensity of roughly 103 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 1-441; landing points for the GlobeNet, Gemini Bermuda, CBUS, and the CB-1 submarine cables to the Caribbean, South America and the US; satellite earth stations - 3 (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 3 TV stations; cable and satellite TV subscription services are available; roughly 13 radio stations operating |
+| Internet country code: | .bm |
+| Internet users: | total: 70,016 |
+| Internet users: | percent of population: 98.37% (July 2018 est.) |

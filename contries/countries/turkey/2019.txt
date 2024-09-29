@@ -1,0 +1,16 @@
+| Communications | Turkey |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 11,308,444 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 14 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 77,800,170 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 96 (2017 est.) |
+| Telephone system: | general assessment: comprehensive telecommunications network undergoing rapid modernization and expansion, especially in mobile-cellular services; rise in subscribers and increase in bundled packages; DSL has largest share of fixed broadband technologies, but fibre-optic is growing with significant investment; 4G LTE networks well incorporated in Turkey, 87% coverage of the population; 5G trials (2018) |
+| Telephone system: | domestic: additional digital exchanges are permitting a rapid increase in subscribers; the construction of a network of technologically advanced intercity trunk lines, using both fiber-optic cable and digital microwave radio relay, is facilitating communication between urban centers; remote areas are reached by a domestic satellite system; fixed-line 14 per 100Â and mobile-cellular teledensity isÂ 96 telephones per 100 persons (2018) |
+| Telephone system: | international: country code - 90; international service is provided by the SEA-ME-WE-3 submarine cable and by submarine fiber-optic cables in the Mediterranean and Black Seas that link Turkey with Italy, Greece, Israel, Bulgaria, Romania, and Russia; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems |
+| Broadcast media: | Turkish Radio and Television Corporation (TRT) operates multiple TV and radio networks and stations; multiple privately owned national television stations and 567 private regional and local television stations; multi-channel cable TV subscriptions available; 1,007 private radio broadcast stations |
+| Broadcast media: | (2019) |
+| Internet country code: | .tr |
+| Internet users: | total: 46,838,412 |
+| Internet users: | percent of population: 58.3% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 11,924,905 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 15 (2017 est.) |

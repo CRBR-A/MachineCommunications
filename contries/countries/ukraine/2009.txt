@@ -1,0 +1,12 @@
+| Communications | Ukraine |
+| --- | --- |
+| Telephones - main lines in use: | 13.177 million (2008) |
+| Telephones - mobile cellular: | 55.695 million (2008) |
+| Telephone system: | general assessment: Ukraine's telecommunication development plan emphasizes improving domestic trunk lines, international connections, and the mobile-cellular system |
+| Telephone system: | domestic: at independence in December 1991, Ukraine inherited a telephone system that was antiquated, inefficient, and in disrepair; more than 3.5 million applications for telephones could not be satisfied; telephone density is rising and the domestic trunk system is being improved; about one-third of Ukraine's networks are digital and a majority of regional centers now have digital switching stations; improvements in local networks and local exchanges continue to lag; the mobile-cellular telephone system's expansion has slowed, largely due to saturation of the market which had reached 120 mobile phones per 100 people by 2008 |
+| Telephone system: | international: country code - 380; 2 new domestic trunk lines are a part of the fiber-optic Trans-Asia-Europe (TAE) system and 3 Ukrainian links have been installed in the fiber-optic Trans-European Lines (TEL) project that connects 18 countries; additional international service is provided by the Italy-Turkey-Ukraine-Russia (ITUR) fiber-optic submarine cable and by an unknown number of earth stations in the Intelsat, Inmarsat, and Intersputnik satellite systems |
+| Radio broadcast stations: | 524 (station frequency types NA) (2006) |
+| Television broadcast stations: | 647 (2006) |
+| Internet country code: | .ua |
+| Internet hosts: | 706,485 (2009) |
+| Internet users: | 10.354 million (2008) |

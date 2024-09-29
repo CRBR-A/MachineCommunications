@@ -1,0 +1,15 @@
+| Communications | India |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 23,234,687 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 2 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,168,902,277 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 91 (2017 est.) |
+| Telephone system: | general assessment: supported by deregulation and liberalization of telecommunications laws and policies, India has emerged as one of the fastest-growing telecom markets in the world; implementation of 4G/LTE services shift to data services across the country; steps taken towards 5G services; fixed broadband penetration is expected to grow at a moderate rate over the next five years to 2023 (2018) |
+| Telephone system: | domestic: fixed-line subscriptions stands at 2 per 100 and mobile-cellular at 91 per 100; mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles, each with multiple private service providers and one or more state-owned service providers; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 very small aperture terminals (VSAT) (2018) |
+| Telephone system: | international: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 & 4, AAE-1, BBG, EIG, FALCON,Â FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman & Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn submarine cables to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islandsÂ includingÂ AustraliaÂ ; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region (2019) |
+| Broadcast media: | Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; in 2015, more than 230 million homes had access to cable and satellite TV offering more than 700 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly |
+| Internet country code: | .in |
+| Internet users: | total: 374,328,160 |
+| Internet users: | percent of population: 29.5% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 17,856,024 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2017 est.) |

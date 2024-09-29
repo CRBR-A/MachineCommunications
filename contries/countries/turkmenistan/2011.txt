@@ -1,0 +1,11 @@
+| Communications | Turkmenistan |
+| --- | --- |
+| Telephones - main lines in use: | 520,000 (2010) |
+| Telephones - mobile cellular: | 3.198 million (2010) |
+| Telephone system: | general assessment: telecommunications network remains underdeveloped and progress toward improvement is slow; strict government control and censorship inhibits liberalization and modernization |
+| Telephone system: | domestic: Turkmentelekom, in cooperation with foreign partners, has installed high speed fiber-optic lines and has upgraded most of the country's telephone exchanges and switching centers with new digital technology; mobile telephone usage is expanding with Russia's Mobile Telesystems (MTS) the primary service provider; combined fixed-line and mobile teledensity is about 40 per 100 persons |
+| Telephone system: | international: country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2008) |
+| Broadcast media: | broadcast media is government controlled and censored; 4 state-owned TV and 4 state-owned radio networks; satellite dishes and programming provide an alternative to the state-run media; officials sometimes limit access to satellite TV by seizing satellite dishes (2007) |
+| Internet country code: | .tm |
+| Internet hosts: | 794 (2010) |
+| Internet users: | 80,400 (2009) |

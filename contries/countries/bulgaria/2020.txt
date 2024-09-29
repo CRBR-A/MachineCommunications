@@ -1,0 +1,16 @@
+| Communications | Bulgaria |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 974,056 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 13.89 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 8,149,389 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 116.21 (2019 est.) |
+| Telecommunication systems: | general assessment: telecom sector has benefited from Bulgaria's adaptation of EU regulatory measures, more privatization and less govt. monopoly; population is moving to fiber networks for broadband;Â govt. investment in programs for broadband in rural areas; 5G trials by 2 operators; quality has improved with a modern digital trunk line connecting switching centers in most of the regions; remaining areas are connected by digital microwave radio relay; Bulgaria has a mature mobile market withÂ active competition (2020) |
+| Telecommunication systems: | domestic: fixed-line 14 per 100 persons, mobile-cellular teledensity, fostered by multiple service providers, is over 116 telephones per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 359; Caucasus Cable System via submarine cable provides connectivity to Ukraine, GeorgiaÂ and Russia; a combination submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia; satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 Intelsat in the Atlantic and Indian Ocean regions) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 4 national terrestrial TV stations with 1 state-owned and 3 privately owned; a vast array of TV stations are available from cable and satellite TV providers; state-owned national radio broadcasts over 3 networks; large number of private radio stations broadcasting, especially in urban areas |
+| Internet country code: | .bg |
+| Internet users: | total: 4,571,851 |
+| Internet users: | percent of population: 64.78% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 1,903,946 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 27 (2018 est.) |

@@ -1,0 +1,16 @@
+| Communications | Qatar |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 392,048 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 16.29 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 3,329,155 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 138.33 (2019 est.) |
+| Telecommunication systems: | general assessment: regional leaders in telecom; highest fixed-line and mobile penetrations in Middle East; deployed over 90 5G base stations for 5G launch, claiming 1st commercial launch of 5G in the world May 2018; telecom system centered in Doha; steady LTE networks; good broadband penetration, ADSL, (Fiber-to-the-Home/Premises) FttP, wireless and mobile services; largest users of the Internet and use of OTT services and bundled services (2020) |
+| Telecommunication systems: | domestic: fixed-line 16 per 100 and mobile-cellular telephone subscribership 138 telephones per 100 persons (209) |
+| Telecommunication systems: | international: country code - 974; landing points for theÂ Qatar-UAE SubmarineÂ CableÂ System, AAE-1, FOG, GBICS/East North Africa MENA and the FALCON submarine cable network that provides links to Asia, Africa, the Middle East, Europe and Southeast Asia; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and the UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat; retains full ownership of two commercial satellites, Es'hailSat 1 and 2 (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | TV and radio broadcast licensing and access to local media markets are state controlled; home of the satellite TV channel Al-Jazeera, which was originally owned and financed by the Qatari government but has evolved to independent corporate status; Al-Jazeera claims editorial independence in broadcasting; local radio transmissions include state, private, and international broadcasters on FM frequencies in Doha; in August 2013, Qatar's satellite company Es'hailSat launched its first communications satellite Es'hail 1 (manufactured in the US), which entered commercial service in December 2013 to provide improved television broadcasting capability and expand availability of voice and Internet; Es'hailSat launched its second commercial satellite in 2018 with aid of SpaceX (2019) |
+| Internet country code: | .qa |
+| Internet users: | total: 2,355,297 |
+| Internet users: | percent of population: 99.65% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 267,906 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 11 (2018 est.) |

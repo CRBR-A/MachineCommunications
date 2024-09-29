@@ -1,0 +1,15 @@
+| Communications | Ireland |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 1,842,026 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 37 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 4,898,872 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 98 (2017 est.) |
+| Telephone system: | general assessment: modern digital system using cable and microwave radio relay; previous depressed economic climate has changed to one with Ireland having one of the highest GDP growth rates in Europe which translates to mean spending among telecom consumers; introduction of flat-rate plans;Â upgraded LTE technologies in rural areas; government intends to spend millions on the National Broadband Plan (NBP)Â initiative to change the broadband landscape (2018) |
+| Telephone system: | domestic: increasing levels of broadband access particularly in urban areas; fixed-line 37 per 100 and mobile-cellular 98 per 100 subscriptions (2018) |
+| Telephone system: | international: country code - 353; landing point for theÂ AEConnectÂ -1,Â Celtic-Norse, Havfrue/AEC-2, GTT Express, Cleltic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 & 2, GTT Atlantic, Sirius South, Emerald Bridge FibresÂ and Geo EirgridÂ Â submarine cable with links to the US, Canada, Norway, Isle of Man and UK; satellite earth stations - 81 (2019) |
+| Broadcast media: | publicly owned broadcaster Radio Telefis Eireann (RTE) operatesÂ 4 TV stations; commercial TV stations are available; about 75% of households utilize multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several stations; a number of commercial broadcast stations operate at the national, regional, and local levels (2019) |
+| Internet country code: | .ie |
+| Internet users: | total: 4,069,432 |
+| Internet users: | percent of population: 82.2% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 1,401,356 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 28 (2017 est.) |

@@ -1,0 +1,12 @@
+| Communications | Rwanda |
+| --- | --- |
+| Telephones - main lines in use: | 16,800 (2008) |
+| Telephones - mobile cellular: | 1.323 million (2008) |
+| Telephone system: | general assessment: small, inadequate telephone system primarily serves business and government |
+| Telephone system: | domestic: the capital, Kigali, is connected to the centers of the provinces by microwave radio relay and, recently, by cellular telephone service; much of the network depends on wire and HF radiotelephone; combined fixed-line and mobile-cellular telephone density is only about 13 telephones per 100 persons |
+| Telephone system: | international: country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service) |
+| Radio broadcast stations: | AM 0, FM 10 (two main FM programs are broadcast through a system of repeaters; international FM programming includes the BBC, VOA, and Deutchewelle) (2007) |
+| Television broadcast stations: | 2 (2004) |
+| Internet country code: | .rw |
+| Internet hosts: | 81 (2009) |
+| Internet users: | 300,000 (2008) |

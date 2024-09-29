@@ -1,0 +1,11 @@
+| Communications | Uzbekistan |
+| --- | --- |
+| Telephones - main lines in use: | 1.857 million (2009) |
+| Telephones - mobile cellular: | 16.418 million (2009) |
+| Telephone system: | general assessment: digital exchanges in large cities but still antiquated and inadequate in rural areas |
+| Telephone system: | domestic: the state-owned telecommunications company, Uzbektelecom, owner of the fixed line telecommunications system, has used loans from the Japanese government and the China Development Bank to upgrade fixed-line services including conversion to digital exchanges; mobile-cellular services are growing rapidly, with the subscriber base exceeding 16 million in 2009 |
+| Telephone system: | international: country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; after the completion of the Uzbek link to the Trans-Asia-Europe (TAE) fiber-optic cable, Uzbekistan plans to establish a fiber-optic connection to Afghanistan (2009) |
+| Broadcast media: | government controls media; 8 state-owned broadcasters - 4 TV and 4 radio - provide service to virtually the entire country; about 20 privately-owned TV stations, overseen by local officials, broadcast to local markets; privately-owned TV stations are required to lease transmitters from the government-owned Republic TV and Radio Industry Corporation and are prohibited from broadcasting live; about 15 privately-owned radio broadcasters; programming content includes news updates, music, call-in talk shows, and other entertainment in a half-Russian, half-Uzbek format mandated for private radio (2007) |
+| Internet country code: | .uz |
+| Internet hosts: | 47,718 (2010) |
+| Internet users: | 4.689 million (2009) |

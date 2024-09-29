@@ -1,0 +1,16 @@
+| Communications | Mexico |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 22,471,647 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 17.65 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 121,117,720 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 95.13 (2019 est.) |
+| Telecommunication systems: | general assessment: adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers; relatively low broadband and mobile penetration, potential for growth; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable; two main MNOs despite efforts for competition;Â 5G developmentÂ slow given the existing capabilities of LTE;Â Mexicoâ€™s first local Internet Exchange Point opens in Mexico City; regulator strives to bring competition and foreign investment to Mexico; regulator brings back SIM card registration program (2020) |
+| Telecommunication systems: | domestic: competition has spurred the mobile-cellular market; fixed-line teledensity exceeds 18 per 100 persons; mobile-cellular teledensity is about 95 per 100 persons; domestic satellite system with 120 earth stations (2019) |
+| Telecommunication systems: | international: country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the ARCOS-1 and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2016) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable, and satellite - has moderated |
+| Broadcast media: | telecom reform in 2013 enabled the creation of new broadcast television channels after decades of a quasi-monopoly; Mexico has 821 TV stations and 1,745 radio stations and most are privately owned; the Televisa group once had a virtual monopoly in TV broadcasting, but new broadcasting groups and foreign satellite and cable operators are now available; in 2016, Mexico became the first country in Latin America to complete the transition from analog to digital transmissions, allowing for better image and audio quality and a wider selection of programming from networks |
+| Internet country code: | .mx |
+| Internet users: | total: 82,843,369 |
+| Internet users: | percent of population: 65.77% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 18,359,028 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 15 (2018 est.) |

@@ -1,0 +1,15 @@
+| Communications | Rwanda |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 12,333 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (December 2017 est.) (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 8,819,217 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 74 (2017 est.) |
+| Telephone system: | general assessment: small, inadequate telephone system primarily serves business, education, and government; government carries out investment in smart city infrastructure; expands wholesale LTE services (2018) |
+| Telephone system: | domestic: the capital, Kigali, is connected to provincial centers by microwave radio relay and, recently, by cellular telephone service; much of the network depends on wire and HF radiotelephone; fixed-line less than 1 per 100 and mobile-cellular telephone density has increased 74 telephones per 100 persons (2018) |
+| Telephone system: | international: country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service); international submarine fiber-optic cables on the African east coast has brought international bandwidth and lessened theÂ dependency on satellites |
+| Broadcast media: | 13 TV stations; 35 radio stations registered, including international broadcasters, government owns most popular TV and radio stations; regional satellite-based TV services available |
+| Internet country code: | .rw |
+| Internet users: | total: 3,724,678 |
+| Internet users: | percent of population: 29.8% (Dec 2017 est.) |
+| Broadband - fixed subscriptions: | total: 21,780 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

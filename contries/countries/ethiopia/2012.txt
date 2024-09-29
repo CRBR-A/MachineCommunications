@@ -1,0 +1,11 @@
+| Communications | Ethiopia |
+| --- | --- |
+| Telephones - main lines in use: | 829,000 (2011) |
+| Telephones - mobile cellular: | 14.127 million (2011) |
+| Telephone system: | general assessment: inadequate telephone system with the Ethio Telecom maintaining a monopoly over telecommunication services; open-wire, microwave radio relay; radio communication in the HF, VHF, and UHF frequencies; 2 domestic satellites provide the national trunk service |
+| Telephone system: | domestic: the number of fixed lines and mobile telephones is increasing from a small base; combined fixed and mobile-cellular teledensity is roughly 15 per 100 persons |
+| Telephone system: | international: country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) |
+| Broadcast media: | 1 public TV station broadcasting nationally and 1 public radio broadcaster with stations in each of the 13 administrative districts; a few commercial radio stations and roughly a dozen community radio stations (2009) |
+| Internet country code: | .et |
+| Internet hosts: | 179 (2012) |
+| Internet users: | 447,300 (2009) |

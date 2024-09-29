@@ -1,0 +1,15 @@
+| Communications | Mauritius |
+| --- | --- |
+| Telephones - main lines in use: | 359,000 (2005) |
+| Telephones - mobile cellular: | 713,300 (2005) |
+| Telephone system: | general assessment: small system with good service |
+| Telephone system: | domestic: primarily microwave radio relay trunk system |
+| Telephone system: | international: country code - 230; satellite earth station - 1 Intelsat (Indian Ocean); new microwave link to Reunion; HF radiotelephone links to several countries; fiber optic submarine cable (SAT-3/WASC/SAFE) provides connectivity to Europe and Asia |
+| Radio broadcast stations: | AM 4, FM 9, shortwave 0 (2002) |
+| Radios: | 420,000 (1997) |
+| Television broadcast stations: | 2 (plus several repeaters) (1997) |
+| Televisions: | 258,000 (1997) |
+| Internet country code: | .mu |
+| Internet hosts: | 4,997 (2006) |
+| Internet Service Providers (ISPs): | 2 (2000) |
+| Internet users: | 180,000 (2005) |

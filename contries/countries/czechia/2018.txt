@@ -1,0 +1,15 @@
+| Communications | Czechia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 1,616,631 (2017 est.) |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 15 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 12,634,937 (2017 est.) |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 118 (2017 est.) |
+| Telephone system: | general assessment: good telephone and Internet service; the Czech Republic has a sophisticated telecom market, withÂ good competition in all sectors provided by a number ofÂ alternate operators; the incumbent telco O2 Czech Republic remains the dominant player thoughÂ other operators are gaining market share, throughÂ merger and acquisition activity; regulator makes progressÂ for 5G services;Â fixed wireless broadband remains strong, with penetration among the highest in the EU (2017) |
+| Telephone system: | domestic: access to the fixed-line telephone network expanded throughout the 1990s, 15 per 100 fixed-line, but the number of fixed-line connections has been dropping since then; mobile telephone usage increased sharply 118 per 100 mobile-cellular, and the number of cellular telephone subscriptions now greatly exceeds the population (2017) |
+| Telephone system: | international: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2017) |
+| Broadcast media: | 22 TV stations operate nationally, with 17 of them in private hands; publicly operated Czech Television has 5 national channels; throughout the country, there are some 350 TV channels in operation, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters are registered, operating over 80 radio stations, including 7 multiregional radio stations or networks; publicly operated broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partially financed through a license fee (2018) |
+| Internet country code: | .cz |
+| Internet users: | total: 8,141,303 (July 2016 est.) |
+| Internet users: | percent of population: 76.5% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 3,060,597 (2017 est.) |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 29 (2017 est.) |

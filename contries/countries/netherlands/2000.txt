@@ -1,0 +1,12 @@
+| Communications |   |
+| --- | --- |
+| Telephones - main lines in use: | 8.431 million (1996) |
+| Telephones - mobile cellular: | 1.016 million (1996) |
+| Telephone system: | highly developed and well maintained |
+| domestic: | the existing system of multi-conductor cables is gradually being replaced by fiber-optic cables; the density of cellular telephone traffic is rapidly increasing and further modernization of the system is expected in the year 2001, with the introduction of the third generation of the Global System for Mobile Communications (GSM) |
+| international: | 5 submarine cables; satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions) (1996) |
+| Radio broadcast stations: | AM 4, FM 58, shortwave 3 (1998) |
+| Radios: | 15.3 million (1996) |
+| Television broadcast stations: | 15 (plus five low-power repeaters) (1997) |
+| Televisions: | 8.1 million (1997) |
+| Internet Service Providers (ISPs): | 70 (1999) |

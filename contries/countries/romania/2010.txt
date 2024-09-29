@@ -1,0 +1,11 @@
+| Communications | Romania |
+| --- | --- |
+| Telephones - main lines in use: | 5.313 million (2009) |
+| Telephones - mobile cellular: | 25.377 million (2009) |
+| Telephone system: | general assessment: the telecommunications sector is being expanded and modernized; domestic and international service improving rapidly, especially mobile-cellular services |
+| Telephone system: | domestic: more than 90 percent of telephone network is automatic; fixed-line teledensity exceeds 20 telephones per 100 persons; mobile-cellular teledensity, expanding rapidly, roughly 115 telephones per 100 persons |
+| Telephone system: | international: country code - 40; the Black Sea Fiber Optic System provides connectivity to Bulgaria and Turkey; satellite earth stations - 10; digital, international, direct-dial exchanges operate in Bucharest (2009) |
+| Broadcast media: | a mixture of public and private TV stations; the public broadcaster operates multiple stations; roughly 100 private national, regional, and local stations operating; more than 75% of households are connected to multi-channel cable or satellite TV systems that provide access to Romanian, European, and international stations; state-owned public radio broadcaster operates 4 national networks and regional and local stations; more than 100 private radio stations broadcasting (2008) |
+| Internet country code: | .ro |
+| Internet hosts: | 2.464 million (2010) |
+| Internet users: | 7.787 million (2009) |

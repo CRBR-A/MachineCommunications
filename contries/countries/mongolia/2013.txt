@@ -1,0 +1,11 @@
+| Communications | Mongolia |
+| --- | --- |
+| Telephones - main lines in use: | 176,700 (2012) |
+| Telephones - mobile cellular: | 3.375 million (2012) |
+| Telephone system: | general assessment: network is improving with international direct dialing available in many areas; a fiber-optic network has been installed that is improving broadband and communication services between major urban centers with multiple companies providing inter-city fiber-optic cable services |
+| Telephone system: | domestic: very low fixed-line teledensity; there are multiple mobile-cellular providers and subscribership is increasing |
+| Telephone system: | international: country code - 976; satellite earth stations - 7 (2011) |
+| Broadcast media: | following a law passed in 2005, Mongolia's state-run radio and TV provider converted to a public service provider; also available are private radio and TV broadcasters, as well as multi-channel satellite and cable TV providers; more than 100 radio stations, including some 20 via repeaters for the public broadcaster; transmissions of multiple international broadcasters are available (2008) |
+| Internet country code: | .mn |
+| Internet hosts: | 20,084 (2012) |
+| Internet users: | 330,000 (2008) |

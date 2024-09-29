@@ -1,0 +1,11 @@
+| Communications | Algeria |
+| --- | --- |
+| Telephones - main lines in use: | 3.059 million (2011) |
+| Telephones - mobile cellular: | 35.616 million (2011) |
+| Telephone system: | general assessment: privatization of Algeria's telecommunications sector began in 2000; three mobile cellular licenses have been issued and, in 2005, a consortium led by Egypt's Orascom Telecom won a 15-year license to build and operate a fixed-line network in Algeria; the license will allow Orascom to develop high-speed data and other specialized services and contribute to meeting the large unfulfilled demand for basic residential telephony; Internet broadband services began in 2003 |
+| Telephone system: | domestic: a limited network of fixed lines with a teledensity of less than 10 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; in 2011, mobile-cellular teledensity was roughly 100 telephones per 100 persons |
+| Telephone system: | international: country code - 213; landing point for the SEA-ME-WE-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; microwave radio relay to Italy, France, Spain, Morocco, and Tunisia; coaxial cable to Morocco and Tunisia; participant in Medarabtel; satellite earth stations - 51 (Intelsat, Intersputnik, and Arabsat) (2009) |
+| Broadcast media: | state-run Radio-Television Algerienne operates the broadcast media and carries programming in Arabic, Berber dialects, and French; use of satellite dishes is widespread, providing easy access to European and Arab satellite stations; state-run radio operates several national networks and roughly 40 regional radio stations (2007) |
+| Internet country code: | .dz |
+| Internet hosts: | 676 (2012) |
+| Internet users: | 4.7 million (2009) |

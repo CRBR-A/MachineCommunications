@@ -1,0 +1,16 @@
+| Communications | Comoros |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 9,840 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1.18 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 563,722 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 67.6 (2019 est.) |
+| Telecommunication systems: | general assessment: Qatar launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020) |
+| Telecommunication systems: | domestic: fixed-line connections only about 1 per 100 persons; mobile-cellular usage over 68 per 100 persons; two companies provide domestic and international mobile service and wireless data (2019) |
+| Telecommunication systems: | international: country code - 269; landing point for the EASSy, Comoros Domestic Cable System, Avassa, and FLY-LION3Â fiber-optic submarine cable system connecting East Africa with Europe; HF radiotelephone communications to Madagascar and Reunion (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | national state-owned TV station and a TV station run by Anjouan regional government; national state-owned radio; regional governments on the islands of Grande Comore and Anjouan each operate a radio station; a few independent and small community radio stations operate on the islands of Grande Comore and Moheli, and these two islands have access to Mayotte Radio and French TV |
+| Internet country code: | .km |
+| Internet users: | total: 69,635 |
+| Internet users: | percent of population: 8.48% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 1,531 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

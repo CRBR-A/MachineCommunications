@@ -1,0 +1,12 @@
+| Communications | Cuba |
+| --- | --- |
+| Telephones - main lines in use: | 1.217 million (2012) |
+| Telephones - mobile cellular: | 1.682 million (2012) |
+| Telephone system: | general assessment: greater investment beginning in 1994 and the establishment of a new Ministry of Information Technology and Communications in 2000 has resulted in improvements in the system; national fiber-optic system under development; 95% of switches digitized by end of 2006; mobile-cellular telephone service is expensive and must be paid in convertible pesos; cell phones in Cuba number around 2 million; state communications started service of email to cell phones through nauta.cu accounts; Cuban Government has opened Internet cafes around the island, which are expensive and offer slow-speed connections |
+| Telephone system: | domestic: fixed-line density remains low at 10 per 100 inhabitants; mobile-cellular service expanding but remains only about 10 per 100 persons |
+| Telephone system: | international: country code - 53; the ALBA-1 fiber-optic submarine cable links Cuba, Jamaica, and Venezuela; fiber-optic cable laid to but not linked to US network; satellite earth station - 1 Intersputnik (Atlantic Ocean region) (2010) |
+| Broadcast media: | government owns and controls all broadcast media with private ownership of electronic media prohibited; government operates 4 national TV networks and many local TV stations; government operates 6 national radio networks, an international station, and many local radio stations; Radio-TV Marti is beamed from the US (2007) |
+| Internet country code: | .cu |
+| Internet hosts: | 3,244 (2012) |
+| Internet users: | 1.606 million |
+| Internet users: | note: private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet" (2009) |

@@ -1,0 +1,11 @@
+| Communications | Turkey |
+| --- | --- |
+| Telephones - main lines in use: | 15.211 million (2011) |
+| Telephones - mobile cellular: | 65.322 million (2011) |
+| Telephone system: | general assessment: comprehensive telecommunications network undergoing rapid modernization and expansion especially in mobile-cellular services |
+| Telephone system: | domestic: additional digital exchanges are permitting a rapid increase in subscribers; the construction of a network of technologically advanced intercity trunk lines, using both fiber-optic cable and digital microwave radio relay, is facilitating communication between urban centers; remote areas are reached by a domestic satellite system; combined fixed-line and mobile-cellular teledensity is roughly 100 telephones per 100 persons |
+| Telephone system: | international: country code - 90; international service is provided by the SEA-ME-WE-3 submarine cable and by submarine fiber-optic cables in the Mediterranean and Black Seas that link Turkey with Italy, Greece, Israel, Bulgaria, Romania, and Russia; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems (2002) |
+| Broadcast media: | Turkish Radio and Television Corporation (TRT) operates multiple TV and radio networks and stations; multiple privately-owned national television stations and up to 300 private regional and local television stations; multi-channel cable TV subscriptions available; more than 1,000 private radio broadcast stations (2009) |
+| Internet country code: | .tr |
+| Internet hosts: | 7.093 million (2012) |
+| Internet users: | 27.233 million (2009) |

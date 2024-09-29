@@ -1,0 +1,12 @@
+| Communications | Nicaragua |
+| --- | --- |
+| Telephones - main lines in use: | 312,000 (2008) |
+| Telephones - mobile cellular: | 3.039 million (2008) |
+| Telephone system: | general assessment: system being upgraded by foreign investment; nearly all installed telecommunications capacity now uses digital technology, owing to investments since privatization of the formerly state-owned telecommunications company |
+| Telephone system: | domestic: since privatization, access to fixed-line and mobile-cellular services has improved but teledensity still lags behind other Central American countries; fixed-line teledensity roughly 5 per 100 persons; mobile-cellular telephone subscribership increasing and now exceeds 50 per 100 persons; connected to Central American Microwave System |
+| Telephone system: | international: country code - 505; the Americas Region Caribbean Ring System (ARCOS-1) fiber optic submarine cable provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2008) |
+| Radio broadcast stations: | AM 63, FM 32, shortwave 1 (1998) |
+| Television broadcast stations: | 3 (plus 7 repeaters) (1997) |
+| Internet country code: | .ni |
+| Internet hosts: | 88,742 (2009) |
+| Internet users: | 185,000 (2008) |

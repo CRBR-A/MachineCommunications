@@ -1,0 +1,15 @@
+| Communications | Tanzania |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 127,094 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 39,953,860 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 74 (2017 est.) |
+| Telephone system: | general assessment: telecommunications services are marginal; system operating below capacity and being modernized for better service; 2 fixed-line operators and 8 operational mobile networks; unfortunate high tariffs on telecoms; mobile penetration is 83%; 3G/LTE services (2018) |
+| Telephone system: | domestic: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 74 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2018) |
+| Telephone system: | international: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEASÂ fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019) |
+| Broadcast media: | a state-owned TV station and multiple privately owned TV stations; state-owned national radio station supplemented by more than 40 privately owned radio stations; transmissions of several international broadcasters are available (2019) |
+| Internet country code: | .tz |
+| Internet users: | total: 6,822,754 |
+| Internet users: | percent of population: 13% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 1,848,167 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 3 (2017 est.) |

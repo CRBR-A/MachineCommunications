@@ -1,0 +1,11 @@
+| Communications | Zambia |
+| --- | --- |
+| Telephones - main lines in use: | 82,500 (2012) |
+| Telephones - mobile cellular: | 10.525 million (2012) |
+| Telephone system: | general assessment: among the best in sub-Saharan Africa |
+| Telephone system: | domestic: high-capacity microwave radio relay connects most larger towns and cities; several cellular telephone services in operation and network coverage is improving; domestic satellite system being installed to improve telephone service in rural areas; Internet service is widely available; very small aperture terminal (VSAT) networks are operated by private firms |
+| Telephone system: | international: country code - 260; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean), 3 owned by Zamtel (2010) |
+| Broadcast media: | state-owned Zambia National Broadcasting Corporation (ZNBC) operates 1 TV station and is the principal local-content provider; several private TV stations; multi-channel subscription TV services are available; ZNBC operates 3 radio networks; about 2 dozen private radio stations; relays of at least 2 international broadcasters are accessible in Lusaka and Kitwe (2007) |
+| Internet country code: | .zm |
+| Internet hosts: | 16,571 (2012) |
+| Internet users: | 816,200 (2009) |

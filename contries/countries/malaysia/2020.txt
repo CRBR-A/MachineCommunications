@@ -1,0 +1,16 @@
+| Communications | Malaysia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 6,530,410 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 20.26 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 44,997,299 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 139.6 (2019 est.) |
+| Telecommunication systems: | general assessment: one of the most advanced telecom networks in the developing world; strong commitment to developing a technological society; Malaysia is promoting itself as an information tech hub in the Asian region; closing the urban rural divide; 4G and 5G networks with strong competition, mobile dominance over fixed-broadband; roll-out of a national broadband network (2020) |
+| Telecommunication systems: | domestic: fixed-line 20 per 100 and mobile-cellular teledensity exceeds 140 per 100 persons; domestic satellite system with 2 earth stations (2019) |
+| Telecommunication systems: | international: country code - 60; landing points for BBG, FEA, SAFE, SeaMeWe-3 & 4 & 5, AAE-1, JASUKA, BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine Cable System, SEAX-1, SKR1M, APCN-2, APG, BtoBe,Â  BaSICS, and Labuan-Brunei Submarine and MCT submarine cables providing connectivity to Asia, the Middle East, Southeast Asia, Australia and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean); launch of Kacific-1 satellite in 2019 (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable, and satellite - has moderated |
+| Broadcast media: | state-owned TV broadcaster operates 2 TV networks with relays throughout the country, and the leading private commercial media group operates 4 TV stations with numerous relays throughout the country; satellite TV subscription service is available; state-owned radio broadcaster operates multiple national networks, as well as regional and local stations; many private commercial radio broadcasters and some subscription satellite radio services are available; about 55 radio stations overall (2019) |
+| Internet country code: | .my |
+| Internet users: | total: 25,829,444 |
+| Internet users: | percent of population: 81.2% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 2.696 million |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 8 (2018 est.) |

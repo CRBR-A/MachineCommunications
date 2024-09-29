@@ -1,0 +1,16 @@
+| Communications | Somalia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 74,800 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 less than 1 (2018 est.) |
+| Telephones - mobile cellular: | total subscriptions: 5,612,338 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 48.8 (2019 est.) |
+| Telecommunication systems: | general assessment: the public telecom system was almost completely destroyed or dismantled during the civil war; private companies offer limited local fixed-line service, and private wireless companies offer service in most major cities; mobile sector has 7 networks improving the telecom sector along with submarine cables ending the expensive satellite dependency for Internet access; Al Shabaab Islamic militant group has forced closure of Internet services in some parts of the country; new telecom regulatory sector in place (2020) |
+| Telecommunication systems: | domestic: seven networks compete for customers in the mobile sector; some of these mobile-service providers offer fixed-lines and Internet services; fixed-line less than 1 per 100 and mobile-cellular 49 per 100 (2019) |
+| Telecommunication systems: | international: country code - 252; landing points for the G2A, DARE1, PEACE, and EASSy fiber-optic submarine cable system linking East Africa, Indian Ocean Islands, the Middle East, North AfricaÂ andÂ Europe (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 2 private TV stations rebroadcast Al-Jazeera and CNN; Somaliland has 1 government-operated TV station and Puntland has 1 private TV station; the transitional government operates Radio Mogadishu; 1 SW and roughly 10 private FM radio stations broadcast in Mogadishu; several radio stations operate in central and southern regions; Somaliland has 1 government-operated radio station; Puntland has roughly a half-dozen private radio stations; transmissions of at least 2 international broadcasters are available (2019) |
+| Internet country code: | .so |
+| Internet users: | total: 225,181 |
+| Internet users: | percent of population: 2% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 92,000 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2017 est.) |

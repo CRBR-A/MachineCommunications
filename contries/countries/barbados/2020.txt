@@ -1,0 +1,16 @@
+| Communications | Barbados |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 141,618 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 48.19 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 319,177 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 108.61 (2019 est.) |
+| Telecommunication systems: | general assessment: island-wide automatic telephone system; telecom sector across the Caribbean region remains one of the key growth areas and contributors to the overall GDP; numerous competitors licensed, but small and localized (2020) |
+| Telecommunication systems: | domestic: fixed-line teledensity of roughly 48 per 100 persons; mobile-cellular telephone density about 109 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 1-246; landing points for the ECFS and Southern Caribbean Fiber submarine cable with links to 15 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and Puerto Ricco; satellite earth stations - 1 (Intelsat - Atlantic Ocean); tropospheric scatter to Trinidad and Saint Lucia (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also operates a multi-channel cable TV subscription service; roughly a dozen radio stations, consisting of a CBC-operated network operating alongside privately owned radio stations |
+| Internet country code: | .bb |
+| Internet users: | total: 239,664 |
+| Internet users: | percent of population: 81.76% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 89,340 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 30 (2018 est.) |

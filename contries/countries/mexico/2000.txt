@@ -1,0 +1,12 @@
+| Communications |   |
+| --- | --- |
+| Telephones - main lines in use: | 9.6 million (1998) |
+| Telephones - mobile cellular: | 2.02 million (1998) |
+| Telephone system: | highly developed system with extensive microwave radio relay links; privatized in December 1990; opened to competition January 1997 |
+| domestic: | adequate telephone service for business and government, but the population is poorly served; domestic satellite system with 120 earth stations; extensive microwave radio relay network; considerable use of fiber-optic cable, coaxial cable, and mobile cellular service |
+| international: | satellite earth stations - 32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), numerous Inmarsat mobile earth stations; linked to Central American Microwave System of trunk connections; high capacity Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Morocco, Spain, and Italy (1997) |
+| Radio broadcast stations: | AM 865, FM about 500, shortwave 13 (1999) |
+| Radios: | 31 million (1997) |
+| Television broadcast stations: | 236 (plus repeaters) (1997) |
+| Televisions: | 25.6 million (1997) |
+| Internet Service Providers (ISPs): | 167 (1999) |

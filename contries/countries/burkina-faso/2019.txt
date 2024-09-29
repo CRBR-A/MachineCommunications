@@ -1,0 +1,15 @@
+| Communications | Burkina Faso |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 76,000 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 17,946,375 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 89 (2017 est.) |
+| Telephone system: | general assessment: system includes microwave radio relay, open-wire, and radiotelephone communication stations; with slow regulatory procedures, insufficient mobile spectrum,Â and poor condition of fixed-line networksÂ the development of fixed-line Internet services leave Burkina FasoÂ with someÂ ofÂ the most expensive telecommunications globally; mobile telephony has experiencedÂ growth,Â but below the African average; Burkina Faso joins G5 Sahel countries toÂ stop roaming fees by 2019; govt proposes technology-neutralÂ licenses to boost mobile broadband connectivity (2018) |
+| Telephone system: | domestic: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usageÂ 91.4 per 100,Â withÂ multiple providers there isÂ competition and theÂ hope for growth from a low base;Â Internet penetration is 11% countrywide, but higher in urban areas (2018) |
+| Telephone system: | international: country code - 226; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| Broadcast media: | since the official inauguration of Terrestrial Digital Television (TNT) in December 2017, Burkina Faso now has 14 digital TV channels among which 2 are state-owned; there are more than 140 radio stations (commercial, religious, community) available throughout the country including a national and regional state-owned network; the state-owned Radio Burkina and the private Radio Omega are among the most widespread stations and both include broadcasts in French and local languages (2019) |
+| Internet country code: | .bf |
+| Internet users: | total: 2,723,950 |
+| Internet users: | percent of population: 14% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 14,067 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

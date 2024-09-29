@@ -1,0 +1,15 @@
+| Communications | Mexico |
+| --- | --- |
+| Telephones - main lines in use: | 19.754 million (2007) |
+| Telephones - mobile cellular: | 68.254 million (2007) |
+| Telephone system: | general assessment: adequate telephone service for business and government, but the population is poorly served; mobile subscribers far outnumber fixed-line subscribers; domestic satellite system with 120 earth stations; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable |
+| Telephone system: | domestic: low telephone density with about 18 fixed lines per 100 persons; privatized in December 1990; despite the opening to competition in January 1997, Telmex remains dominant; legal challenges to Telmex's alleged anti-competitive behavior in the mobile and fixed-line markets culminated in a World Trade Organization ruling in 2004 against Mexico prompting some strengthening of the powers granted Mexico's telecom regulator; mobile cellular teledensity approaching 65 per 100 persons |
+| Telephone system: | international: country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the Americas Region Caribbean Ring System (ARCOS-1) and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2007) |
+| Radio broadcast stations: | AM 850, FM 545, shortwave 15 (2003) |
+| Radios: | 31 million (1997) |
+| Television broadcast stations: | 236 (plus repeaters) (1997) |
+| Televisions: | 25.6 million (1997) |
+| Internet country code: | .mx |
+| Internet hosts: | 10.653 million (2008) |
+| Internet Service Providers (ISPs): | 51 (2000) |
+| Internet users: | 22.812 million (2007) |

@@ -1,0 +1,16 @@
+| Communications | Chad |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 6,540 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 7,857,758 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 48.06 (2019 est.) |
+| Telecommunication systems: | general assessment: inadequate system of radio telephone communication stations with high maintenance costs and low telephone density; Chad remains one of the least developed on the African continent, telecom infrastructure is particularly low, with penetration rates in all sectors - fixed, mobile and Internet -well below African averages; low usage also due to 18% excise duty tax on telecom services and a negative impact on operator revenue (2020) |
+| Telecommunication systems: | domestic: fixed-line connections less than 1 per 100 persons, with mobile-cellular subscribership base of about 48 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 1 state-owned TV station; 2 privately-owned TV stations; state-owned radio network, Radiodiffusion Nationale Tchadienne (RNT), operates national and regional stations; over 10 private radio stations; some stations rebroadcast programs from international broadcasters (2017) |
+| Internet country code: | .td |
+| Internet users: | total: 1,029,153 |
+| Internet users: | percent of population: 6.5% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 334 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

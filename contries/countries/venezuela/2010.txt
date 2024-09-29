@@ -1,0 +1,11 @@
+| Communications | Venezuela |
+| --- | --- |
+| Telephones - main lines in use: | 6.867 million (2009) |
+| Telephones - mobile cellular: | 28.124 million (2009) |
+| Telephone system: | general assessment: modern and expanding |
+| Telephone system: | domestic: domestic satellite system with 3 earth stations; recent substantial improvement in telephone service in rural areas; substantial increase in digitalization of exchanges and trunk lines; installation of a national interurban fiber-optic network capable of digital multimedia services; combined fixed and mobile-cellular telephone subscribership 130 per 100 persons |
+| Telephone system: | international: country code - 58; submarine cable systems provide connectivity to the Caribbean, Central and South America, and US; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat; participating with Colombia, Ecuador, Peru, and Bolivia in the construction of an international fiber-optic network (2009) |
+| Broadcast media: | government supervises a mixture of state-run and private broadcast media; 1 state-run television network, 4 privately-owned TV networks, and a government-backed pan-American channel; state-run radio network includes 15 stations; large number of private broadcast radio stations (2007) |
+| Internet country code: | .ve |
+| Internet hosts: | 238,665 (2010) |
+| Internet users: | 8.918 million (2009) |

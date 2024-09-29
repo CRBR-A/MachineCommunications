@@ -1,0 +1,11 @@
+| Communications | Ukraine |
+| --- | --- |
+| Telephones - main lines in use: | 13.026 million (2009) |
+| Telephones - mobile cellular: | 55.333 million (2009) |
+| Telephone system: | general assessment: Ukraine's telecommunication development plan emphasizes improving domestic trunk lines, international connections, and the mobile-cellular system |
+| Telephone system: | domestic: at independence in December 1991, Ukraine inherited a telephone system that was antiquated, inefficient, and in disrepair; more than 3.5 million applications for telephones could not be satisfied; telephone density is rising and the domestic trunk system is being improved; about one-third of Ukraine's networks are digital and a majority of regional centers now have digital switching stations; improvements in local networks and local exchanges continue to lag; the mobile-cellular telephone system's expansion has slowed, largely due to saturation of the market which has reached 120 mobile phones per 100 people |
+| Telephone system: | international: country code - 380; 2 new domestic trunk lines are a part of the fiber-optic Trans-Asia-Europe (TAE) system and 3 Ukrainian links have been installed in the fiber-optic Trans-European Lines (TEL) project that connects 18 countries; additional international service is provided by the Italy-Turkey-Ukraine-Russia (ITUR) fiber-optic submarine cable and by an unknown number of earth stations in the Intelsat, Inmarsat, and Intersputnik satellite systems |
+| Broadcast media: | TV coverage is provided by Ukraine's state-controlled nationwide broadcast channel (UT1) and a number of privately-owned television broadcast networks; Russian television broadcasts have a small audience nationwide, but larger audiences in the eastern and southern regions; multi-channel cable and satellite TV services are available; Ukraine's radio broadcast market, a mix of independent and state-owned networks, is comprised of some 300 stations (2007) |
+| Internet country code: | .ua |
+| Internet hosts: | 1.098 million (2010) |
+| Internet users: | 7.77 million (2009) |

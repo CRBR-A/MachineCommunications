@@ -1,0 +1,12 @@
+| Communications | India |
+| --- | --- |
+| Telephones - main lines in use: | 37.54 million (2009) |
+| Telephones - mobile cellular: | 427.3 million (2009) |
+| Telephone system: | general assessment: recent deregulation and liberalization of telecommunications laws and policies have prompted rapid growth; local and long distance service provided throughout all regions of the country, with services primarily concentrated in the urban areas; steady improvement is taking place with the recent admission of private and private-public investors, but combined fixed and mobile telephone density remains low at about 40 for each 100 persons nationwide and much lower for persons in rural areas; extremely rapid growth in cellular service with modest declines in fixed lines |
+| Telephone system: | domestic: mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles each with multiple private service providers and one or more state-owned service providers; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 very small aperture terminals (VSAT) |
+| Telephone system: | international: country code - 91; a number of major international submarine cable systems, including Sea-Me-We-3 with landing sites at Cochin and Mumbai (Bombay), Sea-Me-We-4 with a landing site at Chennai, Fiber-Optic Link Around the Globe (FLAG) with a landing site at Mumbai (Bombay), South Africa - Far East (SAFE) with a landing site at Cochin, the i2i cable network linking to Singapore with landing sites at Mumbai (Bombay) and Chennai (Madras), and Tata Indicom linking Singapore and Chennai (Madras), provide a significant increase in the bandwidth available for both voice and data traffic; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region); 9 gateway exchanges operating from Mumbai (Bombay), New Delhi, Kolkata (Calcutta), Chennai (Madras), Jalandhar, Kanpur, Gandhinagar, Hyderabad, and Ernakulam (2008) |
+| Radio broadcast stations: | AM 153, FM 91, shortwave 68 (1998) |
+| Television broadcast stations: | 562 (1997) |
+| Internet country code: | .in |
+| Internet hosts: | 3.611 million (2009) |
+| Internet users: | 81 million (2008) |

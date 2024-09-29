@@ -1,0 +1,11 @@
+| Communications | Georgia |
+| --- | --- |
+| Telephones - main lines in use: | 597,000 (2010) |
+| Telephones - mobile cellular: | 3.193 million (2010) |
+| Telephone system: | general assessment: fixed-line telecommunications network has only limited coverage outside Tbilisi; long list of people waiting for fixed line connections; multiple mobile-cellular providers provide services to an increasing subscribership throughout the country |
+| Telephone system: | domestic: cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 60 per 100 people; urban fixed-line telephone density is about 20 per 100 people; rural telephone density is about 4 per 100 people; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi; nationwide pager service is available |
+| Telephone system: | international: country code - 995; the Georgia-Russia fiber optic submarine cable provides connectivity to Russia; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available |
+| Broadcast media: | 1 state-owned public television station in Tbilisi and 8 privately-owned TV stations; state-run public broadcaster operates 2 networks; dozens of cable TV operators and several major commercial TV stations are operating; state-owned public radio broadcaster operates 2 networks; several dozen private stations broadcast (2008) |
+| Internet country code: | .ge |
+| Internet hosts: | 110,680 (2010) |
+| Internet users: | 1.3 million (2009) |

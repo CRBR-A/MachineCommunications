@@ -1,0 +1,16 @@
+| Communications | Dominica |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 2,751 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 3.71 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 78,437 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 105.79 (2019 est.) |
+| Telecommunication systems: | general assessment: fully automatic network;Â there are multiple competing operators licensed to provide services, most of them are small and localized; the telecom sector across the Caribbean region remains one of the key growth areas; (2020) |
+| Telecommunication systems: | domestic: fixed-line connections continue to decline slowly with only two active operators providing about 4 fixed-line connections per 100 persons; subscribership among the three mobile-cellular providers is about 106 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 1-767; landing points for the ECFS and theÂ Southern Caribbean FiberÂ submarine cables providing connectivity to other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and to the US; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | no terrestrial TV service available; subscription cable TV provider offers some locally produced programming plus channels from the US, Latin America, and the Caribbean; state-operated radio broadcasts on 6 stations; privately owned radio broadcasts on about 15 stations (2019) |
+| Internet country code: | .dm |
+| Internet users: | total: 51,538 |
+| Internet users: | percent of population: 69.62% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 11,514 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 16 (2018 est.) |

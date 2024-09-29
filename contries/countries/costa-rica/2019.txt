@@ -1,0 +1,15 @@
+| Communications | Costa Rica |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 843,148 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 17 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 8,840,342 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 179 (2017 est.) |
+| Telephone system: | general assessment: good domestic telephone service in terms of breadth of coverage; in recent years growth has been achieved from liberalistion of the telecom sector and has seen substantialÂ expansion in all sectors; Costa Rica's broadband market is the mostÂ advanced in Central America, with the highest broadband penetration for this sub-region; broadband penetration does lag behind many South American countries; with the implementation of number portability there is greaterÂ opportunity for increased competition in the future (2018) |
+| Telephone system: | domestic: point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available; 17 per 100 fixed-line, 179 per 100 mobile-cellular (2018) |
+| Telephone system: | international: country code - 506; landing points for the ARCOS-1, MAYA-1, and theÂ PAC submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019) |
+| Broadcast media: | multiple privately owned TV stations and 1 publicly owned TV station; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2017) |
+| Internet country code: | .cr |
+| Internet users: | total: 3,217,277 |
+| Internet users: | percent of population: 66% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 744,059 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 15 (2017 est.) |

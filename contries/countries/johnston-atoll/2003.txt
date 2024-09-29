@@ -1,0 +1,8 @@
+| Communications | Johnston Atoll |
+| --- | --- |
+| Telephone system: | general assessment: 33 commercial lines, 15 incoming and 18 outgoing; adequate telecommunications |
+| Telephone system: | domestic: 60-channel submarine cable (broken in January 2002), 24 DSN circuits by satellite, Automated Digital Network (AUTODIN) with standard remote terminal, digital telephone switch, Military Affiliated Radio System (MARS) station (scheduled for decommissioning March 2003), UHF/VHF air-ground radio, a link to the Pacific Consolidated Telecommunications Network (PCTN) satellite |
+| Telephone system: | international: NA (2002) |
+| Radio broadcast stations: | AM NA, FM 7 (1 island-run morale, welfare, and recreation station and 6 all-music digital radio stations broadcast over FM band), shortwave NA (2002) |
+| Television broadcast stations: | commercial satellite television system, with 30 channels (2002) |
+| Internet Service Providers (ISPs): | 1 256 KB circuit to US Department of Defense-run Nonsecure Internet Protocol Router Network (NIPRNET) (2002) |

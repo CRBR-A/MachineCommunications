@@ -1,0 +1,11 @@
+| Communications | Korea, North |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 1.18 million |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 5 (July 2016 est.) |
+| Telephones - mobile cellular: | total subscriptions: 3.606 million |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 14 (July 2016 est.) |
+| Telephone system: | general assessment: nationwide fiber-optic network; mobile-cellular service expanded beyond Pyongyang; infrastructure underdeveloped yet growing mobile penetrationÂ by means of foreign investment; low broadband penetration; mobile penetration in North Korea believed to stay well below other Asian nations due to government restrictions; 3G network deployed among universal population coverage (2018) |
+| Telephone system: | domestic: fiber-optic links installed down to the county level; telephone directories unavailable; mobile service launched in late 2008 for the Pyongyang area and considerable progress in expanding to other parts of the country since; fixed-lines are 5 per 100 and mobile-cellular 14 per 100 persons (2018) |
+| Telephone system: | international: country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing |
+| Broadcast media: | no independent media; radios and TVs are pre-tuned to government stations; 4 government-owned TV stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts (2019) |
+| Internet country code: | .kp |

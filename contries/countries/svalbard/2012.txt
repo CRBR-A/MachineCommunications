@@ -1,0 +1,7 @@
+| Communications | Svalbard |
+| --- | --- |
+| Telephone system: | general assessment: adequate |
+| Telephone system: | domestic: local telephone service |
+| Telephone system: | international: country code - 47-790; satellite earth station - 1 of unknown type (for communication with Norwegian mainland only) |
+| Broadcast media: | the Norwegian Broadcasting Corporation (NRK) began direct TV transmission to Svalbard via satellite in 1984; Longyearbyen households have access to 3 NRK radio and 2 TV stations (2008) |
+| Internet country code: | .sj |

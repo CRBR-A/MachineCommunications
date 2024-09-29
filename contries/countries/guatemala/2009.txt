@@ -1,0 +1,12 @@
+| Communications | Guatemala |
+| --- | --- |
+| Telephones - main lines in use: | 1.449 million (2008) |
+| Telephones - mobile cellular: | 14.949 million (2008) |
+| Telephone system: | general assessment: fairly modern network centered in the city of Guatemala |
+| Telephone system: | domestic: state-owned telecommunications company privatized in the late 1990s opening the way for competition; fixed-line teledensity 11 per 100 persons; fixed-line investments are being concentrated on improving rural connectivity; mobile-cellular teledensity exceeds 100 per 100 persons |
+| Telephone system: | international: country code - 502; landing point for both the Americas Region Caribbean Ring System (ARCOS-1) and the SAM-1 fiber optic submarine cable system that together provide connectivity to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth station - 1 Intelsat (Atlantic Ocean) (2008) |
+| Radio broadcast stations: | AM 130, FM 487, shortwave 15 (2000) |
+| Television broadcast stations: | 26 (plus 27 repeaters) (1997) |
+| Internet country code: | .gt |
+| Internet hosts: | 132,049 (2009) |
+| Internet users: | 1.96 million (2008) |

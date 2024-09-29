@@ -1,0 +1,16 @@
+| Communications | Australia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 7,792,701 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 31.03 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 27,780,491 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 110.62 (2019 est.) |
+| Telecommunication systems: | general assessment: excellent domestic and international service; domestic satellite system; significant use of radiotelephone in areas of low population density; rapid growth of mobile telephones; continue to enhance 4G networks while migrating to 5G technologies; 5G connections are predicted to account for around 50 - 60% of total connections by 2025 (2020) |
+| Telecommunication systems: | domestic: 31 per 100 fixed-line, 111 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2019) |
+| Telecommunication systems: | international: country code - 61; landing points forÂ more thanÂ 20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New ZealandÂ and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as Australia Network, a TV service that broadcasts throughout the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available |
+| Internet country code: | .au |
+| Internet users: | total: 21,419,302 |
+| Internet users: | percent of population: 86.55% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 7.64 million |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 31 (2018 est.) |

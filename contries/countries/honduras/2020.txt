@@ -1,0 +1,16 @@
+| Communications | Honduras |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 458,696 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 5.03 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 6,633,309 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 72.74 (2019 est.) |
+| Telecommunication systems: | general assessment: fixed-line connections are increasing but still limited; competition among multiple providers of mobile-cellular services and international investment has contributed to a sharp increase in subscribership; demand for broadband increasing and some investment needed in network upgrades; mobile penetration below regional average; free access to the Internet in public schools (2020) |
+| Telecommunication systems: | domestic: private sub-operators allowed to provide fixed lines in order to expand telephone coverage contributing to a small increase in fixed-line teledensity 5 per 100; mobile-cellular subscribership is roughly 73 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 504; landing points for both the ARCOS and the MAYA-1 fiber-optic submarine cable systems that together provide connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | multiple privately owned terrestrial TV networks, supplemented by multiple cable TV networks; Radio Honduras is the lone government-owned radio network; roughly 300 privately owned radio stations |
+| Internet country code: | .hn |
+| Internet users: | total: 2,853,505 |
+| Internet users: | percent of population: 31.7% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 354,861 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 4 (2018 est.) |

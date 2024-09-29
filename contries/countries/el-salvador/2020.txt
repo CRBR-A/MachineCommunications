@@ -1,0 +1,16 @@
+| Communications | El Salvador |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 882,498 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 13.73 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 9,442,667 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 146.91 (2019 est.) |
+| Telecommunication systems: | general assessment: multiple mobile-cellular operators began rolling out (Long Term Evolution) LTE data services in late-2016; Internet usage grew almost 400% between 2007 and 2015; 6% of phones are fixed-line, while 94% are mobile-cellular; as of March 2019, the regulator launched a public dialog that allowed mobile network operators to improve the reach and quality of service; telecom legislation encourages competition and foreign investment; only 1 DSL market leader retaining a monopoly; govt. increases tax on telecom services to 18% (2020) |
+| Telecommunication systems: | domestic: growth in fixed-line services 14 per 100, has slowed in the face of mobile-cellular competition at 147 per 100 (2019) |
+| Telecommunication systems: | international: country code - 503; satellite earth station - 1 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | multiple privately owned national terrestrial TV networks, supplemented by cable TV networks that carry international channels; hundreds of commercial radio broadcast stations and 1 government-owned radio broadcast station; transition to digital transmission to begin in 2018 along with adaptation of the Japanese-Brazilian Digital Standard (ISDB-T) |
+| Internet country code: | .sv |
+| Internet users: | total: 2,153,776 |
+| Internet users: | percent of population: 33.82% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 492,265 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 8 (2018 est.) |

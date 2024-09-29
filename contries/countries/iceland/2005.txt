@@ -1,0 +1,15 @@
+| Communications | Iceland |
+| --- | --- |
+| Telephones - main lines in use: | 190,700 (2003) |
+| Telephones - mobile cellular: | 279,100 (2003) |
+| Telephone system: | general assessment: extensive domestic service |
+| Telephone system: | domestic: the trunk network consists of coaxial and fiber-optic cables and microwave radio relay links |
+| Telephone system: | international: country code - 354; satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) |
+| Radio broadcast stations: | AM 3, FM about 70 (including repeaters), shortwave 1 (1998) |
+| Radios: | 260,000 (1997) |
+| Television broadcast stations: | 14 (plus 156 low-power repeaters) (1997) |
+| Televisions: | 98,000 (1997) |
+| Internet country code: | .is |
+| Internet hosts: | 122,175 (2004) |
+| Internet Service Providers (ISPs): | 20 (2001) |
+| Internet users: | 195,000 (2003) |

@@ -1,0 +1,16 @@
+| Communications | Canada |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 13,258,721 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 35.46 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 34,597,559 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 92.53 (2019 est.) |
+| Telecommunication systems: | general assessment: excellent service provided by first-rateÂ technology; offers 99% coverage with LTE; consumer demand for mobile data services have prompted telecom companiesÂ to invest andÂ advance LTE infrastructure,Â and further investment in 5G; govt. policy hasÂ aidedÂ the extension of broadband to rural and regional areas, with the result that services are almost universally accessible; govt. sets up $400 million public-private partnership to exploit benefits of 5G (2020) |
+| Telecommunication systems: | domestic: 35 per 100 fixed-line; 93 per 100 mobile-cellular; comparatively low mobile penetration provides further room for growth; domestic satellite system with about 300 earth stations (2019) |
+| Telecommunication systems: | international: country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016) |
+| Internet country code: | .ca |
+| Internet users: | total: 33,743,954 |
+| Internet users: | percent of population: 91% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 14,445,606 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 39 (2018 est.) |

@@ -1,0 +1,12 @@
+| Communications | Iraq |
+| --- | --- |
+| Telephones - main lines in use: | 1.082 million (2008) |
+| Telephones - mobile cellular: | 17.529 million (2008) |
+| Telephone system: | general assessment: the 2003 liberation of Iraq severely disrupted telecommunications throughout Iraq including international connections; widespread government efforts to rebuild domestic and international communications through fiber optic links are in progress; the mobile cellular market has expanded rapidly and its subscribership base approached 18 million in 2008 |
+| Telephone system: | domestic: repairs to switches and lines destroyed during 2003 continue; additional switching capacity is improving access; cellular service is available and centered on 3 GSM networks which are being expanded beyond their regional roots, improving country-wide connectivity; wireless local loop licenses have been issued with the hope of overcoming the lack of fixed-line infrastructure |
+| Telephone system: | international: country code - 964; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey; planned international fiber-optic connections to Iran (terrestrial) with a link to the Fiber-Optic Link Around the Globe (FLAG) submarine fiber-optic cable (2008) |
+| Radio broadcast stations: | 52 (station frequency types NA) (2008) |
+| Television broadcast stations: | 47 (2008) |
+| Internet country code: | .iq |
+| Internet hosts: | 11 (2009) |
+| Internet users: | 300,000 (2008) |

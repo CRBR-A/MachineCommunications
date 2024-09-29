@@ -1,0 +1,16 @@
+| Communications | Trinidad and Tobago |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 298,493 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 24.62 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,880,555 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 155.11 (2019 est.) |
+| Telecommunication systems: | general assessment: excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020) |
+| Telecommunication systems: | domestic: fixed-line 25 per 100 persons and mobile-cellular teledensity 155 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 1-868; landing points for the EC Link, ECFS, Southern Caribbean Fiber, SG-SCS and Americas II submarine cable systems provide connectivity to US, parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2020) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 6 free-to-air TV networks, 2 of which are state-owned; 24 subscription providers (cable and satellite); over 36 radio frequencies (2019) |
+| Internet country code: | .tt |
+| Internet users: | total: 939,967 |
+| Internet users: | percent of population: 77.33% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 341,045 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 28 (2018 est.) |

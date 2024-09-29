@@ -1,0 +1,11 @@
+| Communications | Argentina |
+| --- | --- |
+| Telephones - main lines in use: | 9.764 million (2009) |
+| Telephones - mobile cellular: | 51.891 million (2009) |
+| Telephone system: | general assessment: the "Telecommunications Liberalization Plan of 1998" opened the telecommunications market to competition and foreign investment encouraging the growth of modern telecommunications technology; fiber-optic cable trunk lines are being installed between all major cities; major networks are entirely digital and the availability of telephone service is improving |
+| Telephone system: | domestic: microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network; fixed-line teledensity is increasing gradually and mobile-cellular subscribership is increasing rapidly; broadband Internet services are gaining ground |
+| Telephone system: | international: country code - 54; landing point for the Atlantis-2, UNISUR, South America-1, and South American Crossing/Latin American Nautilus submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112; 2 international gateways near Buenos Aires (2009) |
+| Broadcast media: | government owns a TV station and a radio network; more than 2 dozen TV stations and hundreds of privately-owned radio stations; high rate of cable TV subscription usage (2007) |
+| Internet country code: | .ar |
+| Internet hosts: | 6.025 million (2010) |
+| Internet users: | 13.694 million (2009) |

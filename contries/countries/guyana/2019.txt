@@ -1,0 +1,15 @@
+| Communications | Guyana |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 135,795 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 18 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 643,210 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 87 (2017 est.) |
+| Telephone system: | general assessment: reliable international long distance service; 100% digital network; national transmission supported by fiber optic cable and rural network by microwaves; more than 150,000 lines; many areas still lack fixed-line telephone services; 2019 budget allocates funds for ICT (Information and Communications Technology)Â Â development (2018) |
+| Telephone system: | domestic: fixed-line teledensity is about 20 per 100 persons; mobile-cellular teledensity aboutÂ 87 per 100 persons (2018) |
+| Telephone system: | international: country code - 592; landing point for the SG-SCS submarine cable to Suriname,Â and the Caribbean;Â satellite earth station - 1 Intelsat (Atlantic Ocean) (2019) |
+| Broadcast media: | government-dominated broadcast media; the National Communications Network (NCN) TV is state-owned; a few private TV stations relay satellite services; the state owns and operates 2 radio stations broadcasting on multiple frequencies capable of reaching the entire country; government limits on licensing of new private radio stations has constrained competition in broadcast media |
+| Internet country code: | .gy |
+| Internet users: | total: 262,425 |
+| Internet users: | percent of population: 35.7% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 64,889 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 9 (2017 est.) |

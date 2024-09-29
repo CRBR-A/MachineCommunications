@@ -1,0 +1,15 @@
+| Communications | Pakistan |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 2,940,243 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 144,525,637 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 71 (2017 est.) |
+| Telephone system: | general assessment: the telecommunications infrastructure is improving, with investments in mobile-cellular networks increasing, but fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G not before 2030; mobile platform and mobile broadband doing well (2018) |
+| Telephone system: | domestic: mobile-cellular subscribership has skyrocketed; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access, though broadband penetration in Pakistan is still relatively low; fixed-line 1 per 100 and mobile-cellular 71 per 100 persons (2018) |
+| Telephone system: | international: country code - 92; landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient Express, PEACE Cable,Â and TW1 submarine cable systems that provide links to Europe, Africa, the Middle East, Asia, Southeast Asia, and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2019) |
+| Broadcast media: | media is government regulated; 1 dominant state-owned TV broadcaster, Pakistan Television Corporation (PTV), operates a network consisting of 8 channels; private TV broadcasters are permitted; to date 69 foreign satellite channels are operational; the state-owned radio network operates more than 30 stations; nearly 200 commercially licensed, privately owned radio stations provide programming mostly limited to music and talk shows (2019) |
+| Internet country code: | .pk |
+| Internet users: | total: 31,338,715 |
+| Internet users: | percent of population: 15.5% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 1,829,673 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2017 est.) |

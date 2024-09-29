@@ -1,0 +1,15 @@
+| Communications | Tunisia |
+| --- | --- |
+| Telephones - main lines in use: | 1.273 million (2007) |
+| Telephones - mobile cellular: | 7.842 million (2007) |
+| Telephone system: | general assessment: above the African average and continuing to be upgraded; key centers are Sfax, Sousse, Bizerte, and Tunis; Internet access available |
+| Telephone system: | domestic: in an effort jumpstart expansion of the fixed-line network, the government has awarded a concession to build and operate a VSAT network with international connectivity; competition between the two mobile-cellular service providers has resulted in lower activation and usage charges and a strong surge in subscribership; expansion of mobile-cellular services to include multimedia messaging and e-mail and Internet to mobile phone services also leading to a surge in subscribership; overall fixed-line and mobile-cellular teledensity is about 90 telephones per 100 persons |
+| Telephone system: | international: country code - 216; a landing point for the SEA-ME-WE-4 submarine cable system that provides links to Europe, Middle East, and Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat; coaxial cable and microwave radio relay to Algeria and Libya; participant in Medarabtel; 2 international gateway digital switches |
+| Radio broadcast stations: | AM 7, FM 38, shortwave 2 (2007) |
+| Radios: | 2.06 million (1997) |
+| Television broadcast stations: | 26 (plus 76 repeaters) (1995) |
+| Televisions: | 920,000 (1997) |
+| Internet country code: | .tn |
+| Internet hosts: | 376 (2008) |
+| Internet Service Providers (ISPs): | 1 (2000) |
+| Internet users: | 1.722 million (2007) |

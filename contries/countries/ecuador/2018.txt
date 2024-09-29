@@ -1,0 +1,15 @@
+| Communications | Ecuador |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 2,415,204 (2017 est.) |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 15 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 13,881,562 (2017 est.) |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 85 (2017 est.) |
+| Telephone system: | general assessment: fixed-line service and sophisticated 4G LTE ultra-broadband network; much of the country's fixed-line structure isÂ influenced by topographical challenges associated with the Andes Mountains; Ecuador has a small telecom market with a dominant mobile sector;Â Â the state-owned incumbent CNT dominates the fixed-line market, and thereforeÂ  the DSL broadband market aswell (2018) |
+| Telephone system: | domestic: fixed-line services with digital networks provided by multiple telecommunications operators; fixed-line teledensity stands at about 15 per 100 persons; mobile-cellular use has surged and subscribership has reached 85 per 100 persons (2018) |
+| Telephone system: | international: country code - 593; landing points for the PAN-AM and South America-1 submarine cables that provide links to the west coast of South America, Panama, Colombia, Venezuela, and extending onward to Aruba and the US Virgin Islands in the Caribbean; in 2017, Alcatel completed a 6000km, submarine-cable system from Sarasota, Florida to Manta, Ecuador; satellite earth station - 1 Intelsat (Atlantic Ocean) (2018) |
+| Broadcast media: | about 60 media outlets are recognized as national; the Ecuadorian Government controls 12 national outlets and multiple radio stations; there are multiple TV networks and many local channels, as well as more than 300 radio stations; many TV and radio stations are privately owned; broadcast media is required by law to give the government free airtime to broadcast programs produced by the state; the Ecuadorian Government is the biggest advertiser and grants advertising contracts to outlets that provide favorable coverage; a 2011 antimonopoly law and the 2013 Communication Law limit ownership and investment in the media by non-media businesses (2018) |
+| Internet country code: | .ec |
+| Internet users: | total: 8,693,739 (July 2016 est.) |
+| Internet users: | percent of population: 54.1% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 1,683,783 (2017 est.) |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 10 (2017 est.) |

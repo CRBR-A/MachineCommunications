@@ -1,0 +1,12 @@
+| Communications | Hungary |
+| --- | --- |
+| Telephones - main lines in use: | 3.094 million (2008) |
+| Telephones - mobile cellular: | 12.224 million (2008) |
+| Telephone system: | general assessment: the telephone system has been modernized and is capable of satisfying all requests for telecommunication service |
+| Telephone system: | domestic: the system is digitalized and highly automated; trunk services are carried by fiber-optic cable and digital microwave radio relay; a program for fiber-optic subscriber connections was initiated in 1996; competition among mobile-cellular service providers has led to a sharp increase in the use of mobile cellular phones since 2000 and a decrease in the number of fixed-line connections |
+| Telephone system: | international: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 very small aperture terminal (VSAT) system of ground terminals |
+| Radio broadcast stations: | AM 5, FM 90, shortwave 1 (2008) |
+| Television broadcast stations: | 95 (2008) |
+| Internet country code: | .hu |
+| Internet hosts: | 2.261 million (2009) |
+| Internet users: | 5.873 million (2008) |

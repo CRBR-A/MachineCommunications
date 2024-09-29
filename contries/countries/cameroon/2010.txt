@@ -1,0 +1,11 @@
+| Communications | Cameroon |
+| --- | --- |
+| Telephones - main lines in use: | 323,800 (2009) |
+| Telephones - mobile cellular: | 7.397 million (2009) |
+| Telephone system: | general assessment: system includes cable, microwave radio relay, and tropospheric scatter; Camtel, the monopoly provider of fixed-line service, provides connections for only about 1 per 100 persons; equipment is old and outdated, and connections with many parts of the country are unreliable |
+| Telephone system: | domestic: mobile-cellular usage, in part a reflection of the poor condition and general inadequacy of the fixed-line network, has increased sharply, reaching a subscribership base of 40 per 100 persons |
+| Telephone system: | international: country code - 237; landing point for the SAT-3/WASC fiber-optic submarine cable that provides connectivity to Europe and Asia; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2009) |
+| Broadcast media: | government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a television and radio network, was the only officially recognized and fully licensed broadcaster until August 2007 when the government finally issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately-owned unlicensed radio stations operating but are subject to closure at any time; foreign news services required to partner with state-owned national station (2007) |
+| Internet country code: | .cm |
+| Internet hosts: | 90 (2010) |
+| Internet users: | 749,600 (2009) |

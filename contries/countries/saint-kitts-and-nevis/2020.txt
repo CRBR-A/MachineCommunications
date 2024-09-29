@@ -1,0 +1,16 @@
+| Communications | Saint Kitts and Nevis |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 17,766 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 33.23 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 78,970 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 147.71 (2019 est.) |
+| Telecommunication systems: | general assessment: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020) |
+| Telecommunication systems: | domestic: interisland links via ECFS; fixed-line teledensity about 33 per 100 persons; mobile-cellular teledensity is roughly 148 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 1-869; landing points forÂ the ECFS, Southern Caribbean Fiber and the SSCSÂ submarine cables providing connectivity for numerous Caribbean Islands (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | the government operates a national TV network that broadcasts on 2 channels; cable subscription services provide access to local and international channels; the government operates a national radio network; a mix of government-owned and privately owned broadcasters operate roughly 15 radio stations |
+| Internet country code: | .kn |
+| Internet users: | total: 42,852 |
+| Internet users: | percent of population: 80.71% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 16,400 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 31 (2017 est.) |

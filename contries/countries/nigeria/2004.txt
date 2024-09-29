@@ -1,0 +1,15 @@
+| Communications | Nigeria |
+| --- | --- |
+| Telephones - main lines in use: | 853,100 (2003) |
+| Telephones - mobile cellular: | 3,149,500 (2003) |
+| Telephone system: | general assessment: an inadequate system, further limited by poor maintenance; major expansion is required and a start has been made |
+| Telephone system: | domestic: intercity traffic is carried by coaxial cable, microwave radio relay, a domestic communications satellite system with 19 earth stations, and a coastal submarine cable; mobile cellular facilities and the Internet are available |
+| Telephone system: | international: country code - 234; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean); fiber optic submarine cable (SAT-3/WASC) provides connectivity to Europe and Asia |
+| Radio broadcast stations: | AM 83, FM 36, shortwave 11 (2001) |
+| Radios: | 23.5 million (1997) |
+| Television broadcast stations: | 3 (the government controls 2 of the broadcasting stations and 15 repeater stations) (2002) |
+| Televisions: | 6.9 million (1997) |
+| Internet country code: | .ng |
+| Internet hosts: | 1,142 (2004) |
+| Internet Service Providers (ISPs): | 11 (2000) |
+| Internet users: | 750,000 (2003) |

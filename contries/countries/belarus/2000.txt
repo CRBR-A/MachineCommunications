@@ -1,0 +1,12 @@
+| Communications |   |
+| --- | --- |
+| Telephones - main lines in use: | 2.537 million (1997) |
+| Telephones - mobile cellular: | 8,000 (1999) |
+| Telephone system: | the Ministry of Telecommunications controls all telecommunications through its carrier (a joint stock company) Beltelcom which is a monopoly |
+| domestic: | local - Minsk has a digital metropolitan network and a cellular NMT-450 network; waiting lists for telephones are long; local service outside Minsk is neglected and poor; intercity - Belarus has a partly developed fiber-optic backbone system presently serving at least 13 major cities (1998); Belarus's fiber optics form synchronous digital hierarchy rings through other countries' systems; an inadequate analog system remains operational |
+| international: | Belarus is a member of the Trans-European Line (TEL), Trans-Asia-Europe Fiber-Optic Line (TAE) and has access to the Trans-Siberia Line (TSL); three fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations |
+| Radio broadcast stations: | AM 28, FM 37, shortwave 11 (1998) |
+| Radios: | 3.02 million (1997) |
+| Television broadcast stations: | 17 (1997) |
+| Televisions: | 2.52 million (1997) |
+| Internet Service Providers (ISPs): | 1 (1999) |

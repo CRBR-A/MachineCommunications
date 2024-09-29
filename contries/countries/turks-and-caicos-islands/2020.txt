@@ -1,0 +1,10 @@
+| Communications | Turks and Caicos Islands |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 6,096 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 11.12 (2019 est.) |
+| Telecommunication systems: | general assessment: fully digital system with international direct dialing; broadband access; expanded FttP (Fiber to the Home) markets; LTE expansion points to investment and focus on data; regulatory development; telecommunication contributes to greatly to GDP (2020) |
+| Telecommunication systems: | domestic: full range of services available; GSM wireless service available; fixed-line teledensity 11 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 1-649;Â landing point for theÂ ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | no local terrestrial TV stations, broadcasts from the Bahamas can be received and multi-channel cable and satellite TV services are available; government-run radio network operates alongside private broadcasters with a total of about 15 stations |
+| Internet country code: | .tc |

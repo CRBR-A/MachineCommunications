@@ -1,0 +1,12 @@
+| Communications | Greece |
+| --- | --- |
+| Telephones - main lines in use: | 5.975 million (2008) |
+| Telephones - mobile cellular: | 13.799 million (2008) |
+| Telephone system: | general assessment: adequate, modern networks reach all areas; good mobile telephone and international service |
+| Telephone system: | domestic: microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands |
+| Telephone system: | international: country code - 30; landing point for the SEA-ME-WE-3 optical telecommunications submarine cable that provides links to Europe, Middle East, and Asia; a number of smaller submarine cables provide connectivity to various parts of Europe, the Middle East, and Cyprus; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) |
+| Radio broadcast stations: | AM 26, FM 88, shortwave 4 (1998) |
+| Television broadcast stations: | 36 (plus 1,341 repeaters); also 2 stations in the American Armed Forces Radio and Television Service (1995) |
+| Internet country code: | .gr |
+| Internet hosts: | 2.342 million (2009) |
+| Internet users: | 4.253 million (2008) |

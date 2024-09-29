@@ -1,0 +1,11 @@
+| Communications | Bangladesh |
+| --- | --- |
+| Telephones - main lines in use: | 1.522 million (2009) |
+| Telephones - mobile cellular: | 50.4 million (2009) |
+| Telephone system: | general assessment: inadequate for a modern country; introducing digital systems; trunk systems include VHF and UHF microwave radio relay links, and some fiber-optic cable in cities |
+| Telephone system: | domestic: fixed-line teledensity remains only about 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds 30 telephones per 100 persons |
+| Telephone system: | international: country code - 880; landing point for the SEA-ME-WE-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2009) |
+| Broadcast media: | state-owned broadcaster (BTV) operates 1 terrestrial TV station, 3 radio networks, and about 10 local stations; 8 private satellite TV stations and 3 private radio stations also broadcasting; foreign satellite TV stations are gaining audience share in the large cities; several international radio broadcasters are available (2007) |
+| Internet country code: | .bd |
+| Internet hosts: | 68,224 (2010) |
+| Internet users: | 617,300 (2009) |

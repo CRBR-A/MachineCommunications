@@ -1,0 +1,16 @@
+| Communications | Burundi |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 20,758 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 6,644,833 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 57.62 (2019 est.) |
+| Telecommunication systems: | general assessment: withÂ the great population density Burundi remains one of the mostÂ alluring telecom markets in Africa for investors; the government in early 2018Â began the Burundi Broadband project, whichÂ plans to deliver nationwide connectivity by 2025; mobile operators have launched 3G and LTE mobile services to capitalize on theÂ expanding demand for Internet access; mobile penetration is at 52%, and remains low by regional standards; future plans to privatize the national telecoms (2020) |
+| Telecommunication systems: | domestic: telephone density one of the lowest in the world; fixed-line connections stand at well less than 1 per 100 persons; mobile-cellular usage is 58 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the Word Bank, has backed a joint venture with a number of prominent telecoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV station and a national radio network; 3 private TV stations and about 10 privately owned radio stations; transmissions of several international broadcasters are available in Bujumbura (2019) |
+| Internet country code: | .bi |
+| Internet users: | total: 298,684 |
+| Internet users: | percent of population: 2.66% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 3,935 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

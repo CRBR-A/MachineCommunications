@@ -1,0 +1,11 @@
+| Communications | Mauritania |
+| --- | --- |
+| Telephones - main lines in use: | 65,100 (2012) |
+| Telephones - mobile cellular: | 4.024 million (2012) |
+| Telephone system: | general assessment: limited system of cable and open-wire lines, minor microwave radio relay links, and radiotelephone communications stations; mobile-cellular services expanding rapidly |
+| Telephone system: | domestic: Mauritel, the national telecommunications company, was privatized in 2001 but remains the monopoly provider of fixed-line services; fixed-line teledensity 2 per 100 persons; mobile-cellular network coverage extends mainly to urban areas with a teledensity of roughly 100 per 100 persons; mostly cable and open-wire lines; a domestic satellite telecommunications system links Nouakchott with regional capitals |
+| Telephone system: | international: country code - 222; satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat); fiber-optic and Asymmetric Digital Subscriber Line (ADSL) cables for Internet access (2009) |
+| Broadcast media: | broadcast media state-owned; 1 state-run TV and 1 state-run radio network; Television de Mauritanie, the state-run TV station, has an additional 6 regional TV stations that provide local programming (2008) |
+| Internet country code: | .mr |
+| Internet hosts: | 22 (2012) |
+| Internet users: | 75,000 (2009) |

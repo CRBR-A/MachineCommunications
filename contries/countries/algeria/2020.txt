@@ -1,0 +1,16 @@
+| Communications | Algeria |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 4,558,502 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 10.77 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 46,287,629 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 109.36 (2019 est.) |
+| Telecommunication systems: | general assessment: improved international connectivity and privatization of Algeria's telecommunications sector began in 2000; three mobile-cellular licenses have been issued; LTE service growth in additional provinces and rural areas; upgrade to LTE infrastructure and migration to 5G; LTE subscriber rate up 82% in 2018; Chinese company Huawei opens smart phone assembly plant in Algeria; the end of monopolies have made broadband services more affordable; Algeria and Tunisia end roaming charges for travelers (2020) |
+| Telecommunication systems: | domestic: a limited network of fixed-lines with a teledensity of less than 11 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was roughly 109 telephones per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 213;Â ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;Â ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;Â microwave radio relay to Italy, France, Spain, Morocco, and Tunisia;Â Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offeringÂ  telemedicine network (2020) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state-run Radio-Television Algerienne operates the broadcast media and carries programming in Arabic, Berber dialects, and French; use of satellite dishes is widespread, providing easy access to European and Arab satellite stations; state-run radio operates several national networks and roughly 40 regional radio stations |
+| Internet country code: | .dz |
+| Internet users: | total: 24,819,531 |
+| Internet users: | percent of population: 59.58% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 3,067,022 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 7 (2018 est.) |

@@ -1,0 +1,13 @@
+| Communications | AFGHANISTAN |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 114,192 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (July 2016 est.) |
+| Telephones - mobile cellular: | total: 21,602,982 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 65 (July 2016 est.) |
+| Telephone system: | general assessment: limited fixed-line telephone service; an increasing number of Afghans utilize mobile-cellular phone networks |
+| Telephone system: | domestic: aided by the presence of multiple providers, mobile-cellular telephone service continues to improve rapidly; the Afghan Ministry of Communications and Information claims that more than 90 percent of the population live in areas with access to mobile-cellular services |
+| Telephone system: | international: country code - 93; multiple VSAT's provide international and domestic voice and data connectivity (2016) |
+| Broadcast media: | state-owned broadcaster, Radio Television Afghanistan (RTA), operates a series of radio and television stations in Kabul and the provinces; an estimated 150 private radio stations, 50 TV stations, and about a dozen international broadcasters are available (2007) |
+| Internet country code: | .af |
+| Internet users: | total: 3,531,770 |
+| Internet users: | percent of population: 10.6% (July 2016 est.) |

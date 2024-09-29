@@ -1,0 +1,11 @@
+| Communications | Peru |
+| --- | --- |
+| Telephones - main lines in use: | 2.965 million (2009) |
+| Telephones - mobile cellular: | 24.7 million (2009) |
+| Telephone system: | general assessment: adequate for most requirements; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations |
+| Telephone system: | domestic: fixed-line teledensity is only about 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, has increased to roughly 85 telephones per 100 persons |
+| Telephone system: | international: country code - 51; the South America-1 (SAM-1) and Pan American (PAN-AM) submarine cable systems provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2009) |
+| Broadcast media: | 6 major television networks of which only one, Television Nacional de Peru, is state-owned; multi-channel cable TV services are available; more than 500 radio stations including a substantial number of indigenous language stations (2007) |
+| Internet country code: | .pe |
+| Internet hosts: | 268,225 (2010) |
+| Internet users: | 9.158 million (2009) |

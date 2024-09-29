@@ -1,0 +1,11 @@
+| Communications | Mexico |
+| --- | --- |
+| Telephones - main lines in use: | 19.425 million (2009) |
+| Telephones - mobile cellular: | 83.528 million (2009) |
+| Telephone system: | general assessment: adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers; domestic satellite system with 120 earth stations; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable |
+| Telephone system: | domestic: despite the opening to competition in January 1997, Telmex remains dominant; Fixed-line teledensity is less than 20 per 100 persons; mobile-cellular teledensity reached 75 per 100 persons in 2009 |
+| Telephone system: | international: country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the Americas Region Caribbean Ring System (ARCOS-1) and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2009) |
+| Broadcast media: | large number of television stations and more than 1,400 radio stations, most are privately owned; the Televisa group once had a virtual monopoly in TV broadcasting, but new broadcasting groups and foreign satellite and cable operators are now available (2007) |
+| Internet country code: | .mx |
+| Internet hosts: | 12.854 million (2010) |
+| Internet users: | 31.02 million (2009) |

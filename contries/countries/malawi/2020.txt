@@ -1,0 +1,16 @@
+| Communications | Malawi |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 14,357 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 9,799,352 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 47.78 (2019 est.) |
+| Telecommunication systems: | general assessment: rudimentary; 2 fixed-line andÂ 3 mobile-cellular operators govern the market; someÂ mobile services to rural areas; in a resolution to discourage crime the regulatory has imposed SIM card registration since 2018; 50 licensed ISPs; DSL services are available; LTE services are available; mobile penetration low in comparison to the region average; potential for growth; national fiber backbone nearing completion; prospect of gaining access to international submarine fiber optic cables from neighboring countries (2020) |
+| Telecommunication systems: | domestic: limited fixed-line subscribership less than 1 per 100 households; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership 48 per 100 households (2019) |
+| Telecommunication systems: | international: country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | radio is the main broadcast medium; privately owned Zodiak radio has the widest national broadcasting reach, followed by state-run radio; numerous private and community radio stations broadcast in cities and towns around the country; the largest TV network is government-owned, but at least 4 private TV networks broadcast in urban areas; relays of multiple international broadcasters are available (2019) |
+| Internet country code: | .mw |
+| Internet users: | total: 2,734,305 |
+| Internet users: | percent of population: 13.78% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 11,358 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

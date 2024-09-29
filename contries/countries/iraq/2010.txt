@@ -1,0 +1,11 @@
+| Communications | Iraq |
+| --- | --- |
+| Telephones - main lines in use: | 1.108 million (2009) |
+| Telephones - mobile cellular: | 19.722 million (2009) |
+| Telephone system: | general assessment: the 2003 liberation of Iraq severely disrupted telecommunications throughout Iraq including international connections; widespread government efforts to rebuild domestic and international communications through fiber optic links are in progress; the mobile cellular market has expanded rapidly and its subscribership base is expected to continue increasing rapidly |
+| Telephone system: | domestic: repairs to switches and lines destroyed during 2003 continue; additional switching capacity is improving access; mobile-cellular service is available and centered on 3 GSM networks which are being expanded beyond their regional roots, improving country-wide connectivity; wireless local loop is available in some metropolitan areas and additional licenses have been issued with the hope of overcoming the lack of fixed-line infrastructure |
+| Telephone system: | international: country code - 964; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey; international terrestrial fiber-optic connections have been established with Saudi Arabia, Turkey, and Kuwait with planned connections to Iran and Jordan; a link to the Fiber-Optic Link Around the Globe (FLAG) submarine fiber-optic cable is planned (2009) |
+| Broadcast media: | the number of private radio and television stations has increased rapidly since 2003; government-owned TV and radio stations are operated by the publicly-funded Iraqi Public Broadcasting Service; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to an estimated 70% of viewers and many of the broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2007) |
+| Internet country code: | .iq |
+| Internet hosts: | 9 (2010) |
+| Internet users: | 325,900 (2009) |

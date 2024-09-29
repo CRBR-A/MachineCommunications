@@ -1,0 +1,15 @@
+| Communications | Ethiopia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 1.181 million |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 62.617 million |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 59 (2017 est.) |
+| Telephone system: | general assessment: Ethio Telecom maintains a monopoly over telecommunication services; open-wire, microwave radio relay; radio communication in the HF, VHF, and UHF frequencies; mobile broadband services via 3G and LTE networks; 2 domestic satellites provide the national trunk service; international Internet bandwidth increased 56% in 2016 to reach 35 Gb/s (2018) |
+| Telephone system: | domestic: fixed-line subscriptions at 1 per 100 while mobile-cellular stands at 59 per 100; the number of mobile telephones is increasing steadily (2018) |
+| Telephone system: | international: country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) (2016) |
+| Broadcast media: | 6 public TV stations broadcasting nationally and 10 public radio broadcasters; 7 private radio stations and 19 community radio stations (2017) |
+| Internet country code: | .et |
+| Internet users: | total: 15,731,741 |
+| Internet users: | percent of population: 15.4% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 580,120 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2017 est.) |

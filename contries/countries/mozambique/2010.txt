@@ -1,0 +1,11 @@
+| Communications | Mozambique |
+| --- | --- |
+| Telephones - main lines in use: | 82,400 (2009) |
+| Telephones - mobile cellular: | 5.971 million (2009) |
+| Telephone system: | general assessment: a fair telecommunications system that is shackled with a heavy state presence, lack of competition, and high operating costs and charges |
+| Telephone system: | domestic: stagnation in the fixed-line network contrasts with rapid growth in the mobile-cellular network; mobile-cellular coverage now includes all the main cities and key roads, including those from Maputo to the South African and Swaziland borders, the national highway through Gaza and Inhambane provinces, the Beira corridor, and from Nampula to Nacala; extremely low fixed-line teledensity; despite significant growth in mobile-cellular services, teledensity remains low at about 25 per 100 persons |
+| Telephone system: | international: country code - 258; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean); landing point for the SEACOM fiber-optic cable |
+| Broadcast media: | 1 state-run TV station supplemented by private TV station; Portuguese state TV's African service, RTP Africa, and Brazilian-owned TV Miramar are available; state-run radio provides nearly 100% territorial coverage and broadcasts in multiple languages; a number of privately-owned and community-operated stations also broadcast; transmissions of multiple international broadcasters are available (2007) |
+| Internet country code: | .mz |
+| Internet hosts: | 21,172 (2010) |
+| Internet users: | 613,600 (2009) |

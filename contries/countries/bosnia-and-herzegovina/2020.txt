@@ -1,0 +1,16 @@
+| Communications | Bosnia and Herzegovina |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 920,407 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 23.95 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 4,300,743 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 111.91 (2019 est.) |
+| Telecommunication systems: | general assessment: mobile services dominate fixed-line; integration withÂ the EU hasÂ given stability to the present economy, as an EU candidate country, theÂ regulatory framework and telecom market has been liberalized and the regulator has given LTE license to 3 MNOs; DSL and cable are the chief platforms for fixed-line connectivity,Â there is aÂ small market presence of fiber broadband; new mobile roaming fees come into effect similar to other EU countries; rural areas still suffer from insufficient connectivity (2020) |
+| Telecommunication systems: | domestic: fixed-line teledensity roughly 24 per 100 persons and mobile-cellular subscribership has been increasing rapidly and stands at roughly 112 telephones per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 387; no satellite earth stations |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 3 public TV broadcasters: Radio and TV of Bosnia and Herzegovina, Federation TV (operating 2 networks), and Republika Srpska Radio-TV; a local commercial network of 5 TV stations; 3 private, near-national TV stations and dozens of small independent TV broadcasting stations; 3 large public radio broadcasters and many private radio stations |
+| Internet country code: | .ba |
+| Internet users: | total: 2,699,544 |
+| Internet users: | percent of population: 70.12% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 693,554 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 18 (2018 est.) |

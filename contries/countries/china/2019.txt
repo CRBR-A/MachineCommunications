@@ -1,0 +1,15 @@
+| Communications | China |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 193.762 million |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 14 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,474,097,000 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 107 (2017 est.) |
+| Telephone system: | general assessment: China has become the largest Internet market in the world, with the majority of users accessing the Internet through mobile devices;Â moderate growth is predicted over the next five years in the fixed broadband segment; one of theÂ biggest drivers ofÂ commercial growth is its increasing urbanisation rate as rural residents move to cities; 98.6% of China's Internet users access the Internet through mobile devices; China will be the world's largest 5G market (2018) |
+| Telephone system: | domestic: 14 per 100 fixed lineÂ and 107 per 100Â mobile-cellular;Â a domestic satellite system with several earth stations is in place in 2018 (2018) |
+| Telephone system: | international: country code - 86;Â RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, SeaMeWe-3, SJC2, Taiwan Strait Express-1, AAE-1, APCN-2, AAG, FEA, FLAG and TSEÂ submarine cables provide connectivity to Asia, the Middle East, Europe, and the US; satellite earth stations - 7 (5 Intelsat - 4 Pacific Ocean and 1 Indian Ocean; 1 Intersputnik - Indian Ocean region; and 1 Inmarsat - Pacific and Indian Ocean regions) (2019) |
+| Broadcast media: | all broadcast media are owned by, or affiliated with, the Communist Party of China or a government agency; no privately owned TV or radio stations; state-run Chinese Central TV, provincial, and municipal stations offer more than 2,000 channels; the Central Propaganda Department sends directives to all domestic media outlets to guide its reporting with the government maintaining authority to approve all programming; foreign-made TV programs must be approved prior to broadcast; increasingly, Chinese turn to online and satellite television to access Chinese and international films and television shows (2019) |
+| Internet country code: | .cn |
+| Internet users: | total: 730,723,960 |
+| Internet users: | percent of population: 53.2% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 378.54 million |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 27 (2017 est.) |

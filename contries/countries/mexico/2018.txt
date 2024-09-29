@@ -1,0 +1,15 @@
+| Communications | Mexico |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 20,602,668 (2017 est.) |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 17 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 114,326,842 (2017 est.) |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 92 (2017 est.) |
+| Telephone system: | general assessment: adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers; domestic satellite system with 120 earth stations; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable (2016) |
+| Telephone system: | domestic: competition has spurred the mobile-cellular market; fixed-line teledensity exceeds 15 per 100 persons; mobile-cellular teledensity is about 90 per 100 persons (2016) |
+| Telephone system: | international: country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the Americas Region Caribbean Ring System (ARCOS-1) and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2016) |
+| Broadcast media: | telecom reform in 2013 enabled the creation of new broadcast television channels after decades of a quasi-monopoly; Mexico has 821 TV stations and 1,745 radio stations and most are privately owned; the Televisa group once had a virtual monopoly in TV broadcasting, but new broadcasting groups and foreign satellite and cable operators are now available; in 2016, Mexico became the first country in Latin America to complete the transition from analog to digital transmissions, allowing for better image and audio quality and a wider selection of programming from networks (2016) |
+| Internet country code: | .mx |
+| Internet users: | total: 73,334,032 (July 2016 est.) |
+| Internet users: | percent of population: 59.5% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 17,131,820 (2017 est.) |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 14 (2017 est.) |

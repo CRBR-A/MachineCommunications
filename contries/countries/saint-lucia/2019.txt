@@ -1,0 +1,15 @@
+| Communications | Saint Lucia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 35,014 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 21 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 176,694 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 107 (2017 est.) |
+| Telephone system: | general assessment: an adequate system that is automatically switched; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development (2018) |
+| Telephone system: | domestic: fixed-line teledensity is 21 per 100 persons and mobile-cellular teledensity is roughly 107 per 100 persons (2018) |
+| Telephone system: | international: country code - 1-758; landing points for the ECFSÂ and Southern Caribbean Fiber submarine cables providing connectivity to numerous Caribbean islands; direct microwave radio relay link with Martinique and Saint Vincent and the Grenadines; tropospheric scatter to Barbados (2019) |
+| Broadcast media: | 3 privately owned TV stations; 1 public TV station operating on a cable network; multi-channel cable TV service available; a mix of state-owned and privately owned broadcasters operate nearly 25 radio stations including repeater transmission stations |
+| Internet country code: | .lc |
+| Internet users: | total: 86,000 |
+| Internet users: | percent of population: 52.4% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 31,781 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 19 (2017 est.) |

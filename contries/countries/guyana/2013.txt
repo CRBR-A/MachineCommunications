@@ -1,0 +1,11 @@
+| Communications | Guyana |
+| --- | --- |
+| Telephones - main lines in use: | 154,200 (2012) |
+| Telephones - mobile cellular: | 547,000 (2012) |
+| Telephone system: | general assessment: fair system for long-distance service; microwave radio relay network for trunk lines; many areas still lack fixed-line telephone services |
+| Telephone system: | domestic: fixed-line teledensity is about 20 per 100 persons; mobile-cellular teledensity about 70 per 100 persons in 2011 |
+| Telephone system: | international: country code - 592; tropospheric scatter to Trinidad; satellite earth station - 1 Intelsat (Atlantic Ocean) (2011) |
+| Broadcast media: | government-dominated broadcast media; the National Communications Network (NCN) TV is state-owned; a few private TV stations relay satellite services; the state owns and operates 2 radio stations broadcasting on multiple frequencies capable of reaching the entire country; government limits on licensing of new private radio stations continue to constrain competition in broadcast media (2007) |
+| Internet country code: | .gy |
+| Internet hosts: | 24,936 (2012) |
+| Internet users: | 189,600 (2009) |

@@ -1,0 +1,16 @@
+| Communications | Fiji |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 80,650 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 8.66 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,097,345 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 117.83 (2019 est.) |
+| Telecommunication systems: | general assessment: local, interisland, and international telecommunications;Â subject to occasional devastating cyclones; Fiji is a leader in the Pacific region in terms of development of its ICT (Information & Communications Technology) sector and investment in telecoms infrastructure; mobile services the primary source of Internet access across the region; most advanced economy in the Pacific island region as well as hosting the highest mobile Internet penetration; initial progress towards 5G readiness (2020) |
+| Telecommunication systems: | domestic: fixed-line 9 per 100 persons and mobile-cellular teledensity roughly 118 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 679; landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and Tui-SamoaÂ submarine cable linksÂ to US,Â NZ, Australia and Pacific islands of Fiji, Vanuatu, Kiribati, Samoa, Tokelau, Tonga, Fallis & Futuna, and American Samoa; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji operates the Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available |
+| Internet country code: | .fj |
+| Internet users: | total: 462,860 |
+| Internet users: | percent of population: 49.97% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 13,033 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2018 est.) |

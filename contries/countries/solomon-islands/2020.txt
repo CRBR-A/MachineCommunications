@@ -1,0 +1,16 @@
+| Communications | Solomon Islands |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 7,130 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1.06 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 480,124 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 71.38 (2019 est.) |
+| Telecommunication systems: | general assessment: Internet penetration has reached 20%; 3G andÂ 4G LTE mobile network expansions, investment in mobile services in the region; otherwise 3G and satellite services for communication and Internet access; increase in broadband subscriptions; the launch of the Kacific-1 satellite in 2019 and the Coral Sea Cable System have vastly improved the telecom sector (2020) |
+| Telecommunication systems: | domestic: fixed-line is 1 per 100 persons and mobile-cellular telephone density is about 71 per 100 persons; domestic cable system to extend to key major islands (2019) |
+| Telecommunication systems: | international: country code - 677; landing points for the CSCS and ICNS2 submarine cables providing connectivity from Solomon Islands, to PNG, Vanuatu and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; multi-channel pay-TV is available; SIBC operates 2 national radio stations and 2 provincial stations; there are 2 local commercial radio stations; Radio Australia is available via satellite feed (since 2009) (2019) |
+| Internet country code: | .sb |
+| Internet users: | total: 78,686 |
+| Internet users: | percent of population: 11.92% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 1,488 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2018 est.) |

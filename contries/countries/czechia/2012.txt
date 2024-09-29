@@ -1,0 +1,11 @@
+| Communications | Czech Republic |
+| --- | --- |
+| Telephones - main lines in use: | 2.289 million (2011) |
+| Telephones - mobile cellular: | 13 million (2011) |
+| Telephone system: | general assessment: privatization and modernization of the Czech telecommunication system got a late start but is advancing steadily; virtually all exchanges now digital; existing copper subscriber systems enhanced with Asymmetric Digital Subscriber Line (ADSL) equipment to accommodate Internet and other digital signals; trunk systems include fiber-optic cable and microwave radio relay |
+| Telephone system: | domestic: access to the fixed-line telephone network expanded throughout the 1990s but the number of fixed line connections has been dropping since then; mobile telephone usage increased sharply beginning in the mid-1990s and the number of cellular telephone subscriptions now greatly exceeds the population |
+| Telephone system: | international: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) |
+| Broadcast media: | roughly 130 TV broadcasters operating some 350 channels with 4 publicly operated and the remainder in private hands; 16 TV stations have national coverage with 4 being publicly operated; cable and satellite TV subscription services are available; 63 radio broadcasters are registered operating roughly 80 radio stations with 15 stations publicly operated; 10 radio stations provide national coverage with the remainder local or regional (2008) |
+| Internet country code: | .cz |
+| Internet hosts: | 4.148 million (2012) |
+| Internet users: | 6.681 million (2009) |

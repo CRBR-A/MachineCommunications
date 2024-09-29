@@ -1,0 +1,11 @@
+| Communications | Jordan |
+| --- | --- |
+| Telephones - main lines in use: | 465,400 (2011) |
+| Telephones - mobile cellular: | 7.483 million (2011) |
+| Telephone system: | general assessment: service has improved recently with increased use of digital switching equipment; microwave radio relay transmission and coaxial and fiber-optic cable are employed on trunk lines; growing mobile-cellular usage in both urban and rural areas is reducing use of fixed-line services |
+| Telephone system: | domestic: 1995 telecommunications law opened all non-fixed-line services to private competition; in 2005, monopoly over fixed-line services terminated and the entire telecommunications sector was opened to competition; currently multiple mobile-cellular providers with subscribership reaching 100 per 100 persons in 2010 |
+| Telephone system: | international: country code - 962; landing point for the Fiber-Optic Link Around the Globe (FLAG) FEA and FLAG Falcon submarine cable networks; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals); fiber-optic cable to Saudi Arabia and microwave radio relay link with Egypt and Syria; participant in Medarabtel |
+| Broadcast media: | radio and TV dominated by the government-owned Jordan Radio and Television Corporation (JRTV) that operates a main network, a sports network, a film network, and a satellite channel; first independent TV broadcaster aired in 2007; international satellite TV and Israeli and Syrian TV broadcasts are available; roughly 30 radio stations with JRTV operating the main government-owned station; transmissions of multiple international radio broadcasters are available (2007) |
+| Internet country code: | .jo |
+| Internet hosts: | 69,473 (2012) |
+| Internet users: | 1.642 million (2009) |

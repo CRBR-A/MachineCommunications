@@ -1,0 +1,15 @@
+| Communications | Cyprus |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 317,241 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 26 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,176,801 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 96 (2017 est.) |
+| Telephone system: | general assessment: despite theÂ growth of Cyprus's telecom sector, the market overall continues to be dominated by the incumbent, Cyprus Telecommunications Authority CyTA, which is still fully-owned by the state but is losing ground to its competition annually; improved regulatory circumstances,Â especially in relation to network interconnection and access, has given competing operators theÂ certainty to invest in network infrastructure, to launch competing services (2018) |
+| Telephone system: | domestic: open-wire, fiber-optic cable, and microwave radio relay; fixed-line teledinsity is 26 per 100, and Â 96 per 100 for mobile-cellular (2018) |
+| Telephone system: | international: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity toÂ Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019) |
+| Broadcast media: | mixture of state and privately run TV and radio services; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services including telecasts from Greece and Turkey, and a number of private radio stations are available; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, and 7 privately owned TV and 21 radio broadcast stations plus 6 radio and 4 TV channels of local universities, plus 1 radio station of military, security forces and 1 radio station of civil defense cooperation, as well as relay stations from Turkey (2019) |
+| Internet country code: | .cy |
+| Internet users: | total: 915,036 |
+| Internet users: | percent of population: 75.9% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 295,686 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 24 (2017 est.) |

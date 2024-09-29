@@ -1,0 +1,11 @@
+| Communications | Costa Rica |
+| --- | --- |
+| Telephones - main lines in use: | 1.018 million (2012) |
+| Telephones - mobile cellular: | 6.151 million (2012) |
+| Telephone system: | general assessment: good domestic telephone service in terms of breadth of coverage; under the terms of CAFTA-DR, the state-run telecommunications monopoly is scheduled to be opened to competition from domestic and international firms, but has been slow to open to competition |
+| Telephone system: | domestic: point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available |
+| Telephone system: | international: country code - 506; landing points for the Americas Region Caribbean Ring System (ARCOS-1), MAYA-1, and the Pan American Crossing submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2011) |
+| Broadcast media: | multiple privately owned TV stations and 1 publicly owned TV station; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2007) |
+| Internet country code: | .cr |
+| Internet hosts: | 147,258 (2012) |
+| Internet users: | 1.485 million (2009) |

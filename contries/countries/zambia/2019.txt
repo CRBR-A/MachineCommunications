@@ -1,0 +1,16 @@
+| Communications | Zambia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 101,444 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 13,438,539 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 84 (2017 est.) |
+| Telephone system: | general assessment: service is among the best in sub-Saharan Africa; regulatory approach promotes competition and a cohort of private sector service providers offering mobile voice and Internet at some of the lowest prices in the region (2018) |
+| Telephone system: | domestic: fiber optic connections are available between most larger towns and cities with microwave radio relays serving more rural areas; 3 cellular telephone providers currently in operationÂ plus several data only ISPs; fixed-line infrastructure has degraded significantly and is often being discontinued or replaced with fixed wirelessÂ service; Internet service is widely available via mobile or fixed wireless terminals (LTE and 3G), withÂ FTTx in limited urban areas and private Ku or Ka band VSAT terminals in remote locations;Â fixed-lineÂ 1 per 100 and mobile-cellular 84 per 100 (2018) |
+| Telephone system: | international: country code - 260; multiple providers operate overland fiber optic routes via Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access to the major undersea cables |
+| Broadcast media: | according to the Independent Broadcast Authority, there are 137 radio stations and 47 television stations in Zambia; out of the 137 radio stations, 133 are private (categorized as either commercial or community radio stations), while 4 are public-owned; state-owned Zambia National Broadcasting Corporation (ZNBC) operates 2 television channels and 3 radio stations; ZNBC owns 75% shares in GoTV, 40% in MultiChoice, and 40% in TopStar Communications Company, all of which operate in-country |
+| Broadcast media: | (2019) |
+| Internet country code: | .zm |
+| Internet users: | total: 3,956,252 |
+| Internet users: | percent of population: 25.5% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 35,912 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |

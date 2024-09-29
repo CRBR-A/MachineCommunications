@@ -1,0 +1,15 @@
+| Communications | Senegal |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 290,636 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 2 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 15,758,366 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 107 (2017 est.) |
+| Telephone system: | general assessment: good system with microwave radio relay, coaxial cable and fiber-optic cable in trunk system; mobile penetration reached 108% in March 2019; mobile broadband accounts for close to 100% (97.2%)Â Internet accesses; 3G and LTE services (2018) |
+| Telephone system: | domestic: generally reliable urban system with a fiber-optic network; about two-thirds of all fixed-line connections are in Dakar; mobile-cellular service is steadily displacing fixed-line service, even in urban areas; fixed-line 2 per 100 and mobile-cellular 107 per 100 persons (2018) |
+| Telephone system: | international: country code - 221; landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC submarine cables providing connectivity from South Africa, numerous western African countries, Europe and South America;Â satellite earth station - 1 Intelsat (Atlantic Ocean) (2019) |
+| Broadcast media: | state-run Radiodiffusion Television Senegalaise (RTS) broadcasts TV programs from five cities in Senegal; in most regions of the country, viewers can receive TV programming from at least 7 private broadcasters; a wide range of independent TV programming is available via satellite; RTS operates a national radio network and a number of regional FM stations; at least 7 community radio stations and 18 private-broadcast radio stations are available; transmissions of at least 5 international broadcasters are accessible on FM in Dakar (2019) |
+| Internet country code: | .sn |
+| Internet users: | total: 3,675,209 |
+| Internet users: | percent of population: 25.7% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 111,795 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2017 est.) |

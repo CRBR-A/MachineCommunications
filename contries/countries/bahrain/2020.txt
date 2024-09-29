@@ -1,0 +1,16 @@
+| Communications | Bahrain |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 246,603 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 16.73 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 1,706,763 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 115.79 (2019 est.) |
+| Telecommunication systems: | general assessment: well-developed LTE networks, 5G trials tested and deployment in the near future; mobile penetration is high compared to the region; development of its own national broadband network; competition is good and telecoms are regulated; telecom contributes 4% to the GDP (2020) |
+| Telecommunication systems: | domestic: 17 per 100 fixed-line, 116 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2019) |
+| Telecommunication systems: | international: country code - 973; landing points for theÂ FALCON, Tata TGN-Gulf, GBICS/MENA, and FOGÂ submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2019) |
+| Internet country code: | .bh |
+| Internet users: | total: 1,423,039 |
+| Internet users: | percent of population: 98.64% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 184,603 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 13 (2018 est.) |

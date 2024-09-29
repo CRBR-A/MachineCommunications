@@ -1,0 +1,17 @@
+| Communications | Iceland |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 146,213 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 43 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 410,662 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 121 (2017 est.) |
+| Telephone system: | general assessment: telecommunications infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network; LTE licenses providing 99% population coverage (2018) |
+| Telephone system: | domestic: liberalization of the telecommunications sector beginning in the late 1990s has led to increased competition especially in the mobile services segment of the market; 43 per 100 for fixed line and 121 per 100 for mobile-cellular subscriptions (2018) |
+| Telephone system: | international: country code - 354; the CANTAT-3, FARICE-1, Greenland Connect and DANICEÂ submarine cable system provides connectivity to Canada, the Faroe Islands, Greenland, UK, Denmark, and Germany;Â satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) (2019) |
+| Broadcast media: | state-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV and RUV 2, though RUV 2 is used less frequently);Â  RUV broadcasts nationally, every household in Iceland is required to have RUV as it doubles as the emergency broadcast network; RUV also operates stringer offices in the north (Akureyri) and the east (Egilsstadir) but operations are all run out of RUV headquarters in Reykjavik;Â  there are 3 privately owned TV stations;Â  Stod 2 (Channel 2) is owned by Syn, following 365 Media and Vodafone merger, and is headquartered in Reykjavik;Â  Syn also operates 4 sports channels under Stod 2;Â  N4 is the only television station headquartered outside of Reykjavik, in Akureyri, with local programming for the north, south, and east of Iceland;Â  Hringbraut is the newest station and is headquartered in Reykjavik;Â  all of these television stations have nationwide penetration as 100% of households have multi-channel services though digital and/or fiber-optic connections |
+| Broadcast media: | RUV operates 3 radio stations (RAS 1, RAS2, and Rondo) as well as 4 regional stations (but they mostly act as range extenders for RUV radio broadcasts nationwide);Â  there is 1 privately owned radio conglomerate, Syn (4 stations), that broadcasts nationwide, and 3 other radio stations that broadcast to the most densely populated regions of the country.Â  In addition there are upwards of 20 radio stations that operate regionally |
+| Broadcast media: | (2019) |
+| Internet country code: | .is |
+| Internet users: | total: 329,967 |
+| Internet users: | percent of population: 98.2% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 133,574 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 39 (2017 est.) |

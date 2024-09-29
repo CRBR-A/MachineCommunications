@@ -1,0 +1,16 @@
+| Communications | Oman |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 456,940 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 12.82 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 4,926,899 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 138.23 (2019 est.) |
+| Telecommunication systems: | general assessment: modern system consisting of open-wire, microwave, and radiotelephone communication stations; coaxial cable; domestic satellite system with 8 earth stations; progressive mobile sector with both 3G and 4G LTE networks and reediness for 5G launch; competition among 3 (mobile network operators) MNO (2020) |
+| Telecommunication systems: | domestic: fixed-line 13 per 100 and mobile-cellular 138 per 100, subscribership both increasing with fixed-line phone service gradually being introduced to remote villages using wireless local loop systems (2019) |
+| Telecommunication systems: | international: country code - 968;Â landing points for GSA, AAE-1,Â SeaMeWe-5, Tata TGN-Gulf,Â FALCON, GBICS/MENA, MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, and POIÂ submarine cables providing connectivity to Asia,Â Africa, the Middle East, Southeast AsiaÂ and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 1 state-run TV broadcaster; TV stations transmitting from Saudi Arabia, the UAE, Iran, and Yemen available via satellite TV; state-run radio operates multiple stations; first private radio station began operating in 2007 and several additional stations now operating (2019) |
+| Internet country code: | .om |
+| Internet users: | total: 2,801,932 |
+| Internet users: | percent of population: 80.19% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 422,035 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 12 (2018 est.) |

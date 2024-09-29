@@ -1,0 +1,11 @@
+| Communications | Burundi |
+| --- | --- |
+| Telephones - main lines in use: | 30,000 (2011) |
+| Telephones - mobile cellular: | 1.915 million (2011) |
+| Telephone system: | general assessment: sparse system of open-wire, radiotelephone communications, and low-capacity microwave radio relays |
+| Telephone system: | domestic: telephone density one of the lowest in the world; fixed-line connections stand at well less than 1 per 100 persons; mobile-cellular usage is increasing but remains at roughly 20 per 100 persons |
+| Telephone system: | international: country code - 257; satellite earth station - 1 Intelsat (Indian Ocean) (2011) |
+| Broadcast media: | state-controlled La Radiodiffusion et Television Nationale de Burundi (RTNB) operates the lone TV station and the only national radio network; about 10 privately-owned radio stations; transmissions of several international broadcasters are available in Bujumbura (2007) |
+| Internet country code: | .bi |
+| Internet hosts: | 229 (2012) |
+| Internet users: | 157,800 (2009) |

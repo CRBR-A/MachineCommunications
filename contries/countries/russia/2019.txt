@@ -1,0 +1,15 @@
+| Communications | Russia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 31,190,855 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 22 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 227,341,873 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 160 (2017 est.) |
+| Telephone system: | general assessment: telecom sector impacted by sanctions related to the annexations in Ukraine;Â the estimated number of mobile subscribers jumped from fewer than 1 million in 1998 to 255 million in 2016; fixed-line service has improved but a large demand remains; Russia is one of Europe's fastest growing markets for fibre-based broadband; 5G trials; FttP/FttB, DSL, cable and LTE services (2018) |
+| Telephone system: | domestic: cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, telephone services are still outdated, inadequate, and low-density; 22 per 100 for fixed-line and mobile-cellular 160 per 100 persons (2018) |
+| Telephone system: | international: country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019) |
+| Broadcast media: | 13 national TV stations with the federal government owning 1 and holding a controlling interest in a second; state-owned Gazprom maintains a controlling interest in 2 of the national channels; government-affiliated Bank Rossiya owns controlling interest in a fourth and fifth, while a sixth national channel is owned by the Moscow city administration; the Russian Orthodox Church and the Russian military, respectively, own 2 additional national channels; roughly 3,300 national, regional, and local TV stations with over two-thirds completely or partially controlled by the federal or local governments; satellite TV services are available; 2 state-run national radio networks with a third majority-owned by Gazprom; roughly 2,400 public and commercial radio stations |
+| Internet country code: | .ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out |
+| Internet users: | total: 108,772,470 |
+| Internet users: | percent of population: 76.4% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 30,872,788 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 22 (2017 est.) |

@@ -1,0 +1,16 @@
+| Communications | Djibouti |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 34,671 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 3.84 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 371,992 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 41.2 (2019 est.) |
+| Telecommunication systems: | general assessment: telephone facilities in the city of Djibouti are adequate, as are the microwave radio relay connections to outlying areas of the country; Djibouti is one of the few remaining countries in which the national telco, Djibouti Telecom (DT), has a monopoly on all telecom services, including fixed lines, mobile, Internet and broadband; the lack of competition has meant that the market has not lived up to its potential; broadband's growth held back by the expense and mobile and Internet markets need foreign investment (2020) |
+| Telecommunication systems: | domestic: 4 per 100 fixed-line and 41 per 100 mobile-cellular; Djibouti Telecom (DT) is the sole provider of telecommunications services and utilizes mostly a microwave radio relay network; fiber-optic cable is installed in the capital; rural areas connected via wireless local loop radio systems; mobile cellular coverage is primarily limited to the area in and around Djibouti city (2019) |
+| Telecommunication systems: | international: country code - 253; landing points for the SEA-ME-WE-3 & 5, EASSy, Aden-Djibouti, Africa-1, DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOMÂ fiber-optic submarine cable systems providing links to Asia, the Middle East, Europe,Â Southeast Asia, AustraliaÂ and Africa; satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state-owned Radiodiffusion-Television de Djibouti operates the sole terrestrial TV station, as well as the only 2 domestic radio networks; no private TV or radio stations; transmissions of several international broadcasters are available (2019) |
+| Internet country code: | .dj |
+| Internet users: | total: 492,221 |
+| Internet users: | percent of population: 55.68% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 25,508 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 3 (2018 est.) |

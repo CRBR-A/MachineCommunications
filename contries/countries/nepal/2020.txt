@@ -1,0 +1,16 @@
+| Communications | Nepal |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 855,926 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 2.85 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 41,880,311 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 139.45 (2019 est.) |
+| Telecommunication systems: | general assessment: mountainous topography hinders development of telecom infrastructure;Â mobile service has been extended to all 75 districts covering 90% of Nepalâ€™s land area; fixed broadband is low due to limited number of fixed lines and preeminence of the mobile platform, with overall penetration 2.8%;Â 3G and 4G subscribers, early stages for mobile broadband market; first launch of a Nepalese satellite (2020) |
+| Telecommunication systems: | domestic: 3G coverage is available in 20 major cities (2019); disparity between high coverage in cities and coverage available in underdeveloped rural regions; fixed-line 3 per 100 persons and mobile-cellular 139 per 100 persons; fair radiotelephone communication service; 20% of the market share is fixed (wired) broadband, 2% is fixed (wireless) broadband, and 78% is mobile broadband (2019) |
+| Telecommunication systems: | international: country code - 977; Nepal, China and Tibet connected across borders with underground and all-dielectric self-supporting (ADSS) fiber-optic cables; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | state operates 3 TV stations, as well as national and regional radio stations; 117 television channels are licensed, among those 71 are cable television channels,Â three are distributed throughÂ Direct-To-Home (DTH) system, and four are digital terrestrial;Â 736 FM radio stations are licensed and at least 314 of those radio stations are community radio stations (2019) |
+| Internet country code: | .np |
+| Internet users: | total: 10,103,980 |
+| Internet users: | percent of population: 34% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 791,961 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 3 (2018 est.) |

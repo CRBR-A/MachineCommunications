@@ -1,0 +1,11 @@
+| Communications | Curacao |
+| --- | --- |
+| Telephones - main lines in use: | NA |
+| Telephones - mobile cellular: | NA |
+| Telephone system: | general assessment: NA |
+| Telephone system: | domestic: NA |
+| Telephone system: | international: country code - 599 |
+| Broadcast media: | government-run Telecuracao operates a TV station and a radio station; several privately-owned radio stations |
+| Internet country code: | .cw; note - IANA has designated .cw for Curacao, but has not yet assigned it to a sponsoring organization |
+| Internet hosts: | NA |
+| Internet users: | NA |

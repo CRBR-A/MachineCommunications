@@ -1,0 +1,18 @@
+| Communications | Cuba |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 1,475,679 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 13.31 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 5,911,586 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 53.32 (2019 est.) |
+| Telecommunication systems: | general assessment: lowest mobile phone and Internet penetration rates in the region, fixed-line teledensity is also low; fixed-line and mobile services run by the state-run ETESCA; mobile-cellular telephone service is expensive and must be paid in convertible pesos; the Cuban Government has opened several hundred Wi-Fi hotspots around the island, which are expensive, and launched a new residential Internet pilot in Havana and other provinces; as of 2018, 3G mobile service is available, if limited (2020) |
+| Telecommunication systems: | domestic: fixed-line density remains low at about 13 per 100 inhabitants; mobile-cellular service is expanding to about 53 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 53; the ALBA-1, GTMO-1,Â and GTMO-PRÂ fiber-optic submarine cables link Cuba, Jamaica, and Venezuela;Â satellite earth station - 1 Intersputnik (Atlantic Ocean region) (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | Government owns and controls all broadcast media: five national TV channels (Cubavision, Tele Rebelde, Multivision, Educational Channel 1 and 2,)Â 2 international channels (Cubavision Internacional and Caribe,) 16 regional TV stations,Â 6 national radio networks and multiple regional stations; the Cuban government beams over the Radio-TV Marti signal;Â although private ownership of electronic media is prohibited, several online independent news sites exist; those that are not openly critical of the government are often tolerated; the others are blocked by the government; there are no independent TV channels, but several outlets have created strong audiovisual content (El Toque, for example);Â a community of young Youtubers is also growing, mostly with channels about sports, technology and fashion; Christian denominations are creating original video content to distribute via social media |
+| Broadcast media: | (2019) |
+| Internet country code: | .cu |
+| Internet users: | total: 6,353,020 |
+| Internet users: | percent of population: 57.15% (July 2018 est.) |
+| Internet users: | note: private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet" |
+| Broadband - fixed subscriptions: | total: 98,838 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 less than 1 (2018 est.) |

@@ -1,0 +1,6 @@
+| Communications | Western Sahara |
+| --- | --- |
+| Telephone system: | general assessment: sparse and limited system (2015) |
+| Telephone system: | international: country code - 212; tied into Morocco's system by microwave radio relay, tropospheric scatter, and satellite; satellite earth stations - 2 Intelsat (Atlantic Ocean) linked to Rabat, Morocco (2015) |
+| Broadcast media: | Morocco's state-owned broadcaster, Radio-Television Marocaine (RTM), operates a radio service from Laayoune and relays TV service; a Polisario-backed radio station also broadcasts (2008) |
+| Internet country code: | .eh |

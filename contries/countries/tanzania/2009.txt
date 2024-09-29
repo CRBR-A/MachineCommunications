@@ -1,0 +1,12 @@
+| Communications | Tanzania |
+| --- | --- |
+| Telephones - main lines in use: | 179,849 (2009) |
+| Telephones - mobile cellular: | 14.723 million (2009) |
+| Telephone system: | general assessment: telecommunications services are inadequate; system operating below capacity and being modernized for better service; small aperture terminal (VSAT) system under construction |
+| Telephone system: | domestic: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital |
+| Telephone system: | international: country code - 255; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) |
+| Radio broadcast stations: | AM 12, FM 11, shortwave 2 (1998) |
+| Television broadcast stations: | 3 (1999) |
+| Internet country code: | .tz |
+| Internet hosts: | 24,724 (2009) |
+| Internet users: | 520,000 (2008) |

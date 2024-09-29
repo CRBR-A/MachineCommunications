@@ -1,0 +1,12 @@
+| Communications |   |
+| --- | --- |
+| Telephones - main lines in use: | 18.95 million (1999) |
+| Telephones - mobile cellular: | 1.9 million (April 1998) |
+| Telephone system: | mediocre service; local and long distance service provided throughout all regions of the country, with services primarily concentrated in the urban areas; major objective is to continue to expand and modernize long-distance network in order to keep pace with rapidly growing number of local subscriber lines; steady improvement is taking place with the recent admission of private and private-public investors, but demand for communication services is also growing rapidly |
+| domestic: | local service is provided by microwave radio relay and coaxial cable, with open wire and obsolete electromechanical and manual switchboard systems still in use in rural areas; starting in the 1980s, a substantial amount of digital switch gear has been introduced for local and long-distance service; long-distance traffic is carried mostly by coaxial cable and low-capacity microwave radio relay; since 1985 significant trunk capacity has been added in the form of fiber-optic cable and a domestic satellite system with 254 earth stations; mobile cellular service is provided in four metropolitan cities |
+| international: | satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region); nine gateway exchanges operating from Mumbai (Bombay), New Delhi, Calcutta, Chennai (Madras), Jalandhar, Kanpur, Gaidhinagar, Hyderabad, and Ernakulam; 4 submarine cables - LOCOM linking Chennai (Madras) to Penang; Indo-UAE-Gulf cable linking Mumbai (Bombay) to Al Fujayrah, UAE; India-SEA-ME-WE-3, SEA-ME-WE-2 with landing sites at Cochin and Mumbai (Bombay); Fiber-Optic Link Around the Globe (FLAG) with landing site at Mumbai (Bombay) |
+| Radio broadcast stations: | AM 153, FM 91, shortwave 68 (1998) |
+| Radios: | 116 million (1997) |
+| Television broadcast stations: | 562 (of which 82 stations have 1 kW or greater power and 480 stations have less than 1 kW of power) (1997) |
+| Televisions: | 63 million (1997) |
+| Internet Service Providers (ISPs): | 3 (1999) |

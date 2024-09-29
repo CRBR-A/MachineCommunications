@@ -1,0 +1,11 @@
+| Communications | Estonia |
+| --- | --- |
+| Telephones - main lines in use: | 448,200 (2012) |
+| Telephones - mobile cellular: | 2.07 million (2012) |
+| Telephone system: | general assessment: foreign investment in the form of joint business ventures greatly improved telephone service with a wide range of high quality voice, data, and Internet services available |
+| Telephone system: | domestic: substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income-tax returns online, and online voting was used for the first time in the 2005 local elections |
+| Telephone system: | international: country code - 372; fiber-optic cables to Finland, Sweden, Latvia, and Russia provide worldwide packet-switched service; 2 international switches are located in Tallinn (2011) |
+| Broadcast media: | the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 2 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service; a range of channels are aimed at Russian-speaking viewers; high penetration rate for cable TV services with more than half of Estonian households connected (2008) |
+| Internet country code: | .ee |
+| Internet hosts: | 865,494 (2012) |
+| Internet users: | 971,700 (2009) |

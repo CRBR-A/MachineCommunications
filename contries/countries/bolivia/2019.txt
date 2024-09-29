@@ -1,0 +1,15 @@
+| Communications | Bolivia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 851,110 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 8 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 10,106,216 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 91 (July 2016 est.) |
+| Telephone system: | general assessment: state-owned Empresa Nacional de Telecomunicaciones (Entel) is the country's incumbent long-distance operator, and offers local telephone service, DSL, and satellite TV; Â its subsidiary Entel Movil is Bolivia's largest mobile network provider, reliability, and coverage have steadily improved, but some remote areas are still underserved; EntelÂ plans to extend fiber to all 339 municipal capital cities by 2022;Â MNP (mobile number potability) launched in October 2018; Bolivian Space Agency planning to launch a second telecom satellite after 2020 (2019) |
+| Telephone system: | domestic: most telephones are concentrated in La Paz, Santa Cruz, and other capital cities; 8 per 100 fixed-line, mobile-cellular telephone use expanding rapidly and teledensity stands at 91 per 100 persons (2018) |
+| Telephone system: | international: country code - 591; satellite earth station - 1 Intelsat (Atlantic Ocean); Bolivia has no direct access to submarine cable networks and must therefore connect to the rest of the world either via satellite or through terrestrial links across neighboring countries (2019) |
+| Broadcast media: | large number of radio and TV stations broadcasting with private media outlets dominating; state-owned and private radio and TV stations generally operating freely, although both pro-government and anti-government groups have attacked media outlets in response to their reporting |
+| Internet country code: | .bo |
+| Internet users: | total: 4,354,678 |
+| Internet users: | percent of population: 39.7% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 358,680 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 3 (2017 est.) |

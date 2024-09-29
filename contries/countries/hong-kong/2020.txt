@@ -1,0 +1,16 @@
+| Communications | Hong Kong |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 3,942,605 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 54.51 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 20,868,827 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 288.53 (2019 est.) |
+| Telecommunication systems: | general assessment: excellent domestic and international services; some of the highest peak average broadband speeds in the world; HK aims toÂ be amongÂ the earliest adopters of 5G mobile technology; almost all households have access to high-speed broadband connectivity; HK broadband penetration rate is among the highest in the world; in the next five years the governmentÂ has organizedÂ the development ofÂ 'smart cities' in six areasÂ -Â "smart mobility", "smart living", "smart environment", "smart people", "smart government", and "smart economy" Â by 2024 (2020) |
+| Telecommunication systems: | domestic: microwave radio relay links and extensive fiber-optic network; fixed-line is 55 per 100 and mobile-cellular is 289 per 100 (2019) |
+| Telecommunication systems: | international: country code - 852;Â landing points for the APG, ASE, EAC-C2C, HK-G,Â Bay-to-Bay Express Cable System, H2 Cable,Â HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, APCN-2, AAG, FLAGÂ and FEAÂ submarine cables that provide connections to Asia, US, Australia, the Middle East, andÂ Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2019) |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Broadcast media: | 4 commercial terrestrial TV networks each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters of terrestrial radio, one of which is government funded, operate about 12 radio stations; note - 4 digital radio broadcasters operated in Hong Kong from 2010 to 2017, but all digital radio services were terminated in September 2017 due to weak market demand (2019) |
+| Internet country code: | .hk |
+| Internet users: | total: 6,450,167 |
+| Internet users: | percent of population: 89.42% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 2,714,679 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 38 (2018 est.) |

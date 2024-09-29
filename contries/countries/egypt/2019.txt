@@ -1,0 +1,16 @@
+| Communications | Egypt |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 6,604,849 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 7 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 102,958,194 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 106 (2017 est.) |
+| Telephone system: | general assessment: one of the largest fixed-line systems in Africa and the Arab region; 4 mobile-cellular networks (3 international andÂ 1 local)Â cover most populated area of Egypt; Telecom Egypt, the country's only fixed-line operator, is 80% state owned;Â principal centers at Alexandria, Cairo, Al Mansurah, Ismailia, Suez, and Tanta are connected by coaxial cable and microwave radio relay; launch of LTE in late 2017 greatlyÂ helped the capabilities of mobile broadband services and will continue to do soÂ for future development (2018) |
+| Telephone system: | domestic: fixed-lineÂ 8 per 100, mobile-cellularÂ 101 per 100 (2018) |
+| Telephone system: | international: country code - 20; landing point for Aletar, Africa-1, FEA, Hawk, IMEWE,Â and the SEA-ME-WE-3 & 4Â submarine cable networks linking to Asia, Africa, the Middle East, and AustraliaÂ ; satellite earth stations - 4 (2 Intelsat - Atlantic Ocean and Indian Ocean, 1 Arabsat, and 1 Inmarsat); tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel (2019) |
+| Broadcast media: | mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; dozens of private satellite channels and a large number of Arabic satellite channels are available for free; some limited satellite services are also available via subscription; state-run radio operates about 30 stations belonging to 8 networks; privately-owned radio includes 8 major stations, 4 of which belong to 1 network (2019) |
+| Internet country code: | .eg |
+| Internet users: | total: 39,097,468 |
+| Internet users: | percent of population: 41.3% (2016 est.) |
+| Broadband - fixed subscriptions: | total: 5,223,311 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 5 (2017 est.) |
+| Communications - note: | one of the largest and most famous libraries in the ancient world was the Great Library of Alexandria in Egypt (founded about 295 B.C., it may have survived in some form into the 5th century A.D.); seeking to resurrect the great center of learning and communication, the Egyptian Government in 2002 inaugurated the Bibliotheca Alexandrina, an Egyptian National Library on the site of the original Great Library, which commemorates the original archive and also serves as a center of cultural and scientific excellence |

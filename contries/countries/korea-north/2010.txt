@@ -1,0 +1,9 @@
+| Communications | Korea, North |
+| --- | --- |
+| Telephones - main lines in use: | 1.18 million (2008) |
+| Telephone system: | general assessment: adequate system; nationwide fiber-optic network; mobile-cellular service expanding beyond Pyongyang |
+| Telephone system: | domestic: fiber-optic links installed down to the county level; telephone directories unavailable; mobile-cellular service, initiated in 2002, suspended in 2004; Orascom Telecom, an Egyptian company, launched mobile service on December 15, 2008 for the Pyongyang area with plans to expand nationwide |
+| Telephone system: | international: country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing (2009) |
+| Broadcast media: | no independent media; radios and televisions are pre-tuned to government stations; 4 government-owned television stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts (2008) |
+| Internet country code: | .kp |
+| Internet hosts: | 3 (2010) |

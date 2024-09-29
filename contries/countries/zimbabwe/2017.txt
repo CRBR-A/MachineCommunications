@@ -1,0 +1,13 @@
+| Communications | ZIMBABWE |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 305,720 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 2 (July 2016 est.) |
+| Telephones - mobile cellular: | total: 12,878,926 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 89 (July 2016 est.) |
+| Telephone system: | general assessment: competition has driven rapid expansion of telecommunications, particularly cellular voice and mobile broadband, in recent years; continued economic instability and infrastructure limitations, such as reliable power, hinder progress |
+| Telephone system: | domestic: consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, fiber-optic cable, VSAT terminals, and a substantial mobile-cellular network; Internet connection is most readily available in Harare and major towns; two government owned and two private cellular providers; 3G and VoIP services are widely available with 4G/LTE service being deployed |
+| Telephone system: | international: country code - 263; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges; fiber-optic connections to neighboring states provide access to international networks via undersea cable (2017) |
+| Broadcast media: | government owns all local radio and TV stations; foreign shortwave broadcasts and satellite TV are available to those who can afford antennas and receivers; in rural areas, access to TV broadcasts is extremely limited; analog TV only, no digital service (2017) |
+| Internet country code: | .zw |
+| Internet users: | total: 3,363,256 |
+| Internet users: | percent of population: 23.1% (July 2016 est.) |

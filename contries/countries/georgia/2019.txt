@@ -1,0 +1,16 @@
+| Communications | Georgia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 713,826 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 14 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 5,730,625 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 116 (2017 est.) |
+| Telephone system: | general assessment: fixed-line telecommunications network has limited coverage outside Tbilisi; multiple mobile-cellular providers provide services to an increasing subscribership throughout the country; broadband subscribers steadily increasing; with the recent investment in infrastructure customers are moving from copper to fiber networks (2018) |
+| Telephone system: | domestic: fixed-line 14 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 116 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi (2018) |
+| Telephone system: | international: country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019) |
+| Broadcast media: | The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 2 as well as the Batumi-based Adjara TV, and the State Budget funds all three;Â there are also a number of independent commercial television broadcasters, such as Imedi,Â Rustavi 2, Pirveli TV, Maestro, Kavkasia, Georgian Dream Studios (GDS), Obiektivi, and a small Russian language operator TOK TV; Tabula and Post TV are web-based television outlets;Â all of these broadcasters and web-based television outlets, except GDS, carry the news;Â the Georgian Orthodox Church also operates a satellite-based television station called Unanimity; there are 26 regional television broadcasters across Georgia that are members of the Georgian Association of Regional Broadcasters and/or the Alliance of Georgian Broadcasters; the broadcaster organizations seek to strengthen the regional media's capacities and distribution of regional products: a nationwide digital switchover occurred in 2015; there are several dozen private radio stations; GPB operates 2 radio stations |
+| Broadcast media: | (2019) |
+| Internet country code: | .ge |
+| Internet users: | total: 2,464,107 |
+| Internet users: | percent of population: 50% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 770,113 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 16 (2017 est.) |

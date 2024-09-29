@@ -1,0 +1,15 @@
+| Communications | Serbia |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 2,060,005 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 29.24 (2019 est.) |
+| Telephones - mobile cellular: | total subscriptions: 6,789,423 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 96.37 (2019 est.) |
+| Telecommunication systems: | general assessment: Serbia's integration with the EU has helped regulator reforms and promotion of telecoms; wireless serviceÂ isÂ available through multiple providers; national coverage is growing very rapidly; best telecommunications services are centered in urban centers; 4G/LTE mobile network launched; 5G trials; high mobile penetration the result of multiple SIM cards (2020) |
+| Telecommunication systems: | domestic: fixed-line 29 per 100 and mobile-cellular 96 per 100 persons (2019) |
+| Telecommunication systems: | international: country code - 381 |
+| Telecommunication systems: | note: the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated |
+| Internet country code: | .rs |
+| Internet users: | total: 5,192,501 |
+| Internet users: | percent of population: 73.36% (July 2018 est.) |
+| Broadband - fixed subscriptions: | total: 1,552,160 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 22 (2018 est.) |

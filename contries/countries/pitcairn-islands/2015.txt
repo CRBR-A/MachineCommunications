@@ -1,0 +1,9 @@
+| Communications | PITCAIRN ISLANDS |
+| --- | --- |
+| Telephone system: | general assessment: satellite-based phone services |
+| Telephone system: | domestic: local phone service with international connections via Internet |
+| Telephone system: | international: country code - 872; satellite earth station - 1 (Inmarsat) |
+| Broadcast media: | satellite TV from Fiji-based Sky Pacific offering a wide range of international channels |
+| Radio broadcast stations: | AM 1, FM 0, shortwave 0 (15 ham radio operators (VP6)) (2004) |
+| Internet country code: | .pn |
+| Communications - note: | satellite-based local phone service and broadband Internet connections available in all homes |

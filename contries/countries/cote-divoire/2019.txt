@@ -1,0 +1,15 @@
+| Communications | Cote d'Ivoire |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 305,562 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 31,747,233 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 131 (2017 est.) |
+| Telephone system: | general assessment: well-developed by African standards; telecommunications sector privatized in late 1990s and operational fixed-lines have increased since that time with 2 fixed-line providers operating over open-wire lines, microwave radio relay, and fiber-optics; 90% digitalized; CÃ´te d'Ivoire continues to benefit from strong economic growth; the fixed Internet and broadband sectors have remained lagging (2018) |
+| Telephone system: | domestic: less than 1 per 100 fixed-line, with multiple mobile-cellular service providers competing in the market, usage has increased sharply to aboutÂ 131 per 100 persons (2018) |
+| Telephone system: | international: country code - 225; landing point for the SAT-3/WASC, ACE, MainOne, and WACSÂ fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2019) |
+| Broadcast media: | state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up ofÂ 2 radios stations (Radio Cote d'Ivoire and Frequence2) andÂ 2 television stations (RTI1 and RTI2), with nationwide coverage, broadcasts mainly in French; after 2011 post-electoral crisis, President OUATTARA's administration reopened RTI Bouake', the broadcaster'sÂ office in Cote d'Ivoire's 2nd largest city, where facilities were destroyed during the 2002 rebellion; Cote d'Ivoire is also home to 178 proximity radios stations, 16 religious radios stations, 5 commercial radios stations, and 5 international radios stations, according to the Haute Autorite' de la Communication Audiovisuelle (HACA); govt now runs radio UNOCIFM, a radio station previously owned by the UN Operation in Cote d'Ivoire; in Dec 2016, the govt announced 4 companies had been granted licenses to operate -Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI, out of the 4 companies only one has started operating (2019) |
+| Internet country code: | .ci |
+| Internet users: | total: 6,297,676 |
+| Internet users: | percent of population: 26.5% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 142,825 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 1 (2017 est.) |

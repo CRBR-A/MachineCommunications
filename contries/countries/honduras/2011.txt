@@ -1,0 +1,11 @@
+| Communications | Honduras |
+| --- | --- |
+| Telephones - main lines in use: | 669,500 (2010) |
+| Telephones - mobile cellular: | 9.505 million (2010) |
+| Telephone system: | general assessment: the number of fixed-line connections are increasing but still limited; competition among multiple providers of mobile-cellular services is contributing to a sharp increase in the number of subscribers |
+| Telephone system: | domestic: beginning in 2003, private sub-operators allowed to provide fixed-lines in order to expand telephone coverage contributing to an increase in fixed-line teledensity to roughly 10 per 100 persons; mobile-cellular subscribership reached 100 per 100 persons in 2009 |
+| Telephone system: | international: country code - 504; landing point for both the Americas Region Caribbean Ring System (ARCOS-1) and the MAYA-1 fiber optic submarine cable system that together provide connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to Central American Microwave System |
+| Broadcast media: | multiple privately-owned terrestrial television networks, supplemented by multiple cable TV networks; Radio Honduras is the lone government-owned radio network; roughly 300 privately-owned radio stations (2007) |
+| Internet country code: | .hn |
+| Internet hosts: | 16,075 (2010) |
+| Internet users: | 731,700 (2009) |

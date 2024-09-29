@@ -1,0 +1,15 @@
+| Communications | Algeria |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 3,130,090 |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: 8 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 49,873,389 |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 122 (2017 est.) |
+| Telephone system: | general assessment: privatization of Algeria's telecommunications sector began in 2000; three mobile-cellular licenses have been issued;Â regulator permits network operators to extend LTE services to additional provinces;Â a consortium led by Egypt's Orascom Telecom won a 15-year license to build and operate a fixed-line network in Algeria; migration to 5G (2018) |
+| Telephone system: | domestic: a limited network of fixed-lines with a teledensity of less than 10 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was roughly 122 telephones per 100 persons (2018) |
+| Telephone system: | international: country code - 213;Â ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;Â ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;Â microwave radio relay to Italy, France, Spain, Morocco, and Tunisia; coaxial cable to Morocco and Tunisia; new submarine cables to link to the US and France (2019) |
+| Broadcast media: | state-run Radio-Television Algerienne operates the broadcast media and carries programming in Arabic, Berber dialects, and French; use of satellite dishes is widespread, providing easy access to European and Arab satellite stations; state-run radio operates several national networks and roughly 40 regional radio stations |
+| Internet country code: | .dz |
+| Internet users: | total: 17,291,463 |
+| Internet users: | percent of population: 42.9% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 3,166,907 |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: 8 (2017 est.) |

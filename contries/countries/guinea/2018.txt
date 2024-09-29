@@ -1,0 +1,15 @@
+| Communications | Guinea |
+| --- | --- |
+| Telephones - fixed lines: | total subscriptions: 0 (2017 est.) |
+| Telephones - fixed lines: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |
+| Telephones - mobile cellular: | total subscriptions: 10.8 million (July 2016 est.) |
+| Telephones - mobile cellular: | subscriptions per 100 inhabitants: 87 (July 2016 est.) |
+| Telephone system: | general assessment: huge improvement over the last 10 years; the capital and the regional administrative centers have 3G access; in 2013Â the set up of an IXP (Internet Exchange Point)Â will reduce cost of internet bandwith and improve infrastructure (2017) |
+| Telephone system: | domestic: there is national coverage and Conakry is reasonably well-served; coverage elsewhere remains inadequate but is improving; fixed-line teledensity less than 1 per 100 persons; mobile-cellular subscribership is expanding rapidly and now approaches 90 per 100 persons (2017) |
+| Telephone system: | international: country code - 224; satellite earth station - 1 Intelsat (Atlantic Ocean); first international fibre optic submarine cableÂ installed in 2012 (2017) |
+| Broadcast media: | government maintains marginal control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services (2011) |
+| Internet country code: | .gn |
+| Internet users: | total: 1,185,148 (July 2016 est.) |
+| Internet users: | percent of population: 9.8% (July 2016 est.) |
+| Broadband - fixed subscriptions: | total: 1,100 (2017 est.) |
+| Broadband - fixed subscriptions: | subscriptions per 100 inhabitants: less than 1 (2017 est.) |
